@@ -1,0 +1,55 @@
+{
+  "id": "ca-022",
+  "lang": "ca",
+  "title": "L'eriçó que punxava",
+  "genre": "fabula",
+  "level": 1,
+  "emoji": "🦔",
+  "text": "Al bosc vivia un eriçó que es deia Punxetes. Els altres animals no volien jugar amb ell.\n\n—Punxa massa! —deien els conills.\n\nEn Punxetes passava les tardes sol, sota un avellaner.\n\nUn dia, mentre els conillets jugaven al prat, va aparèixer una guineu amb molta gana. Els conillets es van quedar quiets de por.\n\nEn Punxetes va córrer cap a ells i es va fer una bola al seu davant. La guineu el va voler mossegar, però es va punxar el nas.\n\n—Ai, ai, ai! —va cridar, i va fugir corrents.\n\nEls conillets van abraçar en Punxetes amb compte.\n\n—Gràcies! Ets el millor amic del bosc.\n\nMoral: no jutgis ningú per com és per fora.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Per què els conills no volien jugar amb l'eriçó?",
+      "options": [
+        "Perquè era lent",
+        "Perquè punxava",
+        "Perquè era molt petit"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "En Punxetes passava les tardes sota un avellaner.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Quin animal va aparèixer al prat?",
+      "options": [
+        "Una guineu",
+        "Un llop",
+        "Un falcó"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Què va fer en Punxetes per protegir els conillets?",
+      "options": [
+        "Va cridar molt fort",
+        "Va anar a buscar ajuda",
+        "Es va fer una bola al seu davant"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Al final, els conills continuen sense voler ser amics d'en Punxetes.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    1,
+    2
+  ]
+}

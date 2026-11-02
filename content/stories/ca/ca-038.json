@@ -1,0 +1,55 @@
+{
+  "id": "ca-038",
+  "lang": "ca",
+  "title": "Dofins a prop de la costa",
+  "genre": "noticia",
+  "level": 1,
+  "emoji": "🐬",
+  "text": "Ahir al matí, uns pescadors del port de Portblanc van veure un grup de dofins molt a prop de la costa.\n\nEren set dofins, i dos eren cries. Nedaven i saltaven per sobre de l'aigua. Molta gent va anar a la platja per veure'ls.\n\n«Feia molts anys que no en veia tan a prop», explica en Ramon, un pescador de setanta anys.\n\nEls científics diuen que els dofins s'acosten a la costa quan l'aigua està neta i hi ha molts peixos per menjar. Per això, és una molt bona notícia.\n\nEls experts demanen que, si veiem dofins, no ens hi acostem amb barques. Així no els espantarem.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Quants dofins van veure?",
+      "options": [
+        "Set",
+        "Dos",
+        "Deu"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Qui és en Ramon?",
+      "options": [
+        "Un científic",
+        "Un pescador",
+        "Un mestre"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Tots els dofins del grup eren adults.",
+      "answer": false
+    },
+    {
+      "type": "tf",
+      "q": "Si vénen dofins, vol dir que l'aigua està neta.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Què demanen els experts?",
+      "options": [
+        "Que donem menjar als dofins",
+        "Que ens banyem amb ells",
+        "Que no ens hi acostem amb barques"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

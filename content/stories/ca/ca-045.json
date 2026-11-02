@@ -1,0 +1,55 @@
+{
+  "id": "ca-045",
+  "lang": "ca",
+  "title": "La lluna que es va banyar al mar",
+  "genre": "fantasia",
+  "level": 1,
+  "emoji": "🌙",
+  "text": "Una nit d'estiu, la Lluna tenia molta calor.\n\n—Quina enveja que em fan els peixos! —va dir—. Ells sempre estan fresquets.\n\nAixí que va baixar del cel a poc a poc i es va ficar dins del mar. Els peixos es van posar molt contents. Mai no havien tingut tanta llum!\n\nPerò, a dalt, el cel s'havia quedat fosc. Els mariners no veien el camí i els mussols no trobaven els seus nius.\n\nUn dofí molt savi li va dir:\n\n—Lluna, el cel et necessita.\n\nLa Lluna ho va entendre. Va tornar a pujar al cel, tota mullada i brillant.\n\nPer això, encara avui, quan hi ha lluna plena, es reflecteix al mar. És la Lluna, que mira l'aigua i recorda aquell bany tan bo.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Per què la Lluna va baixar al mar?",
+      "options": [
+        "Perquè tenia calor",
+        "Perquè volia pescar",
+        "Perquè estava cansada"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Els peixos es van enfadar quan va arribar la Lluna.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "Què va passar al cel quan la Lluna no hi era?",
+      "options": [
+        "Va ploure",
+        "Es va quedar fosc",
+        "Va sortir el sol"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Qui li va dir a la Lluna que el cel la necessitava?",
+      "options": [
+        "Un mussol",
+        "Un mariner",
+        "Un dofí"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Segons la història, quan la Lluna es reflecteix al mar recorda aquell bany.",
+      "answer": true
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

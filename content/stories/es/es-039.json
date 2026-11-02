@@ -1,0 +1,55 @@
+{
+  "id": "es-039",
+  "lang": "es",
+  "title": "El tambor de la discordia",
+  "genre": "cuento",
+  "level": 2,
+  "emoji": "🥁",
+  "text": "En la clase de Música de quinto, el profesor Emilio anunció que iban a preparar un concierto para la fiesta de invierno. Cada alumno tocaría un instrumento, y uno de ellos tendría el papel más especial: el gran tambor que marcaría el ritmo de toda la orquesta.\n\nDaniela y Nicolás, que eran amigos desde infantil, levantaron la mano a la vez.\n\n—¡Yo quiero el tambor! —dijeron los dos.\n\nEl profesor les pidió que lo hablaran entre ellos. Pero en el recreo, en lugar de hablar, discutieron. Daniela dijo que ella tenía más ritmo. Nicolás respondió que él lo había pedido primero. Al final, cada uno se fue por su lado, enfadado.\n\nDurante dos días no se dirigieron la palabra. Daniela jugaba sola en el patio y Nicolás miraba por la ventana sin ganas de nada. Los dos se aburrían muchísimo.\n\nEl tercer día, Nicolás se acercó a Daniela con la cabeza baja.\n\n—Te echo de menos —le dijo—. El tambor no es tan importante como tú.\n\nDaniela sonrió, aliviada.\n\n—Yo también te echo de menos. ¿Y si tocamos el tambor juntos? Tú puedes empezar la canción y yo terminarla.\n\nFueron a contárselo al profesor Emilio, que aplaudió la idea. El día del concierto, los dos amigos se turnaron con las baquetas, y el público dijo que aquel había sido el ritmo más alegre de toda la fiesta.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Qué instrumento querían tocar los dos?",
+      "options": [
+        "La flauta",
+        "El gran tambor",
+        "La guitarra"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Daniela y Nicolás eran amigos desde infantil.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Cuántos días estuvieron sin hablarse?",
+      "options": [
+        "Una semana",
+        "Un día",
+        "Dos días"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "¿Cómo resolvieron el problema?",
+      "options": [
+        "Tocaron el tambor por turnos",
+        "El profesor eligió a Daniela",
+        "Nicolás eligió otro instrumento"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Mientras estaban enfadados, se lo pasaban muy bien.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

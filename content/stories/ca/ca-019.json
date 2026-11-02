@@ -1,0 +1,55 @@
+{
+  "id": "ca-019",
+  "lang": "ca",
+  "title": "La primera calçotada d'en Jan",
+  "genre": "cuento",
+  "level": 2,
+  "emoji": "🧅",
+  "text": "Aquell diumenge de febrer, tota la família es va reunir al mas dels tiets, a prop de Valls. Era la primera calçotada d'en Jan, i el seu cosí Oriol l'havia avisat:\n\n—Prepara't, que acabaràs amb la cara negra!\n\nAl matí, el tiet Pere va encendre un foc amb sarments de vinya. Quan les flames van baixar, hi va posar els calçots en fila, sobre una graella gran. En Jan mirava com es tornaven negres per fora.\n\n—Es cremen! —va cridar, preocupat.\n\n—No pateixis, han de quedar així —va riure el tiet.\n\nDesprés els van embolicar amb paper de diari perquè acabessin de coure's. Mentrestant, l'àvia preparava la salsa de romesco amb ametlles, tomàquets i pebrots.\n\nA l'hora de dinar, tothom es va posar un pitet de paper. L'Oriol li va ensenyar com s'havia de fer: agafar el calçot per dalt, estirar la pell negra cap avall i sucar-lo a la salsa. Després, cal aixecar-lo ben amunt i menjar-se'l mirant al cel.\n\nEl primer calçot d'en Jan va acabar a terra. El segon, a la samarreta. Però el tercer va anar directe a la boca.\n\n—Boníssim! —va dir, amb romesco fins a les orelles.\n\nTothom va riure, i l'àvia li va fer una foto per recordar aquella primera calçotada.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "En quin mes es fa la calçotada?",
+      "options": [
+        "Al febrer",
+        "A l'agost",
+        "Al desembre"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "En Jan es va preocupar perquè pensava que els calçots es cremaven.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Qui prepara la salsa de romesco?",
+      "options": [
+        "El tiet Pere",
+        "L'Oriol",
+        "L'àvia"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "On va anar a parar el segon calçot d'en Jan?",
+      "options": [
+        "A terra",
+        "A la samarreta",
+        "A la boca"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "En Jan es va menjar el primer calçot sense cap problema.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

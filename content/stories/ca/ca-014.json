@@ -1,0 +1,55 @@
+{
+  "id": "ca-014",
+  "lang": "ca",
+  "title": "Un punt de llibre per Sant Jordi",
+  "genre": "instrucciones",
+  "level": 1,
+  "emoji": "🔖",
+  "text": "Per Sant Jordi pots regalar un punt de llibre fet per tu. És molt fàcil!\n\nQuè necessites:\n- Una cartolina blanca\n- Llapis de colors\n- Unes tisores\n- Un tros de cinta vermella\n- Una perforadora (o un adult que t'ajudi)\n\nPassos:\n\n1. Retalla un rectangle de cartolina, llarg i estret, de la mida de la teva mà.\n\n2. Dibuixa-hi una rosa vermella, un drac verd o un cavaller. També hi pots escriure el nom de la persona a qui el regalaràs.\n\n3. Fes un forat a la part de dalt amb la perforadora.\n\n4. Passa la cinta pel forat i fes-hi un nus.\n\nJa està! Ara només cal posar-lo dins d'un llibre i regalar-lo amb un somriure.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "De quin color ha de ser la cinta?",
+      "options": [
+        "Blava",
+        "Groga",
+        "Vermella"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Quina forma ha de tenir el tros de cartolina?",
+      "options": [
+        "Un rectangle llarg i estret",
+        "Un cercle",
+        "Un triangle"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Al punt de llibre hi pots escriure el nom de la persona a qui el regalaràs.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Què s'ha de fer just després de fer el forat?",
+      "options": [
+        "Dibuixar una rosa",
+        "Passar la cinta i fer-hi un nus",
+        "Retallar la cartolina"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Per fer aquest punt de llibre necessites pintura i pinzells.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

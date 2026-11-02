@@ -1,0 +1,55 @@
+{
+  "id": "es-005",
+  "lang": "es",
+  "title": "La hormiga y la mariquita",
+  "genre": "fabula",
+  "level": 1,
+  "emoji": "🐞",
+  "text": "Una mañana de verano, una hormiga llevaba una miga de pan muy grande. Pesaba tanto que casi no podía andar.\n\nUna mariquita la vio desde una hoja.\n\n—¿Por qué no la partes en trozos? —le preguntó.\n\n—Porque soy fuerte y puedo sola —contestó la hormiga, muy orgullosa.\n\nLa hormiga siguió empujando. Subió una piedra y la miga se cayó rodando. Lo intentó otra vez, y otra, pero siempre se le caía.\n\nAl final, muy cansada, se sentó en el suelo. La mariquita bajó volando y le ayudó a partir la miga en tres trozos. En un momento, las dos llegaron al hormiguero.\n\n—Gracias, amiga —dijo la hormiga—. Hoy he aprendido algo.\n\nMoraleja: pedir ayuda no es ser débil, sino ser listo.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Qué llevaba la hormiga?",
+      "options": [
+        "Una hoja",
+        "Una miga de pan",
+        "Una semilla"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "La hormiga aceptó el consejo de la mariquita a la primera.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Dónde se le caía la miga a la hormiga?",
+      "options": [
+        "Al subir una piedra",
+        "Al cruzar un río",
+        "Al entrar en el hormiguero"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "La mariquita partió la miga en tres trozos.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Cuál es la moraleja de la fábula?",
+      "options": [
+        "Hay que hacerlo todo solo",
+        "Las mariquitas son más fuertes que las hormigas",
+        "Pedir ayuda es de listos"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    3
+  ]
+}

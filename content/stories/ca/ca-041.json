@@ -1,0 +1,55 @@
+{
+  "id": "ca-041",
+  "lang": "ca",
+  "title": "Amics un altre cop",
+  "genre": "cuento",
+  "level": 1,
+  "emoji": "🤝",
+  "text": "La Sara i l'Aleix són molt amics. Sempre juguen junts al pati.\n\nUn dia, van discutir per la pilota. Tots dos la volien. L'Aleix la va estirar i la Sara va caure a terra.\n\n—Ja no ets el meu amic! —va cridar la Sara.\n\nAquella tarda, l'Aleix estava molt trist. No podia ni berenar. La seva mare li va preguntar què li passava, i ell li ho va explicar.\n\n—Potser has de demanar perdó —li va dir la mare.\n\nL'endemà, l'Aleix es va acostar a la Sara amb un dibuix. Hi havia dibuixat dos amics jugant amb una pilota.\n\n—Perdona'm, Sara. No ho tornaré a fer.\n\nLa Sara va somriure.\n\n—T'ho perdono. I a partir d'ara, la pilota la compartirem!",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Per què van discutir la Sara i l'Aleix?",
+      "options": [
+        "Per un dibuix",
+        "Per la pilota",
+        "Per un berenar"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "La Sara va caure a terra.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Qui va aconsellar a l'Aleix que demanés perdó?",
+      "options": [
+        "La seva mare",
+        "La mestra",
+        "La Sara"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Què li va portar l'Aleix a la Sara?",
+      "options": [
+        "Una pilota nova",
+        "Un llibre",
+        "Un dibuix"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Al final, la Sara i l'Aleix continuen enfadats.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    3
+  ]
+}

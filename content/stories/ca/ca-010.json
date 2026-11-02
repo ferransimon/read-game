@@ -1,0 +1,55 @@
+{
+  "id": "ca-010",
+  "lang": "ca",
+  "title": "Diari de colònies",
+  "genre": "diario",
+  "level": 2,
+  "emoji": "📔",
+  "text": "Dilluns, 12 de maig\n\nAvui hem arribat a la casa de colònies, a prop de Ribes de Freser. El viatge en autocar ha estat llarg i la Paula s'ha marejat una mica. Comparteixo habitació amb la Paula, la Sara i la Jana. Jo dormo a la llitera de dalt!\n\nDimarts, 13 de maig\n\nAvui hem fet una excursió fins a un riu. Hem vist gripaus, libèl·lules i un ocell blau que es diu blauet. El monitor, en Xavi, ens ha ensenyat a reconèixer els arbres per les fulles. El meu preferit és el faig, perquè té les fulles brillants. A la nit hem fet un joc de pistes amb llanternes. El nostre equip ha guanyat!\n\nDimecres, 14 de maig\n\nAquest matí plovia i no hem pogut sortir. Hem fet tallers de manualitats i he pintat una pedra amb forma de marieta. A la tarda ha sortit el sol i hem jugat a futbol al prat.\n\nDijous, 15 de maig\n\nÉs l'última nit. Hem fet una festa amb música i disfresses. Jo anava de bruixa. Estic cansada però molt contenta. Trobaré a faltar les meves companyes d'habitació, encara que les veuré a l'escola dilluns.\n\nDemà tornem a casa. Tinc ganes d'explicar-ho tot als pares!",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "On dorm la noia que escriu el diari?",
+      "options": [
+        "A la llitera de dalt",
+        "A la llitera de baix",
+        "En un sofà"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Dimecres al matí van poder sortir d'excursió.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "Per què el faig és el seu arbre preferit?",
+      "options": [
+        "Perquè és molt alt",
+        "Perquè té les fulles brillants",
+        "Perquè fa fruits dolços"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "De què es va disfressar a la festa?",
+      "options": [
+        "De pirata",
+        "De marieta",
+        "De bruixa"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Les companyes d'habitació van a la mateixa escola que la noia.",
+      "answer": true
+    }
+  ],
+  "speedQuestions": [
+    0,
+    3
+  ]
+}

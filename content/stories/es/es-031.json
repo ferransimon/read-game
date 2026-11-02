@@ -1,0 +1,55 @@
+{
+  "id": "es-031",
+  "lang": "es",
+  "title": "El escarabajo y la abeja",
+  "genre": "fabula",
+  "level": 2,
+  "emoji": "🐝",
+  "text": "En un prado lleno de flores vivía un escarabajo llamado Tomás que presumía de ser el más fuerte del lugar. Podía empujar una bola de tierra diez veces más grande que él, y no perdía ocasión de recordárselo a todos.\n\n—Vosotras, las abejas, sois débiles —le decía a Melisa, una abeja trabajadora—. Solo sabéis volar de flor en flor.\n\nMelisa no se enfadaba. Seguía trabajando y le contestaba con amabilidad:\n\n—Cada uno tiene su talento, Tomás.\n\nUna tarde de otoño se levantó un viento fuerte y empezó a llover. Tomás corrió hacia su casa, pero una gran hoja cayó sobre el camino y le cerró el paso. Por mucho que empujaba, la hoja mojada no se movía. El agua subía y el escarabajo empezó a preocuparse.\n\nDesde lo alto, Melisa lo vio. Voló rápidamente hasta la colmena y avisó a sus hermanas. Entre todas, agarraron la punta de la hoja y tiraron hacia arriba batiendo las alas. Poco a poco, la hoja se levantó, y Tomás pudo pasar y llegar a casa sano y salvo.\n\nAl día siguiente, el escarabajo fue a visitar a Melisa con una gota de rocío como regalo.\n\n—Perdóname —le dijo—. Hoy he aprendido que la fuerza de uno solo no vale tanto como la ayuda de muchos.\n\nMoraleja: nadie es mejor que los demás, y juntos somos más fuertes.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿De qué presumía Tomás?",
+      "options": [
+        "De volar muy alto",
+        "De ser el más fuerte",
+        "De ser el más rápido"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Melisa se enfadaba cuando Tomás la llamaba débil.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué le cerró el paso a Tomás?",
+      "options": [
+        "Una piedra",
+        "Una rama",
+        "Una hoja grande"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "¿Cuál es la enseñanza de la fábula?",
+      "options": [
+        "Que juntos somos más fuertes",
+        "Que las abejas son mejores que los escarabajos",
+        "Que hay que quedarse en casa cuando llueve"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Tomás le regaló a Melisa una gota de rocío.",
+      "answer": true
+    }
+  ],
+  "speedQuestions": [
+    2,
+    4
+  ]
+}

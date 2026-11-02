@@ -1,0 +1,55 @@
+{
+  "id": "ca-012",
+  "lang": "ca",
+  "title": "Una rosa i un llibre",
+  "genre": "poema",
+  "level": 1,
+  "emoji": "🌹",
+  "text": "Per Sant Jordi, de bon matí,\nsurto al carrer amb el meu cosí.\nHi ha parades de punta a punta\ni la gent passeja ben junta.\n\nLa mare vol un llibre gruixut,\nde pirates i un vaixell perdut.\nEl pare tria una rosa vermella:\n—La més bonica de totes és aquella!\n\nJo, amb els estalvis de la guardiola,\ncompro un conte per a l'àvia Lola.\nElla, contenta, em fa un petó\ni em diu: «Tu ets el meu tresor!»\n\nAl vespre, tots junts al sofà,\nllegim històries fins a sopar.\nSant Jordi és festa per compartir\nroses, llibres i ganes de llegir.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Amb qui surt al carrer qui parla en el poema?",
+      "options": [
+        "Amb el seu cosí",
+        "Amb l'àvia",
+        "Amb la mestra"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "De què tracta el llibre que vol la mare?",
+      "options": [
+        "De dracs",
+        "De pirates",
+        "De princeses"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "El conte per a l'àvia es compra amb els estalvis de la guardiola.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Per a qui és el conte?",
+      "options": [
+        "Per al pare",
+        "Per al cosí",
+        "Per a l'àvia Lola"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Al vespre, cada membre de la família llegeix sol a la seva habitació.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

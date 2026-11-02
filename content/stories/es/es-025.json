@@ -1,0 +1,55 @@
+{
+  "id": "es-025",
+  "lang": "es",
+  "title": "El perro perdido del barrio",
+  "genre": "cuento",
+  "level": 2,
+  "emoji": "🐕",
+  "text": "Un domingo por la mañana, Daniel y su vecina Aroa encontraron un perro sentado en la puerta de su portal. Era pequeño, de pelo blanco y rizado, y llevaba un collar rojo, pero sin chapa con el nombre. Temblaba un poco y miraba a todos lados, como si buscara a alguien.\n\n—Seguro que se ha perdido —dijo Aroa, agachándose para acariciarlo.\n\nLos dos niños subieron a contárselo a la madre de Daniel. Ella les ayudó a darle agua en un cuenco y unos trocitos de pollo. El perro se lo comió todo y empezó a mover la cola.\n\nDespués hicieron un plan. Aroa dibujó unos carteles con una foto del perro y el teléfono de la madre de Daniel: «¿Es tu perro? ¡Lo hemos encontrado!». Daniel los pegó en las farolas, en la panadería y en la puerta del parque. Además, la madre de Daniel lo llevó al veterinario del barrio, que pasó un lector por el cuello del animal. Gracias al chip, descubrieron que se llamaba Copo y que su dueña vivía a tres calles.\n\nEsa misma tarde sonó el timbre. Era una señora mayor, doña Asunción, con los ojos llenos de lágrimas de alegría. Copo saltó a sus brazos ladrando sin parar.\n\n—Se escapó ayer cuando abrí la puerta. No he dormido en toda la noche —les contó—. Muchísimas gracias.\n\nAl día siguiente, doña Asunción les llevó un bizcocho de chocolate. Y desde entonces, Daniel y Aroa sacan a pasear a Copo todos los sábados.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Cómo era el perro?",
+      "options": [
+        "Grande y negro",
+        "Pequeño, blanco y de pelo rizado",
+        "Marrón con manchas"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "El collar del perro tenía una chapa con su nombre.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Cómo descubrieron dónde vivía la dueña?",
+      "options": [
+        "Por el chip que leyó el veterinario",
+        "Porque alguien llamó al ver un cartel",
+        "Siguiendo al perro por la calle"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Doña Asunción les llevó un bizcocho de chocolate.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Cómo se sentía doña Asunción al recuperar a Copo?",
+      "options": [
+        "Enfadada con los niños",
+        "Indiferente",
+        "Muy feliz y agradecida"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    3
+  ]
+}

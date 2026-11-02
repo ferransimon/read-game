@@ -1,0 +1,55 @@
+{
+  "id": "es-022",
+  "lang": "es",
+  "title": "Carta de mi prima desde los Pirineos",
+  "genre": "carta",
+  "level": 2,
+  "emoji": "🏔️",
+  "text": "Querida Claudia:\n\n¡Por fin tengo un rato para escribirte! Llevamos cuatro días en un albergue de montaña en el Pirineo de Huesca con mis padres y mi hermano Jaime, y no hemos parado ni un minuto.\n\nEl primer día hicimos una excursión hasta un ibón, que es como llaman aquí a los lagos de montaña. Tardamos tres horas en subir y el camino estaba lleno de piedras, así que acabé con las piernas como si fueran de gelatina. Pero cuando llegamos arriba, el agua era tan transparente que se veían los peces nadando. Comimos bocadillos de tortilla sentados en una roca, mirando las cumbres todavía con nieve.\n\nAyer vimos un rebeco saltando por las rocas a toda velocidad. Mi padre dice que tienen unas pezuñas especiales que se agarran a la piedra como si fueran ventosas. También oímos silbar a las marmotas, que avisan a las demás cuando ven a alguien.\n\nPor la noche el cielo está lleno de estrellas, muchísimas más que en Zaragoza. Jaime y yo nos tumbamos en la hierba con una manta y mi madre nos enseña las constelaciones. Ya sé encontrar la Osa Mayor y la estrella Polar.\n\nLo único malo es que el agua de la ducha sale helada. ¡Me ducho en diez segundos!\n\nTe he comprado un imán con forma de marmota. Te lo daré en septiembre.\n\nMuchos besos de tu prima,\nElena",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Qué es un ibón?",
+      "options": [
+        "Un tipo de cabra",
+        "Una cabaña de pastores",
+        "Un lago de montaña"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Elena tardó tres horas en subir hasta el ibón.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué silban las marmotas?",
+      "options": [
+        "Para cantar",
+        "Para avisar a las demás",
+        "Para llamar a sus crías a comer"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué Elena ve más estrellas en la montaña que en Zaragoza?",
+      "options": [
+        "Porque en la montaña hay menos luces de ciudad",
+        "Porque allí las estrellas son más grandes",
+        "Porque usa un telescopio"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "A Elena le encanta el agua de la ducha del albergue.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

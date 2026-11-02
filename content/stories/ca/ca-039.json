@@ -1,0 +1,55 @@
+{
+  "id": "ca-039",
+  "lang": "ca",
+  "title": "Batut de plàtan i maduixes",
+  "genre": "receta",
+  "level": 1,
+  "emoji": "🍓",
+  "text": "Aquest batut és fresc, dolç i molt fàcil de fer. És perfecte per berenar a l'estiu!\n\nIngredients (per a dues persones):\n- 1 plàtan madur\n- 6 maduixes\n- 2 gots de llet\n- 1 cullerada de mel\n\nPreparació:\n1. Renta bé les maduixes i treu-los les fulletes verdes.\n2. Pela el plàtan i talla'l a trossets.\n3. Posa la fruita, la llet i la mel al got de la batedora.\n4. Demana a un adult que t'ajudi a batre-ho tot durant un minut.\n5. Serveix el batut en dos gots.\n\nConsell: si el vols més fresc, afegeix-hi uns quants glaçons. I si no t'agrada la llet, el pots fer amb iogurt!",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Quantes maduixes necessites?",
+      "options": [
+        "Dues",
+        "Sis",
+        "Deu"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Aquest batut és per a dues persones.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Què has de fer primer amb les maduixes?",
+      "options": [
+        "Rentar-les i treure'ls les fulles",
+        "Posar-les al congelador",
+        "Tallar-les per la meitat"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Què pots afegir si vols el batut més fresc?",
+      "options": [
+        "Més mel",
+        "Un altre plàtan",
+        "Glaçons"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Has de fer servir la batedora tu sol, sense cap adult.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ca-013",
+  "lang": "ca",
+  "title": "El riu i la roca",
+  "genre": "fabula",
+  "level": 2,
+  "emoji": "🪨",
+  "text": "Al mig d'un riu de muntanya hi havia una roca enorme i molt orgullosa. Cada dia, quan l'aigua passava pel seu costat, la roca li deia:\n\n—Aparta't, aigua! Jo tinc molta força i tu ets feble i tova. Mai no em podràs moure.\n\nL'aigua no s'enfadava. Continuava baixant, tranquil·la, cantant entre les pedres.\n\nUn dia, una truita que nedava per allà va preguntar a l'aigua:\n\n—Per què no li contestes? Et parla molt malament.\n\n—No cal discutir —va respondre l'aigua—. Jo faig la meva feina, a poc a poc, cada dia.\n\nVan passar molts anys. Hiverns de neu, primaveres de pluja i estius de sol. L'aigua continuava fregant la roca, suaument, sense parar mai.\n\nUn matí, la roca es va adonar que alguna cosa havia canviat. Ja no era tan gran ni tan punxeguda. L'aigua li havia anat polint les vores i fins i tot li havia fet un forat al mig, per on ara passava un rajolí que feia música.\n\nLa roca, sorpresa, va dir:\n\n—Tu, que semblaves tan feble, m'has canviat més que ningú.\n\n—No és qüestió de força —va dir l'aigua—, sinó de paciència.\n\nMoral: la constància aconsegueix el que la força sola no pot fer.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Com era la roca al principi?",
+      "options": [
+        "Petita i tímida",
+        "Enorme i orgullosa",
+        "Rodona i suau"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "L'aigua s'enfadava cada vegada que la roca li parlava.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "Quin animal pregunta a l'aigua per què no contesta?",
+      "options": [
+        "Una truita",
+        "Una granota",
+        "Un ànec"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Amb els anys, l'aigua va fer un forat al mig de la roca.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Què vol dir l'aigua quan diu que no és qüestió de força?",
+      "options": [
+        "Que la roca és molt dèbil",
+        "Que no li agraden les cançons",
+        "Que amb paciència i constància s'aconsegueixen moltes coses"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

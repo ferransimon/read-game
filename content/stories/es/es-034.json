@@ -1,0 +1,55 @@
+{
+  "id": "es-034",
+  "lang": "es",
+  "title": "Los huevos de la granja",
+  "genre": "cuento",
+  "level": 1,
+  "emoji": "🥚",
+  "text": "Lola pasa las vacaciones en la granja de su abuelo Julián. Cada mañana, el gallo Perico la despierta con su canto: ¡quiquiriquí!\n\nHoy el abuelo le ha dado un trabajo importante: recoger los huevos del gallinero. Lola coge una cesta y entra despacito. Las gallinas cacarean, pero no se asustan.\n\nBusca en la paja y encuentra un huevo marrón. Luego otro, y otro más. ¡Ya tiene ocho! Uno está todavía calentito.\n\nAl salir, Lola tropieza con una piedra. ¡Qué susto! Pero sujeta la cesta con fuerza y no se rompe ningún huevo.\n\nCon los huevos, la abuela prepara una tortilla de patatas enorme para la comida.\n\n—Esta tortilla es tuya, Lola —dice el abuelo—. Sin tu ayuda no habría huevos.\n\nLola sonríe orgullosa.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Cómo se llama el gallo?",
+      "options": [
+        "Julián",
+        "Perico",
+        "Pepito"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "¿Cuántos huevos encuentra Lola?",
+      "options": [
+        "Ocho",
+        "Seis",
+        "Diez"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Al tropezar, se rompen dos huevos.",
+      "answer": false
+    },
+    {
+      "type": "tf",
+      "q": "La abuela hace una tortilla de patatas.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Cómo se siente Lola al final?",
+      "options": [
+        "Triste",
+        "Cansada",
+        "Orgullosa"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    3
+  ]
+}

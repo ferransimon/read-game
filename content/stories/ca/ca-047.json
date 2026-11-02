@@ -1,0 +1,55 @@
+{
+  "id": "ca-047",
+  "lang": "ca",
+  "title": "La marieta viatgera",
+  "genre": "poema",
+  "level": 1,
+  "emoji": "🐞",
+  "text": "Una marieta vermella\namb set puntets de color negre\nva sortir de bon matí\namb el cor content i alegre.\n\nVa pujar per una tija,\nva saltar sobre una flor,\nva saludar una abella\nque feia mel amb amor.\n\nVa creuar un bassal d'aigua\nnavegant en un pètal fi,\ni una formiga li va dir:\n«Que tinguis molt bon camí!».\n\nVa trobar un cargol lent\nque tenia molta gana,\ni van berenar plegats\nuna fulla de magrana.\n\nQuan el sol es va pondre,\nja cansada de volar,\nva tornar a la seva fulla\ni es va posar a somiar.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Quants puntets té la marieta?",
+      "options": [
+        "Cinc",
+        "Set",
+        "Deu"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "La marieta va sortir de casa trista.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "Què feia l'abella?",
+      "options": [
+        "Mel",
+        "Un niu",
+        "Una cançó"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Com va creuar el bassal la marieta?",
+      "options": [
+        "Nedant",
+        "Damunt d'una formiga",
+        "Navegant en un pètal"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Al final del dia, la marieta estava cansada.",
+      "answer": true
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

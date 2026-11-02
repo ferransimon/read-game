@@ -1,0 +1,55 @@
+{
+  "id": "ca-033",
+  "lang": "ca",
+  "title": "El llibre que xiuxiuejava",
+  "genre": "fantasia",
+  "level": 1,
+  "emoji": "📖",
+  "text": "A la biblioteca del barri hi havia un llibre molt vell, de tapes verdes. Ningú no l'agafava mai.\n\nUn dimecres, la Jana va sentir una veueta:\n\n—Psst! Aquí dalt! Llegeix-me, si us plau!\n\nEra el llibre verd! La Jana el va obrir amb compte. De les pàgines van sortir un vaixell pirata, un lloro que parlava i una mica d'aigua salada.\n\n—Fa anys que ningú no em llegeix —va dir el llibre—. Les meves històries s'avorrien.\n\nLa Jana el va llegir tota la tarda. Cada vegada que passava una pàgina, el llibre somreia.\n\nEn acabar, el va tornar al prestatge, però a la part de davant, perquè tothom el pogués veure. Des d'aquell dia, el llibre verd és el més demanat de la biblioteca.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "De quin color eren les tapes del llibre?",
+      "options": [
+        "Vermelles",
+        "Blaves",
+        "Verdes"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Què va sortir de les pàgines?",
+      "options": [
+        "Un drac i una princesa",
+        "Un vaixell pirata i un lloro",
+        "Un cavall i un castell"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Abans de la Jana, molta gent llegia el llibre verd.",
+      "answer": false
+    },
+    {
+      "type": "tf",
+      "q": "La Jana va llegir el llibre tota la tarda.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Per què la Jana va posar el llibre a la part de davant?",
+      "options": [
+        "Perquè tothom el pogués veure",
+        "Perquè pesava molt",
+        "Perquè la bibliotecària li ho va manar"
+      ],
+      "answer": 0
+    }
+  ],
+  "speedQuestions": [
+    0,
+    3
+  ]
+}

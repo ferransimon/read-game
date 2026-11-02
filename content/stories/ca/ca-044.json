@@ -1,0 +1,55 @@
+{
+  "id": "ca-044",
+  "lang": "ca",
+  "title": "El rellotge de l'avi Andreu",
+  "genre": "cuento",
+  "level": 2,
+  "emoji": "🕰️",
+  "text": "A casa de l'avi Andreu hi havia un rellotge de paret molt antic. Feia tic-tac tot el dia i, a cada hora en punt, tocava unes campanades que ressonaven per tot el pis.\n\nUn diumenge, la Carla se'l va quedar mirant.\n\n—Avi, d'on va sortir aquest rellotge?\n\nL'avi va seure al sofà i la va fer seure a la falda.\n\n—Era del meu pare, que era rellotger. Tenia una botiga petita a la plaça del poble. Quan jo tenia la teva edat, després de l'escola anava a ajudar-lo. Ell m'ensenyava a desmuntar els rellotges i a netejar les peces amb un pinzell molt fi.\n\n—I sabies arreglar-los?\n\n—Al principi no, i em feia molta ràbia. Però el meu pare sempre deia: «Els rellotges i les persones necessiten paciència». A poc a poc vaig aprendre.\n\nL'avi li va explicar que aquell rellotge s'havia espatllat moltes vegades i que sempre l'havien arreglat ells mateixos.\n\nAleshores, l'avi es va aixecar, va obrir la porteta de vidre i li va ensenyar a la Carla com donar-li corda amb una clau daurada.\n\n—Ara tu també en tindràs cura —li va dir.\n\nDes d'aquell dia, cada diumenge, la Carla dona corda al rellotge de l'avi. I mentre ho fa, sempre li demana una altra història.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Quin ofici tenia el pare de l'avi Andreu?",
+      "options": [
+        "Fuster",
+        "Rellotger",
+        "Pescador"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "El rellotge toca campanades a cada hora en punt.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Amb què netejaven les peces dels rellotges?",
+      "options": [
+        "Amb un pinzell molt fi",
+        "Amb aigua i sabó",
+        "Amb un drap mullat"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Com sabem que l'avi confia en la Carla?",
+      "options": [
+        "Perquè la deixa jugar amb el rellotge",
+        "Perquè li regala la botiga del poble",
+        "Perquè li encarrega tenir cura del rellotge"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "L'avi va saber arreglar rellotges des del primer dia.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

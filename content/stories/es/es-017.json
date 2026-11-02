@@ -1,0 +1,55 @@
+{
+  "id": "es-017",
+  "lang": "es",
+  "title": "Niños que inventan un robot recogebasura",
+  "genre": "noticia",
+  "level": 2,
+  "emoji": "🤖",
+  "text": "CÁDIZ. Cuatro estudiantes de quinto de primaria del colegio La Caleta han ganado el primer premio del Concurso Juvenil de Ciencia de Andalucía con un invento sorprendente: un pequeño robot que recoge plásticos de la arena de la playa.\n\nLa idea surgió el verano pasado. Lola, Yusuf, Carla e Iván fueron con su clase a limpiar la playa y recogieron más de diez bolsas de basura en una sola mañana. «Había muchísimos tapones y trocitos de plástico que casi no se veían», recuerda Yusuf. «Pensamos que una máquina podría encontrarlos mejor que nosotros».\n\nDurante seis meses, el equipo trabajó en el taller de robótica del colegio con su profesora, Begoña Serrano. El robot, al que han llamado Cangrejito, se mueve sobre cuatro ruedas anchas para no hundirse en la arena. Lleva una cámara que distingue los plásticos de las conchas y un pequeño cepillo que los barre hasta un cajón.\n\nNo todo fue fácil. «La primera versión se quedaba atascada cada dos metros», cuenta Carla entre risas. «Tuvimos que cambiar las ruedas tres veces».\n\nCon el dinero del premio, el colegio comprará piezas para construir dos robots más. Los jóvenes inventores ya tienen un nuevo reto: conseguir que Cangrejito funcione con energía solar.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Qué recoge el robot de la playa?",
+      "options": [
+        "Plásticos",
+        "Conchas",
+        "Algas"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Los niños trabajaron en el robot durante seis meses.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué el robot tiene ruedas anchas?",
+      "options": [
+        "Para ir más deprisa",
+        "Para no hundirse en la arena",
+        "Para poder nadar"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "El robot funcionó perfectamente desde el primer día.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Cuál es el nuevo reto de los inventores?",
+      "options": [
+        "Que el robot hable",
+        "Venderlo en las tiendas",
+        "Que funcione con energía solar"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

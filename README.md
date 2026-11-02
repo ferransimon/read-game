@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Llegim! 📖
 
-## Getting Started
+PWA de lectura para primaria (7-10 años) en castellano y catalán, hecha con Next.js (export estático) y que funciona offline.
 
-First, run the development server:
+## Modos
+- **Comprensión**: lees un texto y respondes 5 preguntas (test o verdadero/falso). Cada partida usa un relato nuevo; en «Mis lecturas» puedes repetirlos y ver tu mejor nota.
+- **Velocidad**: cronometra la lectura, calcula las palabras por minuto y hace 2 preguntas de control. El intento solo cuenta si las aciertas y la velocidad es realista (≤ 350 pal/min). Incluye un panel con la gráfica de evolución.
+- **Ortografía**: rondas de 10 ejercicios que mezclan «elige la buena», «completa la letra» y «caza el error», con prioridad para las categorías en las que fallas más.
 
+El progreso se guarda en el dispositivo (localStorage), con perfiles para varios niños.
+
+## Comandos
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+pnpm dev               # desarrollo (valida y empaqueta el contenido antes de arrancar)
+pnpm build             # export estático a out/ + service worker offline (out/sw.js)
+pnpm start             # sirve out/
+pnpm validate:content  # valida relatos y ejercicios sin escribir nada
+pnpm test              # tests de la lógica (vitest)
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Contenido
+- `content/stories/{es,ca}/*.json`: un relato por archivo (50 por idioma). El esquema está en `lib/schema.ts`.
+- `content/spelling/{es,ca}.json`: ejercicios de ortografía.
+- `scripts/content.ts` valida el contenido y genera `lib/generated/*.json` (ignorado en git).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Para añadir un relato, crea `content/stories/es/es-051.json` siguiendo el esquema y ejecuta `pnpm validate:content`.

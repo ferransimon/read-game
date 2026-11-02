@@ -1,0 +1,55 @@
+{
+  "id": "ca-050",
+  "lang": "ca",
+  "title": "El gegant que roncava",
+  "genre": "fantasia",
+  "level": 2,
+  "emoji": "⛰️",
+  "text": "Fa molts i molts anys, al nord del país, hi vivia un gegant de pedra anomenat Orri. Era tan gran que, quan s'estirava a dormir, semblava una serralada.\n\nL'Orri era bo, però tenia un problema: roncava. I quan roncava, tota la vall tremolava, les pedres rodolaven i els pastors havien de córrer a amagar les ovelles.\n\nUn dia, una nena del poble que es deia Aina va decidir pujar a parlar amb ell. Va caminar durant hores, travessant boscos de pins i rierols gelats, fins que va arribar a l'orella del gegant, que era una cova enorme.\n\n—Senyor gegant! —va cridar—. Quan ronques, ens fas por a tots!\n\nL'Orri va obrir un ull, que era un llac.\n\n—Ho sento molt —va dir amb una veu com un tro—. No ho sabia. És que sempre dormo amb el nas tapat per la neu.\n\nL'Aina va tenir una idea. Va demanar als ocells que traguessin la neu del nas del gegant cada hivern. Les àguiles, els voltors i les merles hi van estar d'acord.\n\nDes d'aleshores, l'Orri dorm tranquil i ja no ronca. Diuen que, si un dia fas una excursió pel Pirineu i pares l'orella, encara el pots sentir respirar, suaument, entre els arbres. I si mires bé, hi veuràs la forma del seu nas, del seu front i de la seva panxa.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Com es deia el gegant?",
+      "options": [
+        "Orri",
+        "Aina",
+        "Tro"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Què passava quan el gegant roncava?",
+      "options": [
+        "Plovia molt",
+        "Tota la vall tremolava",
+        "Els ocells cantaven"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "L'orella del gegant era una cova enorme.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Per què roncava el gegant?",
+      "options": [
+        "Perquè estava malalt",
+        "Perquè era molt vell",
+        "Perquè tenia el nas tapat per la neu"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "L'Aina va resoldre el problema tota sola, sense l'ajuda de ningú.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

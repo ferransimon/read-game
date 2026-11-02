@@ -1,0 +1,55 @@
+{
+  "id": "ca-028",
+  "lang": "ca",
+  "title": "La bufanda groga",
+  "genre": "cuento",
+  "level": 1,
+  "emoji": "🧣",
+  "text": "En Marc tenia una bufanda groga que li havia fet l'àvia. Era la seva preferida.\n\nUn dilluns, en sortir de l'escola, se'n va adonar: la bufanda no hi era! La va buscar a la motxilla, sota el banc i al pati. No la va trobar enlloc.\n\nEn Marc estava molt trist. Pensava que l'àvia s'enfadaria.\n\nL'endemà, la conserge li va dir:\n\n—Marc, vine! Mira què he trobat a la caixa d'objectes perduts.\n\nEra la bufanda groga! En Marc la va abraçar ben fort.\n\nAquella tarda ho va explicar a l'àvia. Ella va riure i li va dir:\n\n—Si mai la perds del tot, te'n faré una altra. Però potser hi cosirem el teu nom, oi?",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Qui havia fet la bufanda?",
+      "options": [
+        "La mare",
+        "L'àvia",
+        "La mestra"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "De quin color era la bufanda?",
+      "options": [
+        "Groga",
+        "Vermella",
+        "Blava"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "En Marc va trobar la bufanda sota el banc.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "On era la bufanda?",
+      "options": [
+        "Al pati",
+        "A casa d'un amic",
+        "A la caixa d'objectes perduts"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "L'àvia no es va enfadar amb en Marc.",
+      "answer": true
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

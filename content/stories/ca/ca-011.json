@@ -1,0 +1,55 @@
+{
+  "id": "ca-011",
+  "lang": "ca",
+  "title": "Una tortuga marina a l'Escala",
+  "genre": "noticia",
+  "level": 1,
+  "emoji": "🐢",
+  "text": "L'ESCALA. Una tortuga babaua ha post ous en una platja de l'Escala, a la Costa Brava. És una notícia molt especial, perquè passa molt poques vegades a Catalunya.\n\nUn noi que passejava el gos de bon matí va veure les petjades a la sorra. Va trucar de seguida als agents rurals.\n\nEls experts han protegit el niu amb una tanca de fusta. A dins hi ha prop de vuitanta ous.\n\nD'aquí a dos mesos, les tortugues petites sortiran de la sorra i correran cap al mar. Els veïns de l'Escala ja fan torns per vigilar el niu.\n\nSi trobeu una tortuga a la platja, no la toqueu i truqueu al 112.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "On ha post ous la tortuga?",
+      "options": [
+        "En una platja de l'Escala",
+        "En un riu del Pirineu",
+        "Al port de Barcelona"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Un noi va veure les petjades mentre passejava el gos.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Quants ous hi ha aproximadament al niu?",
+      "options": [
+        "Vint",
+        "Vuitanta",
+        "Dos-cents"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Què has de fer si trobes una tortuga a la platja?",
+      "options": [
+        "Endur-te-la a casa",
+        "Tirar-la a l'aigua",
+        "No tocar-la i trucar al 112"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Les tortugues petites sortiran de la sorra l'endemà mateix.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

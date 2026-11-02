@@ -1,0 +1,55 @@
+{
+  "id": "ca-021",
+  "lang": "ca",
+  "title": "Una carta des de Menorca",
+  "genre": "carta",
+  "level": 2,
+  "emoji": "🐴",
+  "text": "Estimada Gemma:\n\nPerdona que no t'hagi escrit abans, però aquests dies a Menorca han estat plens de coses. Ja saps que cada estiu passo un mes a casa dels padrins, a Ciutadella. Aquí, als avis els diuen padrins, i m'ha costat acostumar-m'hi!\n\nLa setmana passada van ser les festes de Sant Joan. Són les més importants de l'illa. Hi ha cavalls negres enormes que entren a la plaça plena de gent, i els genets els fan aixecar sobre les potes del darrere. Al principi em feia una mica de por, però el padrí m'aguantava a collibè i ho vaig veure molt bé. La gent llançava avellanes i tothom cridava d'alegria.\n\nTambé he après a pescar amb el padrí. Sortim amb la barca ben d'hora, quan el mar està quiet com un plat. El primer dia no vaig pescar res, però ahir vaig agafar tres peixos. La padrina els va fer a la planxa i em van semblar els més bons del món.\n\nI tu, com passes l'estiu? Encara vas a la piscina cada tarda? Quan torni a Barcelona t'ensenyaré les fotos i et portaré formatge de Maó, que sé que t'agrada molt.\n\nUna abraçada ben forta del teu cosí,\nGuillem",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Com diuen als avis a Menorca, segons en Guillem?",
+      "options": [
+        "Iaios",
+        "Padrins",
+        "Avis grans"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "En Guillem va veure les festes de Sant Joan a Ciutadella.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Quants peixos va pescar en Guillem ahir?",
+      "options": [
+        "Tres",
+        "Cap",
+        "Deu"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Què li portarà en Guillem a la Gemma?",
+      "options": [
+        "Una barca petita",
+        "Avellanes",
+        "Formatge de Maó"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "En Guillem viu a Menorca tot l'any.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    1,
+    2
+  ]
+}

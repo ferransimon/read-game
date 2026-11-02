@@ -1,0 +1,55 @@
+{
+  "id": "es-037",
+  "lang": "es",
+  "title": "Diario de una semana de nieve",
+  "genre": "diario",
+  "level": 2,
+  "emoji": "❄️",
+  "text": "Lunes, 12 de enero\n\nQuerido diario: hoy hemos llegado a Jaca, en el Pirineo, para pasar una semana en casa de la tía Pilar. Desde la ventana del coche he visto las montañas completamente blancas. Mi hermano Óscar y yo no parábamos de gritar de emoción.\n\nMartes, 13 de enero\n\nEsta mañana ha nevado sin parar. Hemos salido al jardín con botas, guantes y gorro, y hemos construido un muñeco de nieve enorme. Le hemos puesto una zanahoria de nariz y dos botones como ojos. La tía Pilar le ha prestado su bufanda vieja. Lo hemos llamado Copito.\n\nMiércoles, 14 de enero\n\nHoy ha sido mi primera clase de esquí. Me he caído once veces, ¡las he contado! Pero la monitora, Ainhoa, dice que caerse es parte de aprender. Al final de la clase ya conseguía bajar una pequeña pendiente sin caerme.\n\nJueves, 15 de enero\n\nHa hecho tanto frío que nos hemos quedado en casa. La tía nos ha enseñado a hacer chocolate a la taza y hemos jugado a las cartas junto a la estufa. Óscar ha ganado todas las partidas, pero no me importa.\n\nViernes, 16 de enero\n\nÚltimo día. Antes de irnos, he ido a despedirme de Copito. Ya estaba un poco derretido y tenía la nariz torcida. Le he prometido que el año que viene volveremos para construirle un hermano.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Dónde pasa la semana la autora del diario?",
+      "options": [
+        "En Jaca",
+        "En Madrid",
+        "En la playa"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "¿Cuántas veces se cayó en la clase de esquí?",
+      "options": [
+        "Tres",
+        "Once",
+        "Veinte"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "El muñeco de nieve se llamaba Copito.",
+      "answer": true
+    },
+    {
+      "type": "tf",
+      "q": "El jueves fueron a esquiar todo el día.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Cómo se siente al despedirse de Copito?",
+      "options": [
+        "Enfadada",
+        "Asustada",
+        "Un poco triste, pero con ganas de volver"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

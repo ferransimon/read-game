@@ -1,0 +1,55 @@
+{
+  "id": "es-047",
+  "lang": "es",
+  "title": "Bichitos del jardín",
+  "genre": "poema",
+  "level": 1,
+  "emoji": "🐞",
+  "text": "En mi jardín hay una fiesta,\n¡venid todos a mirar!\nLa mariquita lleva puntos\ny se pone a bailar.\n\nLa hormiga carga una miga\nmás grande que su cabeza,\ny el caracol, muy despacito,\npasea su casa a cuestas.\n\nLa abeja zumba en las flores,\nla mariposa va a volar,\ny el saltamontes, de un brinco,\ncambia rápido de lugar.\n\nCuando el sol se va a dormir\ny la noche llega ya,\nla luciérnaga se enciende\ny hace la fiesta brillar.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Qué lleva la mariquita?",
+      "options": [
+        "Rayas",
+        "Puntos",
+        "Estrellas"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué lleva el caracol a cuestas?",
+      "options": [
+        "Su casa",
+        "Una miga",
+        "Una flor"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "La hormiga carga una miga muy pequeña.",
+      "answer": false
+    },
+    {
+      "type": "tf",
+      "q": "La luciérnaga se enciende por la noche.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué dice el poema que en el jardín hay una fiesta?",
+      "options": [
+        "Porque es un cumpleaños",
+        "Porque llueve mucho",
+        "Porque todos los bichitos están contentos y activos"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    1,
+    3
+  ]
+}

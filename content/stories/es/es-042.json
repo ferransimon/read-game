@@ -1,0 +1,55 @@
+{
+  "id": "es-042",
+  "lang": "es",
+  "title": "Mi nueva casa en Madrid",
+  "genre": "carta",
+  "level": 1,
+  "emoji": "🏙️",
+  "text": "Querido Samuel:\n\n¿Cómo estás? Yo ya vivo en Madrid. Mi nueva casa está en un sexto piso. Desde el balcón veo muchos tejados y un parque muy grande.\n\nLa ciudad es muy diferente del pueblo. Hay coches, autobuses y mucha gente por la calle. ¡Y voy al colegio en metro con mi padre!\n\nEn mi clase hay una niña que se llama Lucía. Es muy simpática y le encantan los cómics, como a ti.\n\nPero te echo de menos. Echo de menos jugar contigo al fútbol en la plaza y bañarnos en el río.\n\nEn Semana Santa volveré al pueblo. ¿Jugamos un partido?\n\nUn abrazo enorme,\nIbrahim",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿En qué piso vive Ibrahim?",
+      "options": [
+        "En el primero",
+        "En el sexto",
+        "En el tercero"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "¿Cómo va Ibrahim al colegio?",
+      "options": [
+        "En metro",
+        "En bicicleta",
+        "Andando"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "A Lucía le encantan los cómics.",
+      "answer": true
+    },
+    {
+      "type": "tf",
+      "q": "Ibrahim volverá al pueblo en verano.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué siente Ibrahim por Samuel?",
+      "options": [
+        "Está enfadado con él",
+        "Está aburrido de él",
+        "Lo echa de menos"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

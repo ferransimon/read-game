@@ -1,0 +1,55 @@
+{
+  "id": "es-015",
+  "lang": "es",
+  "title": "La bici sin ruedines",
+  "genre": "cuento",
+  "level": 1,
+  "emoji": "🚲",
+  "text": "Sara tenía una bici roja con ruedines. Todos sus amigos ya montaban sin ellos, pero a ella le daba un poco de miedo.\n\nUn sábado, su abuelo Manuel le quitó los ruedines.\n\n—Yo te sujeto por detrás —le dijo.\n\nSara empezó a pedalear despacio por el parque. La bici se movía hacia un lado y hacia el otro. Se cayó dos veces, pero no se hizo daño, porque llevaba casco y rodilleras.\n\nA la tercera vez, Sara pedaleó más rápido. Miró al frente y no al suelo. Pasó junto a la fuente, junto a los columpios y junto al quiosco.\n\n—¡Abuelo, mira cómo voy! —gritó.\n\nPero el abuelo estaba lejos, aplaudiendo. ¡Hacía rato que la había soltado!",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿De qué color es la bici de Sara?",
+      "options": [
+        "Azul",
+        "Roja",
+        "Verde"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "¿Quién le quitó los ruedines?",
+      "options": [
+        "Su abuelo Manuel",
+        "Su madre",
+        "Un amigo"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Sara se hizo daño al caerse.",
+      "answer": false
+    },
+    {
+      "type": "tf",
+      "q": "Sara llevaba casco y rodilleras.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué se sorprende Sara al final?",
+      "options": [
+        "Porque se le pincha una rueda",
+        "Porque el abuelo se ha ido a casa",
+        "Porque montaba sola sin darse cuenta"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

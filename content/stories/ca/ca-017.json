@@ -1,0 +1,55 @@
+{
+  "id": "ca-017",
+  "lang": "ca",
+  "title": "La bicicleta sense rodetes",
+  "genre": "cuento",
+  "level": 1,
+  "emoji": "🚲",
+  "text": "En Nil té set anys i una bicicleta blava. Fins ara anava amb rodetes, però avui la seva germana gran, la Carla, les hi ha tret.\n\n—Jo t'aguanto el seient —li diu la Carla.\n\nEn Nil puja a la bici i comença a pedalar pel parc. Té una mica de por i la bici es mou d'un costat a l'altre.\n\nCau una vegada a l'herba. Es fa una esgarrapada al genoll, però no plora. Torna a pujar.\n\nA la cinquena prova, en Nil pedala i pedala... i no nota la mà de la Carla. Es gira i la veu lluny, aplaudint!\n\n—Ho has fet tot sol! —crida ella.\n\nEn Nil somriu tant que li fan mal les galtes.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "De quin color és la bicicleta d'en Nil?",
+      "options": [
+        "Vermella",
+        "Verda",
+        "Blava"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "La Carla és la germana petita d'en Nil.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "On cau en Nil?",
+      "options": [
+        "A l'herba",
+        "Al carrer",
+        "En un toll"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "A quina prova pedala en Nil tot sol?",
+      "options": [
+        "A la primera",
+        "A la cinquena",
+        "A la desena"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "En Nil és valent i torna a intentar-ho després de caure.",
+      "answer": true
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

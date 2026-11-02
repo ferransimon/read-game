@@ -1,0 +1,55 @@
+{
+  "id": "es-043",
+  "lang": "es",
+  "title": "El grillo que no quería compartir",
+  "genre": "fabula",
+  "level": 1,
+  "emoji": "🦗",
+  "text": "En el jardín vivía un grillo llamado Lucas. Tenía una hoja de lechuga grande y fresca, pero no quería compartirla con nadie.\n\n—Es mía, solo mía —decía.\n\nUna mariquita le pidió un trocito, y Lucas dijo que no. Una hormiga también se lo pidió, y Lucas volvió a decir que no.\n\nPasaron los días y la hoja se puso amarilla y seca. Lucas no había podido comérsela entera. Ahora ya no servía para nada.\n\nMientras tanto, la mariquita y la hormiga compartían una fresa con sus amigos. Reían y cantaban juntos.\n\nLucas se sintió solo. Se acercó despacio y dijo:\n\n—Perdonad. ¿Puedo cantar con vosotros?\n\n—¡Claro! —respondieron—. Aquí hay sitio para todos.\n\nMoraleja: lo que se comparte vale el doble.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Qué tenía el grillo?",
+      "options": [
+        "Una fresa",
+        "Una hoja de lechuga",
+        "Una manzana"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Lucas compartió la hoja con la mariquita.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué le pasó a la hoja?",
+      "options": [
+        "Se la llevó el viento",
+        "Se la comió la hormiga",
+        "Se puso amarilla y seca"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "La mariquita y la hormiga compartían una fresa.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué enseña esta fábula?",
+      "options": [
+        "Que compartir es mejor que guardarlo todo",
+        "Que las lechugas se secan pronto",
+        "Que los grillos cantan bien"
+      ],
+      "answer": 0
+    }
+  ],
+  "speedQuestions": [
+    0,
+    3
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ca-027",
+  "lang": "ca",
+  "title": "La Núria i el planeta blau",
+  "genre": "fantasia",
+  "level": 2,
+  "emoji": "🚀",
+  "text": "La Núria havia construït una nau espacial amb una capsa de cartró gran, dos rotlles de paper de cuina i molta cinta adhesiva. La va pintar de color plata i hi va dibuixar una finestra rodona.\n\nAquella nit, quan tothom dormia, la nau va començar a fer un soroll estrany: brrrum, brrrum! La Núria s'hi va ficar a dins, es va cordar el cinturó, que era un cordill vermell, i la nau va sortir volant per la finestra de l'habitació.\n\nVa passar per sobre dels teulats, dels núvols i de la Lluna. Al cap d'una estona, va aterrar en un planeta petit i blau, ple de cràters que semblaven piscines. Allà la va rebre un extraterrestre verd amb tres ulls i unes antenes que feien pampallugues.\n\n—Hola! Em dic Zim —va dir—. Fa molt de temps que no tinc ningú amb qui jugar.\n\nLa Núria i en Zim van saltar de cràter en cràter, perquè en aquell planeta tot pesava molt poc i es podia botar altíssim. Després van comptar estrelles fins que es van cansar.\n\nQuan va començar a fer-se de dia, la Núria va haver de tornar. En Zim li va regalar una pedreta blava que brillava.\n\nL'endemà al matí, la Núria es va despertar al llit. Hauria estat un somni? Però a la tauleta de nit hi havia una pedreta blava que brillava.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Amb què va construir la nau la Núria?",
+      "options": [
+        "Amb fusta i claus",
+        "Amb una capsa de cartró",
+        "Amb ampolles de plàstic"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Com es deia l'extraterrestre?",
+      "options": [
+        "Zim",
+        "Zum",
+        "Zac"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "En aquell planeta es podia saltar molt alt.",
+      "answer": true
+    },
+    {
+      "type": "tf",
+      "q": "En Zim estava acostumat a jugar amb molts amics.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "Per què pensem que el viatge potser no va ser un somni?",
+      "options": [
+        "Perquè la nau estava trencada",
+        "Perquè la mare li ho va explicar",
+        "Perquè la pedreta blava era a la tauleta"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

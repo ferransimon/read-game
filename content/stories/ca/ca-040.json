@@ -1,0 +1,55 @@
+{
+  "id": "ca-040",
+  "lang": "ca",
+  "title": "El robot que volia tocar el violí",
+  "genre": "fantasia",
+  "level": 2,
+  "emoji": "🎻",
+  "text": "En una fàbrica de joguines hi treballava un robot anomenat Tic. La seva feina era cargolar rodes de cotxes de joguina, tot el dia, sense parar: clic, clac, clic, clac.\n\nCada tarda, però, des de la casa del davant arribava una música preciosa. Era la Valèria, una nena que estudiava violí. El cor metàl·lic d'en Tic s'escalfava cada vegada que la sentia.\n\nUna nit, quan la fàbrica va tancar, en Tic va agafar uns quants cargols, una capsa de fusta i fil de pescar, i es va construir el seu propi violí. Però quan el va provar, només en va sortir un soroll horrible: nyiiic, nyaaac!\n\nL'endemà, en Tic va anar a trucar a la porta de la Valèria. Ella es va espantar una mica en veure un robot, però en Tic li va dir:\n\n—Vull aprendre a tocar com tu. M'ensenyaràs?\n\nLa Valèria va acceptar. Cada tarda li ensenyava a agafar l'arc, a moure els dits i, sobretot, a tenir paciència. En Tic s'equivocava moltes vegades, però no es rendia mai.\n\nAl cap de tres mesos, en Tic va tocar la seva primera cançó sencera. No era perfecta, però sonava de veritat. La Valèria va aplaudir tan fort que li feien mal les mans.\n\nAra, a la fàbrica, en Tic encara cargola rodes. Però mentre treballa, xiula melodies, i totes les joguines que en surten semblen més alegres.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Quina era la feina d'en Tic?",
+      "options": [
+        "Pintar ninots",
+        "Cargolar rodes de cotxes de joguina",
+        "Netejar la fàbrica"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Qui tocava el violí a la casa del davant?",
+      "options": [
+        "La Valèria",
+        "La mare d'en Tic",
+        "Un altre robot"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "El primer violí d'en Tic sonava molt bé.",
+      "answer": false
+    },
+    {
+      "type": "tf",
+      "q": "En Tic es va equivocar molt, però no es va rendir.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Què ens ensenya aquesta història?",
+      "options": [
+        "Que els robots no poden fer música",
+        "Que és millor aprendre sol",
+        "Que amb paciència i esforç podem aprendre coses noves"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

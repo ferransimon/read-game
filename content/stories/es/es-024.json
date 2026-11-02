@@ -1,0 +1,55 @@
+{
+  "id": "es-024",
+  "lang": "es",
+  "title": "El hada de los calcetines desparejados",
+  "genre": "fantasia",
+  "level": 2,
+  "emoji": "🧦",
+  "text": "¿Alguna vez te has preguntado por qué siempre desaparece un calcetín en la lavadora? Martina se lo preguntaba cada semana, porque en su cajón había ya siete calcetines solitarios: uno de rayas, otro con lunares, uno con dinosaurios…\n\nUna noche, Martina se despertó al oír un ruidito en el cuarto de la lavadora. Bajó de puntillas y, al encender la luz, vio a un ser diminuto con alas de papel de seda. Llevaba un gorro hecho con un dedal y arrastraba un calcetín verde más grande que ella.\n\n—¡Me has pillado! —exclamó el hada, sonrojada—. Me llamo Pelusa.\n\nPelusa le explicó que era el hada de los calcetines desparejados. Se los llevaba a su casa, dentro de la pared, porque en el mundo de las hadas hacía mucho frío y no tenían con qué abrigarse. Con cada calcetín, su familia se hacía un saco de dormir.\n\nMartina pensó un momento. No le parecía bien que Pelusa cogiera las cosas sin pedir permiso, pero tampoco quería que las hadas pasaran frío.\n\n—Te propongo un trato —dijo Martina—. Yo te daré todos los calcetines que se me queden pequeños, y tú dejarás de llevarte uno de cada par.\n\nPelusa aceptó encantada. Desde entonces, Martina deja cada mes una bolsita con calcetines viejos junto a la lavadora. Y, por primera vez en la historia de su casa, todos los calcetines tienen pareja.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Cuántos calcetines solitarios tenía Martina en el cajón?",
+      "options": [
+        "Tres",
+        "Diez",
+        "Siete"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "¿Para qué usaba Pelusa los calcetines?",
+      "options": [
+        "Para jugar al escondite",
+        "Para hacer sacos de dormir",
+        "Para vender en el mercado"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Pelusa llevaba un gorro hecho con un dedal.",
+      "answer": true
+    },
+    {
+      "type": "tf",
+      "q": "A Martina le pareció bien que el hada cogiera calcetines sin permiso.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué trato le propuso Martina al hada?",
+      "options": [
+        "Darle los calcetines pequeños a cambio de no llevarse más",
+        "Comprarle una estufa",
+        "Compartir su cama"
+      ],
+      "answer": 0
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

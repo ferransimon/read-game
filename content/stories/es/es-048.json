@@ -1,0 +1,55 @@
+{
+  "id": "es-048",
+  "lang": "es",
+  "title": "Cuando el abuelo era niño",
+  "genre": "carta",
+  "level": 2,
+  "emoji": "📻",
+  "text": "Querida Noa:\n\nMe ha dicho tu madre que en el colegio estáis estudiando cómo se vivía antes, y que te gustaría saber cómo eran los inviernos cuando yo tenía tu edad. Así que aquí va mi carta, escrita a mano, como se hacía entonces.\n\nYo vivía en un pueblo pequeño de Soria. En casa no había calefacción, así que toda la familia se reunía en la cocina, alrededor de la estufa de leña. Mi madre ponía piedras calientes envueltas en trapos dentro de las camas para que no estuvieran heladas al acostarnos.\n\nNo teníamos televisión. Por las noches escuchábamos la radio, un aparato grande de madera que era el tesoro de la casa. Mi programa favorito era uno de aventuras: un actor hacía todas las voces, ¡incluso la de un caballo!\n\nPara ir a la escuela caminaba casi media hora por un camino lleno de nieve. Escribíamos con pluma y tintero, y cada alumno debía llevar un trozo de leña para la estufa de la clase.\n\nA veces pienso que tú tienes muchas más cosas que yo. Pero ¿sabes una cosa? Nosotros también éramos muy felices. Lo importante era estar juntos.\n\nCuando vengas a casa el domingo, te enseñaré la vieja radio. Todavía la guardo.\n\nCon todo mi cariño,\nel abuelo Fermín",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Dónde vivía el abuelo cuando era niño?",
+      "options": [
+        "En un pueblo de Soria",
+        "En Madrid",
+        "En un pueblo de la costa"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué ponía su madre en las camas?",
+      "options": [
+        "Mantas eléctricas",
+        "Bolsas de agua",
+        "Piedras calientes envueltas en trapos"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "En casa del abuelo veían la televisión por las noches.",
+      "answer": false
+    },
+    {
+      "type": "tf",
+      "q": "Cada alumno llevaba un trozo de leña a la escuela.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué quiere decir el abuelo con «Lo importante era estar juntos»?",
+      "options": [
+        "Que no le gustaba ir solo a la escuela",
+        "Que la familia unida le hacía feliz aunque tuvieran pocas cosas",
+        "Que la casa era muy pequeña"
+      ],
+      "answer": 1
+    }
+  ],
+  "speedQuestions": [
+    0,
+    3
+  ]
+}

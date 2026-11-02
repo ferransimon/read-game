@@ -1,0 +1,55 @@
+{
+  "id": "es-038",
+  "lang": "es",
+  "title": "Otoño en la ciudad",
+  "genre": "poema",
+  "level": 2,
+  "emoji": "🍂",
+  "text": "Ha llegado el otoño a la ciudad\ncon su abrigo de color marrón,\nbarre las hojas de los parques\ny las pinta de oro y de limón.\n\nEn las aceras huele a castañas,\nel castañero sopla su fogón,\ny los niños, con bufanda nueva,\nvan al colegio en procesión.\n\nLos semáforos parpadean\nentre la niebla de la estación,\ny los paraguas se abren como flores\nde un jardín de tela y de algodón.\n\nLas palomas se esconden en los tejados,\nla fuente canta una canción,\ny el viento juega con las cometas\nque vuelan sobre el viejo torreón.\n\nPor la tarde, cuando anochece pronto,\nse encienden las luces del balcón,\ny en cada casa, junto a la sopa,\nse cuentan cuentos con emoción.\n\nDuerme la ciudad bajo la lluvia,\ntranquila como un gran lirón,\ny sueña que vuelve la primavera\ncon flores en cada rincón.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿De qué color es el abrigo del otoño?",
+      "options": [
+        "Verde",
+        "Marrón",
+        "Azul"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "¿A qué se parecen los paraguas abiertos?",
+      "options": [
+        "A flores",
+        "A setas",
+        "A pájaros"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "En las aceras huele a castañas.",
+      "answer": true
+    },
+    {
+      "type": "tf",
+      "q": "En el poema, por la tarde anochece muy tarde.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué ambiente transmite el poema?",
+      "options": [
+        "Miedo y peligro",
+        "Prisa y enfado",
+        "Calma y calor de hogar"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

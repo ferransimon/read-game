@@ -1,0 +1,55 @@
+{
+  "id": "ca-043",
+  "lang": "ca",
+  "title": "Carta a una astronauta",
+  "genre": "carta",
+  "level": 1,
+  "emoji": "🧑‍🚀",
+  "text": "Estimada astronauta Elena:\n\nEm dic Lucas i tinc vuit anys. A l'escola estem estudiant l'espai i la mestra ens ha dit que tu ets a l'Estació Espacial.\n\nTinc moltes preguntes. Com dorms, si tot sura? Què menges per esmorzar? Des d'allà dalt es veu casa meva?\n\nJo també vull ser astronauta quan sigui gran. Ja sé el nom de tots els planetes, i el meu preferit és Saturn, pels seus anells.\n\nA la meva habitació tinc un coet de joguina i estrelles enganxades al sostre que brillen a les fosques.\n\nEspero que em contestis aviat.\n\nUna salutació des de la Terra,\nLucas",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Quants anys té en Lucas?",
+      "options": [
+        "Set",
+        "Vuit",
+        "Deu"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Quin és el planeta preferit d'en Lucas?",
+      "options": [
+        "Saturn",
+        "Mart",
+        "Júpiter"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "En Lucas vol ser astronauta quan sigui gran.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "On és l'astronauta Elena?",
+      "options": [
+        "A la Lluna",
+        "A Mart",
+        "A l'Estació Espacial"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "En Lucas no sap res dels planetes.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

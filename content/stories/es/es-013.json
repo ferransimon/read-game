@@ -1,0 +1,55 @@
+{
+  "id": "es-013",
+  "lang": "es",
+  "title": "La biblioteca de las palabras perdidas",
+  "genre": "fantasia",
+  "level": 2,
+  "emoji": "📚",
+  "text": "Cada martes, después de clase, Irene acompañaba a su tía Julia a la biblioteca municipal, donde ella trabajaba. Mientras su tía ordenaba libros, Irene se escondía entre las estanterías a leer cómics.\n\nUna tarde lluviosa, Irene encontró una puerta pequeña que nunca había visto, escondida detrás de un mapa antiguo. Tenía un cartel dorado: «Sala de las palabras perdidas». Empujó la puerta con cuidado y entró.\n\nDentro, cientos de palabras revoloteaban como mariposas de colores. Algunas eran muy antiguas, como «zaguán» o «alféizar»; otras eran palabras que la gente había dejado de decir, como «gracias» o «perdón».\n\nUn búho con gafas redondas se le acercó.\n\n—Bienvenida. Soy el guardián de esta sala. Aquí vienen las palabras cuando nadie las usa. Si se quedan mucho tiempo, se apagan y desaparecen para siempre.\n\nIrene miró a su alrededor. Una palabra pequeña y azul brillaba muy poquito. Era «gracias».\n\n—¿Cómo puedo ayudarlas? —preguntó Irene.\n\n—Muy fácil: úsalas —respondió el búho.\n\nAquella noche, en la cena, Irene dio las gracias a su padre por la tortilla, pidió perdón a su hermano por haberle cogido los rotuladores y le dijo a su tía que el alféizar de su ventana estaba lleno de macetas preciosas.\n\nEl martes siguiente volvió a la sala secreta. La palabra «gracias» brillaba con fuerza, y el búho le guiñó un ojo.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Dónde trabajaba la tía Julia?",
+      "options": [
+        "En un colegio",
+        "En una biblioteca",
+        "En una librería"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "La puerta secreta estaba escondida detrás de un mapa antiguo.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué les pasa a las palabras si nadie las usa?",
+      "options": [
+        "Se convierten en libros",
+        "Se van a otro país",
+        "Se apagan y desaparecen"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "El guardián de la sala era un gato con sombrero.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué la palabra «gracias» brillaba con fuerza al final?",
+      "options": [
+        "Porque Irene la había usado",
+        "Porque el búho la pintó",
+        "Porque era martes"
+      ],
+      "answer": 0
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

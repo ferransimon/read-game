@@ -1,0 +1,55 @@
+{
+  "id": "ca-031",
+  "lang": "ca",
+  "title": "L'abella i la papallona",
+  "genre": "fabula",
+  "level": 2,
+  "emoji": "🐝",
+  "text": "Al prat de les roselles hi vivien una abella treballadora i una papallona molt presumida. Cada matí, la papallona s'aturava davant d'un bassal per mirar-se les ales de colors.\n\n—Pobra abella! —deia—. Sempre tan atrafegada, anant amunt i avall. Jo, en canvi, soc la més bonica del prat.\n\nL'abella no li responia. Anava de flor en flor recollint nèctar i, de tant en tant, ajudava les formigues a portar molles de pa.\n\nUn dia es va posar a ploure molt fort. Les gotes eren tan grosses que la papallona no podia volar. Es va quedar atrapada sota una fulla, tremolant de fred, amb les ales molles i pesants.\n\nLes formigues la van veure i van córrer a avisar l'abella. Entre totes la van portar fins al rusc, on feia calor i hi havia mel per menjar.\n\nQuan va sortir el sol, la papallona es va eixugar les ales i va dir, avergonyida:\n\n—Em pensava que ser bonica era el més important, però avui m'heu salvat vosaltres, que sou bones amigues.\n\nDes d'aquell dia, la papallona va deixar de presumir i va començar a ajudar a polinitzar les flors del prat.\n\nMoral: la bondat i l'ajuda als altres valen més que la bellesa.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Què feia la papallona cada matí?",
+      "options": [
+        "Recollia nèctar",
+        "Es mirava les ales en un bassal",
+        "Ajudava les formigues"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "L'abella s'enfadava i contestava la papallona.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "Per què la papallona no podia volar?",
+      "options": [
+        "Perquè tenia les ales molles per la pluja",
+        "Perquè s'havia fet mal a una pota",
+        "Perquè feia massa vent"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "On van portar la papallona?",
+      "options": [
+        "Al niu de les formigues",
+        "A sota d'una pedra",
+        "Al rusc"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "La faula ens ensenya que ajudar els altres és més important que ser bonic.",
+      "answer": true
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

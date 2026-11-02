@@ -1,0 +1,55 @@
+{
+  "id": "es-028",
+  "lang": "es",
+  "title": "Un colegio lleno de tapones",
+  "genre": "noticia",
+  "level": 1,
+  "emoji": "♻️",
+  "text": "EL PERIÓDICO DE LOS PEQUES\n\nLos alumnos del colegio Los Olivos, en Sevilla, han reunido diez mil tapones de plástico en solo dos meses.\n\nTodo empezó en clase de Ciencias. La maestra, Rocío, explicó que el plástico tarda muchísimos años en desaparecer. Entonces, los niños de tercero tuvieron una idea: guardar los tapones de las botellas en lugar de tirarlos a la basura.\n\nPusieron cajas de cartón en cada clase y en el comedor. Las familias también ayudaron desde casa.\n\nAhora, una empresa recogerá los tapones para reciclarlos. Con el plástico fabricarán bancos para el patio del colegio.\n\n—Estamos muy orgullosos —dice Hugo, de ocho años—. ¡Pronto nos sentaremos en nuestros tapones!",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Cuántos tapones han reunido los alumnos?",
+      "options": [
+        "Mil",
+        "Diez mil",
+        "Cien mil"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué fabricarán con el plástico?",
+      "options": [
+        "Bancos para el patio",
+        "Juguetes para la clase",
+        "Botellas nuevas"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "La idea surgió en clase de Música.",
+      "answer": false
+    },
+    {
+      "type": "tf",
+      "q": "Las familias ayudaron a recoger tapones desde casa.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué dice Hugo que se sentarán en sus tapones?",
+      "options": [
+        "Porque pondrán tapones en las sillas",
+        "Porque los tapones son muy blandos",
+        "Porque los bancos estarán hechos con ese plástico"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    3
+  ]
+}

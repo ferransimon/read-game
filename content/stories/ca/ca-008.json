@@ -1,0 +1,55 @@
+{
+  "id": "ca-008",
+  "lang": "ca",
+  "title": "El Tió que parlava",
+  "genre": "fantasia",
+  "level": 1,
+  "emoji": "🪵",
+  "text": "A casa de la Clàudia hi ha un Tió molt especial. Té una barretina vermella, un nas de suro i una manta de quadres.\n\nCada nit, la Clàudia li dona pela de mandarina i trossos de pa. Una nit, mentre tothom dormia, va sentir una veueta:\n\n—Gràcies pel sopar, Clàudia! Però m'agradaria més una mica de xocolata.\n\nLa Clàudia es va fregar els ulls. El Tió parlava!\n\nL'endemà li va portar una galeta de xocolata. El Tió va somriure i li va picar l'ullet.\n\nLa nit de Nadal, tota la família va cantar i va picar el Tió amb un bastó. Sota la manta hi havia torrons, mandarines i una carta petita que deia: «Per a la nena que em va donar xocolata».",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Què porta el Tió al cap?",
+      "options": [
+        "Un barret de palla",
+        "Una barretina vermella",
+        "Una corona"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "La Clàudia dona pela de mandarina al Tió.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Què li va demanar el Tió a la Clàudia?",
+      "options": [
+        "Xocolata",
+        "Aigua",
+        "Una manta nova"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "El Tió va parlar davant de tota la família.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "Per a qui era la carta petita?",
+      "options": [
+        "Per als pares",
+        "Per a l'àvia",
+        "Per a la Clàudia"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

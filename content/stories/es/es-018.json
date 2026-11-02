@@ -1,0 +1,55 @@
+{
+  "id": "es-018",
+  "lang": "es",
+  "title": "Cómo plantar una semilla de girasol",
+  "genre": "instrucciones",
+  "level": 1,
+  "emoji": "🌻",
+  "text": "¿Quieres tener un girasol enorme? Sigue estos pasos y verás cómo crece.\n\nNecesitas:\n- Un vaso de yogur vacío\n- Tierra\n- Una semilla de girasol\n- Un poco de agua\n\nPasos:\n\n1. Pide a un adulto que haga un agujerito en el fondo del vaso. Así el agua sobrante podrá salir.\n\n2. Llena el vaso de tierra casi hasta arriba.\n\n3. Haz un hoyo con el dedo, de la profundidad de una uña. Mete la semilla y tápala con tierra.\n\n4. Riega con poca agua. La tierra tiene que estar húmeda, pero no encharcada.\n\n5. Pon el vaso cerca de una ventana donde dé el sol. A los girasoles les encanta la luz.\n\n6. Riega un poco cada dos días. En una semana verás salir un brote verde.\n\nCuando la planta sea más alta que el vaso, plántala en una maceta grande o en el jardín.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Qué se usa como maceta al principio?",
+      "options": [
+        "Una caja de zapatos",
+        "Un vaso de yogur",
+        "Una taza de café"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Hay que hacer un agujerito en el fondo del vaso.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Cada cuánto hay que regar la semilla?",
+      "options": [
+        "Cada dos días",
+        "Tres veces al día",
+        "Una vez al mes"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "El vaso debe estar en un lugar oscuro.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué hay que hacer el agujero en el vaso?",
+      "options": [
+        "Para que entre la luz",
+        "Para que respire la semilla",
+        "Para que salga el agua que sobra"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

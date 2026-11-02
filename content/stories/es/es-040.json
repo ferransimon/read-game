@@ -1,0 +1,55 @@
+{
+  "id": "es-040",
+  "lang": "es",
+  "title": "Galletas de luna y estrellas",
+  "genre": "receta",
+  "level": 1,
+  "emoji": "🍪",
+  "text": "Estas galletas son perfectas para una tarde de invierno. ¡Pide ayuda a un adulto para usar el horno!\n\nIngredientes:\n- 200 gramos de harina\n- 100 gramos de mantequilla blanda\n- 80 gramos de azúcar\n- 1 huevo\n- un poco de canela\n\nPreparación:\n1. Mezcla la mantequilla y el azúcar en un bol hasta que quede una crema.\n2. Añade el huevo y remueve bien.\n3. Echa la harina y la canela poco a poco. Amasa con las manos hasta formar una bola.\n4. Estira la masa con un rodillo.\n5. Con moldes, corta lunas y estrellas.\n6. Pon las galletas en una bandeja y hornéalas diez minutos.\n\nCuando se enfríen, puedes decorarlas con azúcar glas. ¡Parecerá un cielo de noche en tu plato!",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Cuántos huevos lleva la receta?",
+      "options": [
+        "Dos",
+        "Uno",
+        "Tres"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué forma tienen las galletas?",
+      "options": [
+        "De lunas y estrellas",
+        "De corazones",
+        "De animales"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Las galletas se hornean durante diez minutos.",
+      "answer": true
+    },
+    {
+      "type": "tf",
+      "q": "Las galletas se decoran cuando todavía están calientes.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué hay que pedir ayuda a un adulto?",
+      "options": [
+        "Porque la masa pesa mucho",
+        "Porque los moldes son caros",
+        "Porque el horno quema y puede ser peligroso"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    1,
+    2
+  ]
+}

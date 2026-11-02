@@ -1,0 +1,55 @@
+{
+  "id": "ca-018",
+  "lang": "ca",
+  "title": "Un hort a la teulada",
+  "genre": "noticia",
+  "level": 2,
+  "emoji": "🥕",
+  "text": "SABADELL. Els alumnes de l'escola Can Roqueta han convertit la teulada de l'edifici en un hort. Ara hi creixen tomàquets, enciams, maduixes i fins i tot carbassons gegants.\n\nLa idea va sorgir l'any passat, a la classe de tercer. «Vam veure que la teulada era plana i no s'hi feia res. Vam pensar que hi podríem plantar coses», explica en Hugo, que ara té nou anys. Els alumnes van escriure una carta a l'Ajuntament i van aconseguir els diners per comprar jardineres, terra i un sistema de reg.\n\nCada classe té una feina. Els de primer reguen les plantes, els de tercer arrenquen les males herbes i els de cinquè anoten en una llibreta com creixen les verdures. Perquè els ocells no es mengin les maduixes, els alumnes de segon han construït un espantaocells amb roba vella.\n\nLes verdures que es cullen es fan servir al menjador de l'escola. «Ara els nens mengen més amanida, perquè l'han plantada ells mateixos», diu la cuinera, la Dolors.\n\nEl projecte ha agradat tant que altres escoles de la ciutat ja han demanat consells per fer el seu propi hort. Els alumnes de Can Roqueta han preparat una petita guia amb dibuixos per explicar-los com començar.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "On han fet l'hort els alumnes?",
+      "options": [
+        "Al pati",
+        "A la teulada de l'escola",
+        "En un camp del poble"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Els alumnes de primer són els encarregats de regar les plantes.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Per què van construir un espantaocells?",
+      "options": [
+        "Perquè els ocells no es mengin les maduixes",
+        "Per decorar l'hort",
+        "Per a la festa de Carnestoltes"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Per què els nens mengen ara més amanida, segons la cuinera?",
+      "options": [
+        "Perquè és obligatori",
+        "Perquè és més barata",
+        "Perquè l'han plantada ells mateixos"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Els diners per a l'hort els va donar una botiga de jardineria.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

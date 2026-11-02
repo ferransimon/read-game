@@ -1,0 +1,55 @@
+{
+  "id": "ca-036",
+  "lang": "ca",
+  "title": "Diari de les colònies a la muntanya",
+  "genre": "diario",
+  "level": 2,
+  "emoji": "🏔️",
+  "text": "Dilluns, 14 de maig\n\nAvui hem arribat a la casa de colònies, al Pirineu. L'autocar ha trigat tres hores i en Hugo s'ha marejat una mica. La casa és de pedra i té unes lliteres de fusta. Jo dormo a la de dalt, al costat de la finestra!\n\nDimarts, 15 de maig\n\nAvui hem fet la gran excursió fins al llac. Hem caminat dues hores per un camí ple de pedres. A mig camí estava molt cansada i volia parar, però la Laia m'ha donat la mà i m'ha dit: «Va, que ja falta poc!». Quan hem arribat, l'aigua del llac era tan transparent que s'hi veien els peixos. També hem vist dos isards saltant per les roques. El monitor ens ha explicat que són com cabres salvatges i que viuen a l'alta muntanya.\n\nDimecres, 16 de maig\n\nAquesta nit hem sortit a mirar les estrelles. Com que aquí no hi ha llums de ciutat, se'n veuen moltíssimes. Hem trobat el Carro Gran i hem vist passar una estrella fugaç. He demanat un desig, però no el puc escriure aquí perquè, si no, no es complirà.\n\nDijous, 17 de maig\n\nDemà tornem a casa. Tinc ganes de veure els pares, però trobaré a faltar la muntanya i les nits d'estrelles.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "On és la casa de colònies?",
+      "options": [
+        "A la platja",
+        "Al Pirineu",
+        "A la ciutat"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Qui va ajudar la nena quan estava cansada?",
+      "options": [
+        "En Hugo",
+        "El monitor",
+        "La Laia"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Els isards són una mena de cabres salvatges.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Per què a la muntanya es veuen tantes estrelles?",
+      "options": [
+        "Perquè no hi ha llums de ciutat",
+        "Perquè hi ha més estrelles que a la ciutat",
+        "Perquè fan servir un telescopi"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "La nena explica al diari el desig que ha demanat.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

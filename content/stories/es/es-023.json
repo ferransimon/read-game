@@ -1,0 +1,55 @@
+{
+  "id": "es-023",
+  "lang": "es",
+  "title": "Récord de lectura en la biblioteca de Teruel",
+  "genre": "noticia",
+  "level": 2,
+  "emoji": "📖",
+  "text": "TERUEL. La biblioteca municipal ha batido este curso su récord de préstamos infantiles gracias a una idea muy sencilla: el Pasaporte Lector. Más de seiscientos niños y niñas de la ciudad han participado en la iniciativa, y entre todos han leído casi nueve mil libros desde septiembre.\n\nEl funcionamiento es fácil. Cada participante recibe un pasaporte de cartón con espacios en blanco. Cuando termina un libro, se lo cuenta en pocas palabras a una bibliotecaria, que le pone un sello de colores. Hay sellos de aventuras, de misterio, de animales, de poesía y de ciencia. Quien completa diez sellos de géneros diferentes recibe un marcapáginas especial y su nombre aparece en el mural de la entrada.\n\n«Antes solo leía libros de fútbol», confiesa Rubén, de diez años. «Pero para conseguir el sello de poesía tuve que probar, y ahora me encantan los poemas de Gloria Fuertes».\n\nLa bibliotecaria Pilar Gómez explica que el objetivo no era leer mucho, sino leer cosas distintas. «Queríamos que los niños descubrieran que hay libros para todos los gustos. Y lo mejor es que ahora vienen a recomendarse libros unos a otros».\n\nDebido al éxito, el próximo curso el Pasaporte Lector llegará también a los colegios de los pueblos cercanos, con un autobús-biblioteca que los visitará cada quince días.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Cómo se llama la iniciativa de la biblioteca?",
+      "options": [
+        "El Carné Viajero",
+        "El Pasaporte Lector",
+        "La Ruta de los Libros"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Para conseguir un sello hay que contar el libro a una bibliotecaria.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué consigue quien completa diez sellos de géneros diferentes?",
+      "options": [
+        "Un marcapáginas especial y su nombre en el mural",
+        "Un libro gratis cada mes",
+        "Una visita a una editorial"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Rubén siempre había leído muchos libros de poesía.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Cuál era el principal objetivo de la iniciativa, según la bibliotecaria?",
+      "options": [
+        "Que los niños leyeran muy rápido",
+        "Batir un récord",
+        "Que los niños leyeran libros de géneros distintos"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

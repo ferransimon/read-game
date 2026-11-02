@@ -1,0 +1,55 @@
+{
+  "id": "es-036",
+  "lang": "es",
+  "title": "La mochila que se ilumina",
+  "genre": "noticia",
+  "level": 2,
+  "emoji": "💡",
+  "text": "NOTICIAS JUNIOR\n\nUna niña de diez años de Valladolid ha ganado el primer premio de la Feria de Pequeños Inventores con una mochila que se ilumina sola cuando oscurece.\n\nSe llama Valeria Ortega y estudia quinto de primaria. La idea se le ocurrió el invierno pasado.\n\n—En invierno anochece muy pronto, y cuando volvía del entrenamiento de baloncesto, los coches casi no me veían —explica.\n\nCon la ayuda de su hermano mayor y de su profesor de Tecnología, Valeria cosió unas tiras de luces en la mochila. También colocó un pequeño sensor que detecta cuándo hay poca luz. Así, las luces se encienden solas, sin necesidad de pulsar ningún botón. La batería se carga con un panel solar diminuto que lleva en la parte de arriba.\n\nEl jurado, formado por científicos e ingenieros, destacó que el invento es sencillo, barato y muy útil para la seguridad de los niños que van andando al colegio.\n\nEn la feria participaron más de doscientos estudiantes de toda Castilla y León. Entre los inventos había un robot que riega las plantas y un comedero automático para mascotas.\n\nValeria ya está pensando en su próximo proyecto:\n\n—Quiero inventar un paraguas que avise cuando va a llover.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Qué hace la mochila de Valeria cuando oscurece?",
+      "options": [
+        "Suena una alarma",
+        "Se ilumina sola",
+        "Cambia de color"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "La batería de la mochila se carga con un panel solar.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué tuvo Valeria esta idea?",
+      "options": [
+        "Porque perdía la mochila a menudo",
+        "Porque quería ganar dinero",
+        "Porque los coches casi no la veían al anochecer"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Valeria hizo el invento completamente sola.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué quiere inventar ahora Valeria?",
+      "options": [
+        "Un paraguas que avise de la lluvia",
+        "Un robot que riegue las plantas",
+        "Un comedero para mascotas"
+      ],
+      "answer": 0
+    }
+  ],
+  "speedQuestions": [
+    0,
+    4
+  ]
+}

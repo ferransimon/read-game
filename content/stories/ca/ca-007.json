@@ -1,0 +1,55 @@
+{
+  "id": "ca-007",
+  "lang": "ca",
+  "title": "Carta de l'àvia del Pirineu",
+  "genre": "carta",
+  "level": 2,
+  "emoji": "🏔️",
+  "text": "Estimat Arnau:\n\nQuina alegria vaig tenir quan vaig rebre el teu dibuix! L'he penjat a la nevera, al costat de la foto de quan eres petit.\n\nAquí, a la Vall d'Aran, ja ha arribat el fred. Aquesta matinada ha caigut la primera nevada i les muntanyes semblen cobertes de sucre. Des de la finestra de la cuina veig com els cavalls del veí busquen herba sota la neu. El gat, en canvi, no vol sortir de casa i passa el dia ajagut davant de la llar de foc.\n\nAhir vaig anar a buscar llenya amb l'avi Josep. Pel camí vam trobar petjades d'un animal. L'avi diu que eren d'una guineu, però jo crec que eren d'un gos perdut. Quan vinguis, les anirem a mirar plegats i ens ajudaràs a resoldre el misteri.\n\nPer cert, ja he començat a teixir-te una bufanda vermella i blava, els colors que m'has dit que t'agraden. Espero tenir-la acabada per Nadal, que és quan pujareu a veure'ns.\n\nPorta't bé, ajuda els pares i no et deixis els deures per a l'últim moment.\n\nMoltes besades de la teva àvia,\nRosa",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "On ha penjat l'àvia el dibuix de l'Arnau?",
+      "options": [
+        "A la nevera",
+        "A la porta",
+        "A la finestra"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "A la Vall d'Aran ja ha nevat.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "De quins colors és la bufanda que teixeix l'àvia?",
+      "options": [
+        "Verda i groga",
+        "Vermella i blava",
+        "Blanca i negra"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "L'àvia i l'avi estan d'acord sobre de quin animal eren les petjades.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "Quan veurà l'Arnau els seus avis?",
+      "options": [
+        "A l'estiu",
+        "Per Sant Jordi",
+        "Per Nadal"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

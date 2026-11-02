@@ -1,0 +1,55 @@
+{
+  "id": "ca-015",
+  "lang": "ca",
+  "title": "Una carta des d'Olot",
+  "genre": "carta",
+  "level": 1,
+  "emoji": "📮",
+  "text": "Hola, Biel!\n\nJa fa un mes que visc a Olot. La casa nova té un jardí amb un cirerer i un gronxador.\n\nL'escola és més petita que la nostra. A la meva classe només hi ha quinze nens i nenes. El primer dia estava nerviós, però en Pau em va convidar a jugar a bàsquet a l'hora del pati. Ara som molt amics.\n\nA prop de casa hi ha volcans! Són molt antics i estan coberts d'arbres. Diumenge hi vam pujar amb els pares.\n\nEt trobo molt a faltar. Per què no vens uns dies a l'estiu? A la meva habitació hi ha lloc per a tu.\n\nEscriu-me aviat!\nEl teu amic,\nMarc",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "On viu ara en Marc?",
+      "options": [
+        "A Girona",
+        "A Olot",
+        "A Vic"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "La casa nova té un jardí amb un cirerer.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Qui va convidar en Marc a jugar a bàsquet?",
+      "options": [
+        "En Pau",
+        "En Biel",
+        "El mestre"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Què hi ha a prop de casa d'en Marc?",
+      "options": [
+        "El mar",
+        "Un castell",
+        "Volcans"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "En Marc ja no es recorda d'en Biel.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

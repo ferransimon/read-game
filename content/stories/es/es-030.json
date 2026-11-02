@@ -1,0 +1,55 @@
+{
+  "id": "es-030",
+  "lang": "es",
+  "title": "La luna viajera",
+  "genre": "poema",
+  "level": 1,
+  "emoji": "🌙",
+  "text": "La luna sale de noche\ncon su vestido de plata,\nse asoma por mi ventana\ny me canta una sonata.\n\nUnas noches está llena,\nredonda como un balón;\notras parece una uña\no un trocito de turrón.\n\nLas estrellas la acompañan,\nbrillan, brillan sin parar,\ny juegan al escondite\ncon las nubes y en el mar.\n\nCuando llega la mañana,\nla luna se va a dormir\ny me dice muy bajito:\n—Mañana vuelvo a venir.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿De qué es el vestido de la luna?",
+      "options": [
+        "De oro",
+        "De plata",
+        "De seda azul"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "¿A qué juegan las estrellas?",
+      "options": [
+        "Al escondite",
+        "A la pelota",
+        "A la comba"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Cuando la luna está llena, parece un balón.",
+      "answer": true
+    },
+    {
+      "type": "tf",
+      "q": "La luna sale por la mañana.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué a veces la luna parece una uña?",
+      "options": [
+        "Porque está enfadada",
+        "Porque solo se ve un trocito de ella",
+        "Porque está muy cerca"
+      ],
+      "answer": 1
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

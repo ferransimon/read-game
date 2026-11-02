@@ -1,0 +1,55 @@
+{
+  "id": "ca-005",
+  "lang": "ca",
+  "title": "L'esquirol que ho volia tot",
+  "genre": "fabula",
+  "level": 1,
+  "emoji": "🐿️",
+  "text": "A la tardor, un esquirol molt golut va trobar un roure ple de glans. En lloc de collir-ne unes quantes, va voler endur-se-les totes.\n\nEs va omplir les galtes, les mans i fins i tot la cua. Pesava tant que no podia ni saltar.\n\nQuan va intentar pujar a l'arbre, va relliscar i totes les glans van rodolar per terra. Uns ocells que passaven per allà se les van menjar en un moment.\n\nUn esquirol vell, que ho havia vist tot, li va dir:\n\n—Si n'haguessis agafat poques i haguessis fet molts viatges, ara tindries el rebost ple.\n\nL'esquirol golut va abaixar el cap. Aquella tarda va aprendre la lliçó.\n\nMoral: qui tot ho vol, tot ho perd.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Què va trobar l'esquirol?",
+      "options": [
+        "Un roure ple de glans",
+        "Un pi ple de pinyes",
+        "Un camp de blat"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "L'esquirol va voler endur-se totes les glans.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Qui es va menjar les glans que van caure?",
+      "options": [
+        "Un esquirol vell",
+        "Uns ocells",
+        "Un conill"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "L'esquirol golut va acabar amb el rebost ple.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "Què vol dir la moral de la faula?",
+      "options": [
+        "Que cal menjar molt a la tardor",
+        "Que els ocells són lladres",
+        "Que si ho vols tot pots quedar-te sense res"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

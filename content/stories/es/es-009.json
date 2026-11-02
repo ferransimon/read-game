@@ -1,0 +1,55 @@
+{
+  "id": "es-009",
+  "lang": "es",
+  "title": "La final de baloncesto",
+  "genre": "cuento",
+  "level": 2,
+  "emoji": "🏀",
+  "text": "Faltaban diez segundos para acabar la final del torneo escolar y el marcador estaba empatado: veinte a veinte. El pabellón entero contenía la respiración. Nerea botaba el balón cerca de la línea de tres puntos mientras su entrenador, Javier, le hacía señas desde el banquillo.\n\nNerea era la mejor tiradora del equipo de los Linces. Todo el mundo esperaba que lanzara ella. Sin embargo, vio que dos jugadoras rivales corrían a taparla. Por el rabillo del ojo descubrió a Samuel, solo debajo de la canasta. Samuel era el más bajito del equipo y casi nunca anotaba. Muchos días se quedaba en el banquillo.\n\nNerea dudó un instante. Si pasaba el balón y Samuel fallaba, perderían la final. Pero si tiraba ella, con dos defensoras encima, también podía fallar. Respiró hondo y le pasó la pelota con un pase picado perfecto.\n\nSamuel la atrapó, saltó con todas sus fuerzas y lanzó. El balón dio una vuelta al aro, otra más… y entró justo cuando sonaba la bocina.\n\nLos Linces saltaron a la pista abrazándose. Samuel no podía dejar de sonreír. Más tarde, cuando le dieron la copa, el entrenador dijo unas palabras:\n\n—Hoy no hemos ganado por tener a la mejor tiradora. Hemos ganado porque somos un equipo.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Cómo iba el marcador a falta de diez segundos?",
+      "options": [
+        "Ganaban los Linces",
+        "Empatado a veinte",
+        "Perdían por diez puntos"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Samuel era el jugador más alto del equipo.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué Nerea no lanzó a canasta?",
+      "options": [
+        "Porque estaba cansada",
+        "Porque el entrenador se lo prohibió",
+        "Porque dos jugadoras rivales la tapaban"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "La canasta de Samuel entró justo cuando sonó la bocina.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué quiere decir el entrenador al final?",
+      "options": [
+        "Que ganaron gracias a jugar juntos",
+        "Que Nerea juega mal",
+        "Que Samuel debe ser el capitán"
+      ],
+      "answer": 0
+    }
+  ],
+  "speedQuestions": [
+    0,
+    3
+  ]
+}

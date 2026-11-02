@@ -1,0 +1,55 @@
+{
+  "id": "es-050",
+  "lang": "es",
+  "title": "Las estatuas que despiertan",
+  "genre": "fantasia",
+  "level": 2,
+  "emoji": "🏛️",
+  "text": "La abuela de Olivia trabajaba como vigilante en el Museo de Bellas Artes. Un viernes, como sus padres llegaban tarde, Olivia se quedó con ella hasta la hora de cerrar.\n\nCuando salió el último visitante y las luces bajaron un poco, Olivia oyó un bostezo. Venía de una estatua de mármol que representaba a un caballero con armadura.\n\n—¡Por fin se ha ido todo el mundo! —dijo el caballero, estirando los brazos—. Llevo todo el día sin moverme.\n\nOlivia miró a su abuela con los ojos muy abiertos, pero la abuela solo sonrió y le guiñó un ojo.\n\n—Aquí, cuando cierra el museo, las obras de arte descansan a su manera —le susurró.\n\nEnseguida, en la sala de pintura, un perro salió de un cuadro y corrió a saludarla moviendo la cola. Una señora elegante de un retrato se quitó el sombrero para abanicarse, y los músicos de un tapiz comenzaron a tocar una música suave.\n\nEl caballero le enseñó a Olivia todo el museo. Le contó que el pintor de los girasoles prefería el sol de la tarde y que la bailarina de bronce ensayaba cada noche su mejor giro.\n\nA las ocho en punto sonó el timbre: eran sus padres. En un instante, cada figura volvió a su sitio, quieta como siempre.\n\n—¿Volverás? —le preguntó en voz baja el caballero, antes de quedarse inmóvil.\n\n—El viernes que viene —prometió Olivia.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿En qué trabajaba la abuela de Olivia?",
+      "options": [
+        "Era pintora",
+        "Era vigilante del museo",
+        "Era guía turística"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué animal salió de un cuadro?",
+      "options": [
+        "Un perro",
+        "Un gato",
+        "Un caballo"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "La abuela se asustó al oír hablar a la estatua.",
+      "answer": false
+    },
+    {
+      "type": "tf",
+      "q": "Los padres de Olivia llegaron a las ocho.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Cómo se sintió Olivia en el museo?",
+      "options": [
+        "Aburrida",
+        "Enfadada",
+        "Sorprendida y encantada"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    1,
+    3
+  ]
+}

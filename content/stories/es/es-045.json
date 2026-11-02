@@ -1,0 +1,55 @@
+{
+  "id": "es-045",
+  "lang": "es",
+  "title": "Una tortuga vuelve al mar",
+  "genre": "noticia",
+  "level": 1,
+  "emoji": "🐢",
+  "text": "NOTICIAS PARA PEQUEÑOS\n\nUna tortuga marina llamada Esperanza ha vuelto al mar en una playa de Valencia.\n\nHace tres meses, unos pescadores la encontraron enredada en una red. Tenía una aleta herida. La llevaron al acuario de la ciudad, donde los veterinarios la cuidaron.\n\nAllí comía calamares y pescado fresco, y nadaba en una piscina grande. Poco a poco, su aleta se curó.\n\nEl lunes, muchos niños de un colegio cercano fueron a la playa para despedirla. Los cuidadores la dejaron en la arena, y Esperanza caminó despacio hacia las olas.\n\n—¡Adiós, Esperanza! —gritaron los niños, aplaudiendo.\n\nLos veterinarios le pusieron un pequeño aparato en el caparazón. Así sabrán por dónde nada.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Cómo se llama la tortuga?",
+      "options": [
+        "Esperanza",
+        "Valentina",
+        "Marina"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "La tortuga tenía una aleta herida.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Quién encontró a la tortuga?",
+      "options": [
+        "Unos niños",
+        "Unos pescadores",
+        "Un veterinario"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "La tortuga estuvo un año en el acuario.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Cómo se sentían los niños al despedir a Esperanza?",
+      "options": [
+        "Aburridos",
+        "Enfadados",
+        "Contentos de verla libre"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

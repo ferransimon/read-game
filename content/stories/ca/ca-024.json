@@ -1,0 +1,55 @@
+{
+  "id": "ca-024",
+  "lang": "ca",
+  "title": "El primer dia de natació",
+  "genre": "cuento",
+  "level": 2,
+  "emoji": "🏊",
+  "text": "La Valèria mirava la piscina des de la vora, amb la tovallola encara a les espatlles. L'aigua feia una olor estranya i els crits ressonaven per tot el pavelló. Era el primer dia del curset de natació i el cor li bategava molt de pressa.\n\nEls altres nens ja eren dins de l'aigua, xipollejant i rient. Ella, en canvi, no gosava ni posar-hi un peu. L'estiu passat, una onada l'havia fet caure a la platja i, des d'aleshores, l'aigua li feia por.\n\nAleshores es va acostar la monitora, una noia alta amb una gorra groga.\n\n—Hola, em dic Laura —li va dir—. Vols que entrem juntes per l'escala?\n\nLa Valèria va fer que sí amb el cap. Van baixar esglaó per esglaó. L'aigua era tèbia i, per sorpresa seva, no li arribava més amunt de la cintura.\n\nLa Laura li va donar un xurro de colors i li va ensenyar a flotar d'esquena. «Mira el sostre i respira a poc a poc», li deia. La Valèria va obrir els braços com una estrella i... flotava!\n\nAl final de la classe, ja s'atrevia a posar la cara dins l'aigua i fer bombolles. Quan la seva mare la va venir a buscar, la Valèria va córrer cap a ella, xopa i somrient.\n\n—Mama, dijous puc tornar?",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Per què la Valèria tenia por de l'aigua?",
+      "options": [
+        "Perquè no sabia nedar gens",
+        "Perquè una onada l'havia fet caure a la platja",
+        "Perquè l'aigua estava molt freda"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "La monitora portava una gorra groga.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Com es deia la monitora?",
+      "options": [
+        "Laura",
+        "Valèria",
+        "Marta"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Què li va ensenyar a fer la monitora amb el xurro?",
+      "options": [
+        "Nedar sota l'aigua",
+        "Saltar del trampolí",
+        "Flotar d'esquena"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Al final de la classe, la Valèria no volia tornar mai més a la piscina.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    2,
+    1
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "es-012",
+  "lang": "es",
+  "title": "El zorro y el cuervo generoso",
+  "genre": "fabula",
+  "level": 2,
+  "emoji": "🦊",
+  "text": "En un bosque de encinas vivía un cuervo llamado Negrillo que tenía fama de ser muy generoso. Cada otoño recogía bellotas y nueces y las guardaba en el hueco de un árbol. Cuando llegaba el invierno, compartía su despensa con cualquier animal que pasara hambre.\n\nUn zorro astuto, que siempre buscaba la manera de comer sin esforzarse, pensó que aquel cuervo era un tonto. «Si le cuento una historia triste, me lo dará todo», se dijo.\n\nAl día siguiente, el zorro llegó cojeando y con cara de pena. Le contó al cuervo que se había hecho daño en una pata y que llevaba días sin comer. Negrillo, sin dudarlo, le llenó una bolsa de nueces. El zorro se marchó riéndose en cuanto dobló el camino, y volvió a repetir el engaño una y otra vez.\n\nPero los animales del bosque no son tontos. La ardilla, que lo había visto todo desde una rama, se lo contó a la lechuza, y la lechuza al cuervo. La siguiente vez que el zorro apareció cojeando, Negrillo le sonrió.\n\n—Hoy tengo una sorpresa: el tejón va a curarte la pata —le dijo.\n\nEl zorro, al ver llegar al tejón, echó a correr a toda velocidad. Todos vieron que su pata estaba perfectamente.\n\nDesde ese día nadie volvió a creer al zorro, ni siquiera cuando de verdad tuvo hambre.\n\nMoraleja: quien engaña a los demás acaba perdiendo su confianza.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Qué guardaba el cuervo en el hueco del árbol?",
+      "options": [
+        "Bellotas y nueces",
+        "Huevos y semillas",
+        "Hojas y ramas"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "El zorro estaba herido de verdad.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Quién vio el engaño desde una rama?",
+      "options": [
+        "La lechuza",
+        "La ardilla",
+        "El tejón"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "El zorro salió corriendo cuando vio llegar al tejón.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué le pasó al zorro al final?",
+      "options": [
+        "Se hizo amigo del cuervo",
+        "Le dieron más comida que nunca",
+        "Nadie volvió a creerle"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    3
+  ]
+}

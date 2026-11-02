@@ -1,0 +1,55 @@
+{
+  "id": "ca-002",
+  "lang": "ca",
+  "title": "El drac que no sabia fer foc",
+  "genre": "fantasia",
+  "level": 2,
+  "emoji": "🐉",
+  "text": "A prop de Montblanc, dins d'una cova plena de molsa, vivia un drac anomenat Fumet. Tots els dracs de la seva família treien flames enormes per la boca, però en Fumet només en treia un núvol de fum gris. A més, tenia por del foc i s'amagava quan els seus cosins jugaven a cremar branques.\n\nUn vint-i-tres d'abril, una nena que es deia Jordina va pujar a la muntanya per collir roses. De sobte, va començar a ploure i es va refugiar a la cova. Quan va veure el drac, es va espantar una mica, però en Fumet li va dir amb veu tímida:\n\n—No pateixis, jo no faig mal a ningú. Ni tan sols sé fer foc.\n\nLa Jordina estava xopa i tremolava de fred. Aleshores en Fumet va tenir una idea: va bufar suaument i el seu fum calent va omplir la cova com una manta tèbia. En pocs minuts, la roba de la nena es va eixugar.\n\n—Ets el drac més útil que he conegut mai! —va exclamar la Jordina.\n\nQuan va parar de ploure, la nena li va regalar una rosa vermella. Des d'aquell dia, en Fumet no es va tornar a avergonyir del seu fum. Havia descobert que cadascú té el seu propi talent, i que el seu servia per fer feliços els altres.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Què treia en Fumet per la boca?",
+      "options": [
+        "Flames enormes",
+        "Un núvol de fum",
+        "Gotes d'aigua"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "La Jordina va pujar a la muntanya per collir roses.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Per què la Jordina es va refugiar a la cova?",
+      "options": [
+        "Perquè va començar a ploure",
+        "Perquè buscava el drac",
+        "Perquè s'havia perdut"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Què va descobrir en Fumet al final?",
+      "options": [
+        "Que havia d'aprendre a fer foc",
+        "Que les coves són perilloses",
+        "Que cadascú té el seu propi talent"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Al principi, en Fumet estava orgullós de no saber fer foc.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    1,
+    0
+  ]
+}

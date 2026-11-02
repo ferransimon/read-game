@@ -1,0 +1,55 @@
+{
+  "id": "ca-030",
+  "lang": "ca",
+  "title": "Bon dia a la granja",
+  "genre": "poema",
+  "level": 1,
+  "emoji": "🐄",
+  "text": "El gall canta: quiquiriquic!\ni es desperta el veïnat,\nla vaca Rosa fa un badall\ni l'ase diu: «Ja m'he llevat!»\n\nLa pagesa Anna porta el cubell\nper munyir la llet del matí,\nles gallines ponen ous\ni el porquet es torna a adormir.\n\nL'ovelleta diu: «Bee, bee,\nvull herba fresca per dinar».\nEl gos que vigila el ramat\nla porta al prat a pasturar.\n\nAl vespre, quan el sol se'n va,\nla granja calla a poc a poc,\nl'Anna tanca la porteta\ni tots dormen vora el foc.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Qui desperta tothom a la granja?",
+      "options": [
+        "El gos",
+        "El gall",
+        "L'ase"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Com es diu la vaca?",
+      "options": [
+        "Rosa",
+        "Anna",
+        "Blanca"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "El gos porta l'ovelleta al prat.",
+      "answer": true
+    },
+    {
+      "type": "tf",
+      "q": "El porquet es lleva ben d'hora per treballar.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "Qui tanca la porteta al vespre?",
+      "options": [
+        "L'ase",
+        "La vaca",
+        "L'Anna"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

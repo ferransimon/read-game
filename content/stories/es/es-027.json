@@ -1,0 +1,55 @@
+{
+  "id": "es-027",
+  "lang": "es",
+  "title": "El dragón que tenía frío",
+  "genre": "fantasia",
+  "level": 2,
+  "emoji": "🐉",
+  "text": "En lo alto de una montaña nevada vivía un dragón verde llamado Brasilio. Era un dragón muy raro: no sabía echar fuego. Cuando llegaba el invierno, tiritaba en su cueva y le castañeteaban los dientes.\n\nUn día de enero, una niña llamada Aitana subió a la montaña con sus esquís y entró en la cueva para descansar. Al ver al dragón, se quedó quieta, pero enseguida notó que él temblaba todavía más que ella.\n\n—¿Tienes frío? —preguntó Aitana.\n\n—Muchísimo —respondió Brasilio con voz triste—. Todos los dragones saben hacer fuego menos yo.\n\nAitana pensó un momento. Sacó de su mochila una bufanda de lana roja que le había tejido su abuela y se la enrolló al dragón en el cuello. Era tan larga que le dio tres vueltas.\n\n—¡Qué calentita! —exclamó Brasilio, y sonrió por primera vez en todo el invierno.\n\nEntonces ocurrió algo sorprendente. Brasilio estaba tan contento que estornudó, y de su nariz salió una pequeña llama. ¡Por fin sabía hacer fuego! Con ella encendió una hoguera, y los dos se sentaron a calentarse las manos y las patas.\n\nDesde aquel día, cada invierno, Aitana visita a su amigo, y él le prepara chocolate caliente con su llama.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Qué problema tenía Brasilio?",
+      "options": [
+        "No sabía volar",
+        "No sabía echar fuego",
+        "No tenía casa"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué le regaló Aitana al dragón?",
+      "options": [
+        "Una manta de su madre",
+        "Un gorro de lana",
+        "Una bufanda roja"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Aitana subió a la montaña en verano.",
+      "answer": false
+    },
+    {
+      "type": "tf",
+      "q": "Brasilio echó su primera llama al estornudar.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué pudo Brasilio hacer fuego al final?",
+      "options": [
+        "Porque estaba tan contento que estornudó",
+        "Porque Aitana le dio una cerilla",
+        "Porque comió algo picante"
+      ],
+      "answer": 0
+    }
+  ],
+  "speedQuestions": [
+    1,
+    3
+  ]
+}

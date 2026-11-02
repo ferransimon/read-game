@@ -1,0 +1,55 @@
+{
+  "id": "ca-006",
+  "lang": "ca",
+  "title": "Panellets de pinyons",
+  "genre": "receta",
+  "level": 1,
+  "emoji": "🍪",
+  "text": "Els panellets són uns dolços típics de la castanyada. Aquesta recepta és fàcil, però demana ajuda a un adult per fer servir el forn.\n\nIngredients (per a uns vint panellets):\n- 250 grams d'ametlla mòlta\n- 200 grams de sucre\n- 1 moniato petit bullit\n- 1 ou batut\n- 150 grams de pinyons\n\nPreparació:\n\n1. Aixafa el moniato amb una forquilla fins que quedi com un puré.\n\n2. Barreja'l amb l'ametlla mòlta i el sucre. Pasta-ho amb les mans fins que tinguis una massa suau.\n\n3. Fes boletes petites, de la mida d'una nou.\n\n4. Passa les boletes per l'ou batut i després arrebossa-les amb pinyons.\n\n5. Posa-les en una safata i cou-les al forn deu minuts, fins que els pinyons quedin daurats.\n\nDeixa-les refredar i... bon profit!",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Quan es mengen típicament els panellets?",
+      "options": [
+        "A Sant Joan",
+        "A la castanyada",
+        "A Carnestoltes"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Amb què s'aixafa el moniato?",
+      "options": [
+        "Amb una cullera",
+        "Amb les mans",
+        "Amb una forquilla"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Les boletes han de ser de la mida d'una nou.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Quants minuts s'han de coure els panellets?",
+      "options": [
+        "Deu",
+        "Vint",
+        "Cinc"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Els nens poden fer servir el forn sense cap adult.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    1,
+    3
+  ]
+}

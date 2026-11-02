@@ -1,0 +1,55 @@
+{
+  "id": "es-029",
+  "lang": "es",
+  "title": "La gorra perdida en el museo",
+  "genre": "cuento",
+  "level": 2,
+  "emoji": "🧢",
+  "text": "El jueves, la clase de cuarto fue de excursión al Museo de Ciencias Naturales. Mateo estaba tan nervioso que casi no había desayunado. Llevaba su gorra azul favorita, la que le había regalado su tío Andrés, con un dinosaurio bordado.\n\nEn el museo vieron el esqueleto enorme de una ballena, minerales brillantes y una sala llena de mariposas de todos los colores. Mateo lo miraba todo con la boca abierta.\n\nPero, al subir al autobús, se llevó la mano a la cabeza. ¡La gorra no estaba!\n\n—¿Dónde la habré dejado? —dijo, preocupado.\n\nSu amiga Salma le ayudó a pensar.\n\n—Vamos a recordar paso a paso —propuso—. En la sala de la ballena la llevabas puesta, porque la maestra te hizo una foto.\n\nMiraron la foto en la cámara de la maestra. Sí, allí estaba la gorra. Después habían ido a la sala de las mariposas, donde hacía mucho calor. Mateo se acordó de que se la había quitado para abanicarse.\n\nLa maestra Julia habló con un vigilante del museo, que fue a buscarla. Al cabo de cinco minutos volvió sonriendo con la gorra en la mano.\n\n—Estaba en un banco, junto a la mariposa más grande —dijo.\n\nMateo dio las gracias a todos. En el viaje de vuelta, le dijo a Salma que era la mejor detective del colegio.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Qué tenía bordado la gorra de Mateo?",
+      "options": [
+        "Una ballena",
+        "Un dinosaurio",
+        "Una mariposa"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Mateo se dio cuenta de que no tenía la gorra al subir al autobús.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Dónde encontraron la gorra?",
+      "options": [
+        "En la sala de la ballena",
+        "En la entrada del museo",
+        "En un banco de la sala de las mariposas"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué se quitó Mateo la gorra?",
+      "options": [
+        "Porque hacía calor en la sala",
+        "Porque se lo pidió la maestra",
+        "Porque le apretaba"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "El vigilante tardó una hora en encontrar la gorra.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

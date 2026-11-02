@@ -1,0 +1,55 @@
+{
+  "id": "es-010",
+  "lang": "es",
+  "title": "Brochetas de fruta arcoíris",
+  "genre": "receta",
+  "level": 1,
+  "emoji": "🍓",
+  "text": "Esta merienda es fácil, sana y muy divertida de preparar. ¡Pide ayuda a un adulto para cortar la fruta!\n\nIngredientes (para cuatro brochetas):\n- 8 fresas\n- 2 mandarinas\n- 1 plátano\n- 1 kiwi\n- 16 uvas moradas\n- 4 palitos de brocheta\n\nPreparación:\n\n1. Lava bien las fresas y las uvas. Quita las hojas verdes a las fresas.\n\n2. Pela las mandarinas y separa los gajos. Pela el plátano y el kiwi, y pide a un adulto que los corte en rodajas gruesas.\n\n3. Pincha la fruta en el palito siguiendo los colores del arcoíris: primero una fresa roja, después un gajo de mandarina naranja, luego una rodaja de plátano amarillo, una de kiwi verde y, al final, las uvas moradas.\n\n4. Repite hasta llenar el palito.\n\n5. Guarda las brochetas en la nevera diez minutos. ¡Frescas están más ricas!",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Cuántas brochetas salen con estos ingredientes?",
+      "options": [
+        "Dos",
+        "Seis",
+        "Cuatro"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué fruta va primero en la brocheta?",
+      "options": [
+        "La fresa",
+        "El kiwi",
+        "La uva"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Los niños deben cortar el plátano y el kiwi sin ayuda.",
+      "answer": false
+    },
+    {
+      "type": "tf",
+      "q": "Las brochetas se guardan en la nevera antes de comerlas.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué se sigue ese orden de frutas?",
+      "options": [
+        "Porque así pesan menos",
+        "Para formar los colores del arcoíris",
+        "Porque es el orden del abecedario"
+      ],
+      "answer": 1
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "es-044",
+  "lang": "es",
+  "title": "El conejo del autobús",
+  "genre": "cuento",
+  "level": 1,
+  "emoji": "🐰",
+  "text": "Ayer, Carmen y su madre fueron al centro de la ciudad en autobús. Carmen llevaba a Pompón, su conejo de peluche.\n\nAl bajar del autobús, Carmen miró sus manos. ¡Pompón no estaba! Se había quedado en el asiento.\n\nCarmen empezó a llorar. Su madre la abrazó y le dijo:\n\n—Tranquila. Vamos a llamar a la oficina de objetos perdidos.\n\nLlamaron por teléfono. Un señor muy amable les dijo que el conductor había encontrado un conejo blanco con un lazo rojo.\n\n—¡Es Pompón! —gritó Carmen.\n\nPor la tarde fueron a la estación a buscarlo. El conductor, que se llamaba Felipe, se lo dio con una sonrisa.\n\n—Ha hecho un viaje muy largo —dijo—. Ha dado tres vueltas a la ciudad.\n\nCarmen abrazó a Pompón y le dio las gracias a Felipe.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Qué es Pompón?",
+      "options": [
+        "Un perro de verdad",
+        "Un conejo de peluche",
+        "Un gato de peluche"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "¿Dónde se quedó Pompón?",
+      "options": [
+        "En el asiento del autobús",
+        "En una tienda",
+        "En el parque"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Pompón tiene un lazo azul.",
+      "answer": false
+    },
+    {
+      "type": "tf",
+      "q": "El conductor se llamaba Felipe.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué dice Felipe que Pompón ha hecho un viaje largo?",
+      "options": [
+        "Porque fue en avión",
+        "Porque se perdió en el campo",
+        "Porque se quedó en el autobús mientras daba vueltas a la ciudad"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    1,
+    3
+  ]
+}

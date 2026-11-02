@@ -1,0 +1,55 @@
+{
+  "id": "ca-037",
+  "lang": "ca",
+  "title": "El far i el pescador",
+  "genre": "poema",
+  "level": 2,
+  "emoji": "🌊",
+  "text": "Al cap de la roca vella,\non el vent bufa molt fort,\nhi viu un far alt i blanc\nque vigila tot el port.\n\nDe dia dorm tranquil·lament\nmentre juguen les gavines,\ni els nens fan castells de sorra\ni busquen petxines fines.\n\nCada nit, quan surt la lluna,\nobre el seu gran ull daurat\ni guia totes les barques\ncap al port ben arrecerat.\n\nUna nit de gran tempesta,\nquan el mar bramava irat,\nen Tomàs, el vell pescador,\nanava desorientat.\n\nNo veia ni cel ni terra,\ntot era aigua i foscor,\nperò de cop, entre la boira,\nva brillar una lluentor.\n\nEra el far, el vell amic,\nque el cridava: «Vine aquí!».\nEn Tomàs va seguir la llum\ni va trobar el camí.\n\nAl moll l'esperava la família\namb mantes i un brou calent,\ni la seva néta Carlota\nli va fer un petó content.\n\nAra, cada matinada,\nquan surt a pescar al mar,\nen Tomàs aixeca la mà\ni diu: «Moltes gràcies, far!».",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "De quin color és el far?",
+      "options": [
+        "Vermell",
+        "Blanc",
+        "Gris"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Què fa el far de dia?",
+      "options": [
+        "Dorm tranquil·lament",
+        "Encén la llum",
+        "Surt a pescar"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "En Tomàs es va perdre una nit de tempesta.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Per què en Tomàs saluda el far cada matinada?",
+      "options": [
+        "Perquè el far li parla cada dia",
+        "Perquè li ho mana la Carlota",
+        "Perquè el far el va ajudar a tornar al port"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "La família d'en Tomàs no el va anar a esperar al moll.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

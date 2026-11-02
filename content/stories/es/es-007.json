@@ -1,0 +1,55 @@
+{
+  "id": "es-007",
+  "lang": "es",
+  "title": "Cartas desde Escocia",
+  "genre": "carta",
+  "level": 2,
+  "emoji": "📮",
+  "text": "Hola, Hugo:\n\nMe ha encantado recibir tu carta y la foto de tu perro Canelo. ¡Es enorme! Aquí en Edimburgo casi nadie tiene perros tan grandes, porque muchas familias viven en pisos pequeños.\n\nMe preguntabas cómo es mi colegio. Es muy distinto al tuyo. Llevamos uniforme: un jersey azul marino, pantalón gris y una corbata a rayas que me cuesta mucho anudar. Las clases empiezan a las nueve menos cuarto y, a mediodía, comemos en el comedor un plato caliente y un postre. Lo que más me gusta es que los viernes por la tarde tenemos taller de gaita. Todavía suena como un pato resfriado, pero mi profesor dice que voy mejorando.\n\nAquí llueve muchísimo. Mi madre dice que en Escocia hay cuatro estaciones en un mismo día. Por la mañana sale el sol, a mediodía cae un chaparrón y por la tarde sopla un viento helado. Por eso siempre llevo un chubasquero en la mochila.\n\nEstoy practicando el español con mi abuela, que es de Granada. Ya sé decir «tengo hambre», «¡qué guay!» y «no me toques las narices». Mi abuela se ríe mucho cuando digo la última.\n\nCuéntame cómo celebráis la Navidad en tu pueblo. ¿Es verdad que los Reyes Magos traen los regalos en enero?\n\nTu amigo por correspondencia,\nCallum",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿En qué ciudad vive Callum?",
+      "options": [
+        "En Londres",
+        "En Edimburgo",
+        "En Granada"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Callum lleva uniforme en el colegio.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué instrumento aprende Callum los viernes?",
+      "options": [
+        "La guitarra",
+        "El violín",
+        "La gaita"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Según la carta, en Escocia casi nunca llueve.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué Callum está aprendiendo español?",
+      "options": [
+        "Porque su abuela es de Granada",
+        "Porque se va a mudar a España",
+        "Porque se lo mandan en el colegio"
+      ],
+      "answer": 0
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

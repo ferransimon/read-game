@@ -1,0 +1,55 @@
+{
+  "id": "es-003",
+  "lang": "es",
+  "title": "El primer día de Omar",
+  "genre": "cuento",
+  "level": 1,
+  "emoji": "🎒",
+  "text": "Omar llegó nuevo al colegio en octubre. Venía de otra ciudad y no conocía a nadie. En la puerta de la clase, apretaba fuerte la mano de su madre.\n\nLa maestra, Carmen, le sonrió y le presentó a todos. Le dio un sitio junto a la ventana, al lado de una niña con gafas verdes. Se llamaba Valeria.\n\nEn el recreo, Omar se sentó solo en un banco. Entonces Valeria se acercó con una pelota.\n\n—¿Quieres jugar con nosotros? Nos falta un portero —le dijo.\n\nOmar paró tres goles seguidos. Los niños aplaudieron y gritaron su nombre.\n\nCuando su madre fue a buscarlo, Omar salió corriendo.\n\n—Mamá, ¿puedo volver mañana?",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿En qué mes llegó Omar al colegio?",
+      "options": [
+        "En septiembre",
+        "En octubre",
+        "En enero"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "¿Quién invitó a Omar a jugar?",
+      "options": [
+        "Valeria",
+        "La maestra Carmen",
+        "Su madre"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Omar jugó de delantero en el partido.",
+      "answer": false
+    },
+    {
+      "type": "tf",
+      "q": "Valeria lleva gafas verdes.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Cómo se sentía Omar al final del día?",
+      "options": [
+        "Triste y cansado",
+        "Enfadado con todos",
+        "Contento y con ganas de volver"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

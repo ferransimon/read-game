@@ -1,0 +1,55 @@
+{
+  "id": "es-021",
+  "lang": "es",
+  "title": "El pájaro que no quería compartir",
+  "genre": "fabula",
+  "level": 1,
+  "emoji": "🐦",
+  "text": "En un árbol del parque vivía un gorrión que encontró un comedero lleno de semillas. Era el comedero que una niña había colgado para todos los pájaros.\n\n—¡Todo esto es mío! —gritó el gorrión.\n\nCada vez que llegaba otro pájaro, el gorrión lo echaba a picotazos. Así pasó toda la semana, solo y vigilando.\n\nUna tarde empezó a llover muy fuerte. El comedero se mojó y las semillas se estropearon. El gorrión se quedó con hambre y frío.\n\nEntonces vio a los otros pájaros juntos, bajo el tejado de una caseta. Compartían unas migas de pan y se daban calor.\n\n—¿Puedo quedarme con vosotros? —preguntó el gorrión, avergonzado.\n\n—Claro que sí —contestó un mirlo—. Aquí siempre hay sitio.\n\nMoraleja: lo que se comparte vale el doble.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Quién había colgado el comedero?",
+      "options": [
+        "Un abuelo",
+        "Una niña",
+        "El mirlo"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "El gorrión dejaba comer a los demás pájaros.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué pasó con las semillas cuando llovió?",
+      "options": [
+        "Crecieron",
+        "Se las llevó el viento",
+        "Se estropearon"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Los otros pájaros aceptaron al gorrión bajo el tejado.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Cuál es la moraleja?",
+      "options": [
+        "Lo que se comparte vale el doble",
+        "Hay que guardar la comida para uno mismo",
+        "La lluvia es mala para los pájaros"
+      ],
+      "answer": 0
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

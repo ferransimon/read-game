@@ -1,0 +1,55 @@
+{
+  "id": "ca-003",
+  "lang": "ca",
+  "title": "La castanyada de la classe",
+  "genre": "cuento",
+  "level": 1,
+  "emoji": "🌰",
+  "text": "Avui és la castanyada i a l'escola fem festa. La mestra, la Núria, ha portat un fogonet i una paella amb forats.\n\nEn Pol i la Iman han fet un tall a cada castanya. Si no les talles, poden petar com un globus!\n\nMentre les castanyes es couen, tota la classe canta la cançó de la castanyera. A l'aula fa una olor molt bona.\n\nDesprés mengem castanyes calentes embolicades amb paper de diari. També tastem moniatos i panellets de pinyons. En Pol s'embruta les mans de negre i tothom riu.\n\nAl final, la mestra explica que la castanyada se celebra a la tardor, just abans de Tots Sants. Quin dia més dolç!",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Com es diu la mestra?",
+      "options": [
+        "La Núria",
+        "La Iman",
+        "La Marta"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Cal fer un tall a les castanyes abans de coure-les.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Amb què emboliquen les castanyes calentes?",
+      "options": [
+        "Amb un drap",
+        "Amb paper de diari",
+        "Amb fulles"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "La castanyada se celebra a la primavera.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "Per què riu tothom?",
+      "options": [
+        "Perquè la mestra canta malament",
+        "Perquè cau la paella",
+        "Perquè en Pol s'embruta les mans"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

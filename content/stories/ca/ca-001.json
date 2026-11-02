@@ -1,0 +1,55 @@
+{
+  "id": "ca-001",
+  "lang": "ca",
+  "title": "Una carta des de la Costa Brava",
+  "genre": "carta",
+  "level": 1,
+  "emoji": "✉️",
+  "text": "Estimada Laia:\n\nT'escric des de Calella de Palafrugell, a la Costa Brava. Fa molt de sol i l'aigua és clara com un vidre.\n\nCada matí vaig a la platja amb els meus avis. L'avi m'ensenya a bussejar amb unes ulleres. Ahir vaig veure un pop amagat entre les roques! Era petit i es va tornar de color marró.\n\nA la tarda fem castells de sorra. El meu té quatre torres i un fossat ple d'aigua.\n\nQuan torni, et portaré una petxina rosa que vaig trobar a la sorra. És per a tu.\n\nUna abraçada molt forta,\nMarta",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Amb qui va a la platja la Marta?",
+      "options": [
+        "Amb els seus pares",
+        "Amb els seus avis",
+        "Amb la Laia"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Quin animal va veure la Marta entre les roques?",
+      "options": [
+        "Un pop",
+        "Un cranc",
+        "Un peix gros"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "El castell de sorra de la Marta té quatre torres.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Què li portarà la Marta a la Laia?",
+      "options": [
+        "Un pop petit",
+        "Unes ulleres",
+        "Una petxina rosa"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "La Marta s'avorreix molt durant les vacances.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    1,
+    2
+  ]
+}

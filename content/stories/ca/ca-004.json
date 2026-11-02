@@ -1,0 +1,55 @@
+{
+  "id": "ca-004",
+  "lang": "ca",
+  "title": "Una escola aixeca el seu primer castell",
+  "genre": "noticia",
+  "level": 2,
+  "emoji": "🤸",
+  "text": "VILAFRANCA DEL PENEDÈS. Els alumnes de cinquè i sisè de l'escola Les Moreres han aixecat aquest divendres el seu primer castell de quatre pisos al pati. Més de cent famílies van venir a veure-ho.\n\nEl projecte va començar el mes de setembre. Cada dimarts, a l'hora d'educació física, una colla castellera de la ciutat ensenya als nens i nenes a fer pinya, a pujar amb seguretat i a mantenir l'equilibri. Tots porten faixa i els més petits, que pugen a dalt de tot, porten casc.\n\n«Al principi tenia una mica de por, però els meus companys m'aguanten molt bé», explica l'Ona, de deu anys, que va fer d'enxaneta. Quan va arribar a dalt, va aixecar la mà i tot el pati va esclatar en aplaudiments.\n\nEl director de l'escola, en Jaume Puig, diu que fer castells ensenya coses molt importants: «Aquí ningú no pot fer-ho tot sol. Cal confiar en els altres i treballar en equip».\n\nLa propera actuació serà el mes de juny, durant la festa de final de curs. Els alumnes ja assagen per intentar fer un castell encara més alt.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Quants pisos tenia el castell?",
+      "options": [
+        "Tres",
+        "Quatre",
+        "Cinc"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Els nens i nenes assagen cada dimarts.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Què va fer l'Ona quan va arribar a dalt?",
+      "options": [
+        "Va cridar molt fort",
+        "Va baixar corrent",
+        "Va aixecar la mà"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Segons el director, què ensenyen els castells?",
+      "options": [
+        "A treballar en equip",
+        "A córrer més ràpid",
+        "A guanyar sempre"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "L'Ona no va tenir gens de por en cap moment.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

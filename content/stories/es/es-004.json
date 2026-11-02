@@ -1,0 +1,55 @@
+{
+  "id": "es-004",
+  "lang": "es",
+  "title": "Una cigüeña vuelve al campanario",
+  "genre": "noticia",
+  "level": 2,
+  "emoji": "🪺",
+  "text": "ALCALÁ DEL RÍO. Después de quince años sin visitas, una pareja de cigüeñas blancas ha vuelto a construir su nido en lo alto del campanario de la iglesia. Los vecinos no se lo podían creer cuando las vieron llegar a principios de febrero, cargadas de ramas y trozos de hierba.\n\nLas primeras en darse cuenta fueron las alumnas y alumnos de cuarto del colegio Los Olivos. «Estábamos en el patio y vimos dos pájaros enormes con el pico naranja», cuenta Daniela, de nueve años. «Al principio pensamos que eran garzas, pero la profe nos dijo que eran cigüeñas».\n\nDesde entonces, la clase de cuarto ha montado un pequeño observatorio en la ventana de la biblioteca. Con unos prismáticos prestados por el ayuntamiento, apuntan cada día en un cuaderno lo que hacen las aves: cuándo llegan, qué traen al nido y cuánto tiempo pasan fuera.\n\nSegún Antonio Ruiz, experto en aves de la comarca, el regreso de las cigüeñas es una buena noticia. «Significa que los campos y el río están más limpios y que hay comida suficiente para ellas», explica.\n\nSi todo va bien, en abril nacerán los primeros polluelos. Los niños ya han preparado un concurso para elegir sus nombres.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Dónde han hecho su nido las cigüeñas?",
+      "options": [
+        "En un árbol del patio",
+        "En el tejado del ayuntamiento",
+        "En el campanario de la iglesia"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Al principio, los niños pensaron que eran garzas.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué apuntan los niños en su cuaderno?",
+      "options": [
+        "Lo que hacen las cigüeñas cada día",
+        "Los nombres de los vecinos",
+        "El tiempo que hace en el pueblo"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué dice el experto que es una buena noticia?",
+      "options": [
+        "Porque las cigüeñas traen buena suerte",
+        "Porque indica que el campo y el río están más limpios",
+        "Porque atraerá turistas al pueblo"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Los polluelos ya han nacido.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

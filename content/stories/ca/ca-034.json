@@ -1,0 +1,55 @@
+{
+  "id": "ca-034",
+  "lang": "ca",
+  "title": "Una sorpresa al museu",
+  "genre": "cuento",
+  "level": 2,
+  "emoji": "🦕",
+  "text": "Els alumnes de quart van anar d'excursió al Museu de Ciències Naturals. Tots tenien ganes de veure l'esquelet de dinosaure que sortia als cartells.\n\nEn Biel, però, no estava gaire content. Li agradaven més els insectes que els dinosaures, i pensava que s'avorriria.\n\nLa primera sala era enorme. Al mig hi havia l'esquelet d'un diplodocus tan llarg que gairebé tocava les dues parets. Tothom es va quedar amb la boca oberta. En Biel va haver de reconèixer que era impressionant.\n\nDesprés, la guia, que es deia Montse, els va portar a una sala més petita i fosca. Allà hi havia vitrines plenes d'escarabats, papallones i libèl·lules de tot el món. Algunes papallones eren tan grans com la mà d'en Biel!\n\n—Sabíeu que hi ha més espècies d'insectes que de tots els altres animals junts? —va preguntar la Montse.\n\nEn Biel va aixecar la mà i va explicar que les marietes es mengen els pugons de les plantes. La guia el va felicitar i li va dir que potser algun dia seria entomòleg, que és com s'anomenen els científics que estudien els insectes.\n\nA l'autobús de tornada, en Biel no parava de parlar. Aquella excursió que li semblava avorrida havia estat la millor del curs.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Quin dinosaure hi havia a la primera sala?",
+      "options": [
+        "Un tiranosaure",
+        "Un diplodocus",
+        "Un triceratops"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Al principi, en Biel tenia moltes ganes d'anar al museu.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "Què hi havia a les vitrines de la sala petita?",
+      "options": [
+        "Insectes de tot el món",
+        "Pedres precioses",
+        "Ous de dinosaure"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Com s'anomenen els científics que estudien els insectes?",
+      "options": [
+        "Astrònoms",
+        "Geòlegs",
+        "Entomòlegs"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "En Biel va canviar d'opinió sobre l'excursió.",
+      "answer": true
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

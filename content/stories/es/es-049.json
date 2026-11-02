@@ -1,0 +1,55 @@
+{
+  "id": "es-049",
+  "lang": "es",
+  "title": "La orquesta de la basura",
+  "genre": "cuento",
+  "level": 2,
+  "emoji": "🎶",
+  "text": "Faltaban dos semanas para la fiesta de invierno del barrio, y la asociación de vecinos quería que los niños prepararan una actuación. El problema era que casi nadie tenía instrumentos.\n\n—No pasa nada —dijo Inés, la monitora del centro cívico—. ¡Los fabricaremos nosotros con cosas que la gente tira!\n\nAl principio, los niños no la creyeron. ¿Cómo iban a hacer música con basura? Pero Inés trajo una caja llena de botes, botellas, tapas y gomas elásticas, y empezaron a trabajar.\n\nRubén llenó unas botellas de plástico con arroz y lentejas y consiguió unas maracas estupendas. Amaia tensó gomas elásticas sobre una caja de zapatos y creó una guitarra que sonaba de verdad. Los gemelos Wang convirtieron unos botes de pintura vacíos en una batería, y Chloe colocó vasos de cristal con distintas cantidades de agua para tocar melodías golpeándolos con una cuchara.\n\nEnsayaron cada tarde. Al principio sonaba un poco desordenado, pero poco a poco aprendieron a escucharse unos a otros y a tocar al mismo ritmo.\n\nEl día de la fiesta, la plaza estaba llena. Cuando la orquesta terminó la primera canción, el público aplaudió tanto que tuvieron que tocarla otra vez.\n\nDespués, una vecina mayor se acercó a Inés.\n\n—Nunca habría imaginado que la basura pudiera sonar tan bien —dijo, riendo.\n\nDesde entonces, en el barrio nadie tira un bote sin preguntar antes si la orquesta lo necesita.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Con qué hizo Rubén sus maracas?",
+      "options": [
+        "Con latas y piedras",
+        "Con botellas, arroz y lentejas",
+        "Con vasos de cristal"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Amaia hizo una guitarra con una caja de zapatos.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Cómo tocaba Chloe sus melodías?",
+      "options": [
+        "Golpeando vasos con agua con una cuchara",
+        "Soplando dentro de botellas",
+        "Tirando de gomas elásticas"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Desde el primer ensayo, la orquesta sonó perfecta.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué en el barrio nadie tira un bote sin preguntar?",
+      "options": [
+        "Porque está prohibido",
+        "Porque los botes son caros",
+        "Porque podría servir para la orquesta"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    1,
+    3
+  ]
+}

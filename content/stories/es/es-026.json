@@ -1,0 +1,55 @@
+{
+  "id": "es-026",
+  "lang": "es",
+  "title": "Castañas en el pueblo",
+  "genre": "carta",
+  "level": 1,
+  "emoji": "🌰",
+  "text": "Querido Pablo:\n\nTe escribo desde el pueblo. Aquí ya ha llegado el otoño. Las hojas de los árboles son amarillas y naranjas, y por la mañana hace fresquito.\n\nAyer fui al bosque con el abuelo Ramón. Llevábamos una cesta grande. Recogimos muchas castañas. ¡Cuidado, que pinchan! El abuelo me enseñó a abrir los erizos con las botas.\n\nPor la tarde, la abuela asó las castañas en la chimenea. Olían de maravilla. Nos las comimos calentitas, envueltas en papel de periódico.\n\nCuando vengas en Navidad, te guardaré una bolsa. ¿Me escribirás pronto?\n\nUn beso muy grande,\nTu prima Irene",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Con quién fue Irene al bosque?",
+      "options": [
+        "Con la abuela",
+        "Con su hermano",
+        "Con el abuelo Ramón"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Las castañas se asaron en la chimenea.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Cómo abrían los erizos de las castañas?",
+      "options": [
+        "Con las manos",
+        "Con las botas",
+        "Con unas tijeras"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Irene escribe la carta en primavera.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué hay que tener cuidado con los erizos?",
+      "options": [
+        "Porque pinchan",
+        "Porque queman",
+        "Porque pesan mucho"
+      ],
+      "answer": 0
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

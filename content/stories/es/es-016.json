@@ -1,0 +1,55 @@
+{
+  "id": "es-016",
+  "lang": "es",
+  "title": "Una postal del pueblo de la abuela",
+  "genre": "carta",
+  "level": 1,
+  "emoji": "👵",
+  "text": "Querido Álex:\n\n¡Qué ganas tengo de que vengas al pueblo este verano! Te escribo desde la cocina, mientras se hace el pan en el horno.\n\nLas gallinas han puesto muchos huevos esta semana. La Pinta, la gallina negra, ha tenido cinco pollitos amarillos. Son tan pequeños que caben en la palma de la mano.\n\nEl abuelo ha arreglado tu columpio del nogal. Le ha puesto una cuerda nueva y un asiento pintado de azul, tu color favorito.\n\nCuando vengas, iremos al río a ver los renacuajos y haremos juntos la tarta de manzana. Tú pondrás la canela, que es lo que más te gusta.\n\nPórtate bien en el colegio y estudia mucho.\n\nMuchos besos de tu abuela,\nRemedios",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Quién escribe la carta?",
+      "options": [
+        "La abuela Remedios",
+        "El abuelo",
+        "La madre de Álex"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "¿Cuántos pollitos ha tenido la Pinta?",
+      "options": [
+        "Tres",
+        "Siete",
+        "Cinco"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "El abuelo ha pintado el asiento del columpio de azul.",
+      "answer": true
+    },
+    {
+      "type": "tf",
+      "q": "La abuela escribe desde el jardín.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué pondrá Álex en la tarta de manzana?",
+      "options": [
+        "El azúcar",
+        "La canela",
+        "La nata"
+      ],
+      "answer": 1
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

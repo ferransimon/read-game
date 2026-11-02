@@ -1,0 +1,55 @@
+{
+  "id": "ca-020",
+  "lang": "ca",
+  "title": "La gata que sabia llegir",
+  "genre": "fantasia",
+  "level": 1,
+  "emoji": "🐈",
+  "text": "La Lluna és una gata grisa que viu a la biblioteca del poble. Durant el dia dorm sobre els llibres de contes.\n\nPerò quan la biblioteca tanca, la Lluna obre un llibre amb la pota i es posa unes ulleres petites. Sí, la Lluna sap llegir!\n\nLi agraden les històries de pirates i de ratolins valents. Una nit va llegir tan fort que va despertar els ratolins del soterrani. Van pujar tots a escoltar-la.\n\nDes d'aleshores, cada nit, la Lluna llegeix en veu alta i els ratolins s'asseuen al seu voltant. Ningú no es menja ningú: només volen saber com acaba el conte.\n\nL'Abril, la bibliotecària, troba cada matí molles de formatge a terra. I no sap per què!",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "On viu la gata Lluna?",
+      "options": [
+        "En una granja",
+        "A la biblioteca del poble",
+        "En una escola"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "La Lluna es posa unes ulleres per llegir.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Quines històries li agraden a la Lluna?",
+      "options": [
+        "De pirates i de ratolins valents",
+        "De princeses i castells",
+        "De dinosaures"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Qui va pujar a escoltar la Lluna?",
+      "options": [
+        "Els gossos del veí",
+        "Els ocells del jardí",
+        "Els ratolins del soterrani"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "La bibliotecària sap que la gata llegeix contes als ratolins.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ca-023",
+  "lang": "ca",
+  "title": "Els gegants ballen per la Mercè",
+  "genre": "noticia",
+  "level": 1,
+  "emoji": "🎉",
+  "text": "BARCELONA. Aquest cap de setmana, milers de persones han omplert la plaça de Sant Jaume per celebrar la festa de la Mercè.\n\nEl moment més esperat ha estat el ball dels gegants. Els gegants de la ciutat han ballat al so de les gralles i els timbals. Els nens i nenes saludaven des de les espatlles dels pares.\n\nTambé hi ha hagut castells, concerts i un correfoc. Al correfoc, els diables corrien entre la gent llançant guspires. Molts nens portaven barret i ulleres per protegir-se.\n\nDiumenge al vespre, uns grans focs artificials sobre el mar van tancar la festa. L'any que ve, més!",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "A quina plaça es va reunir la gent?",
+      "options": [
+        "A la plaça de Catalunya",
+        "A la plaça de Sant Jaume",
+        "A la plaça Reial"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Els gegants van ballar al so de les gralles i els timbals.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Per què molts nens portaven barret i ulleres al correfoc?",
+      "options": [
+        "Per protegir-se de les guspires",
+        "Perquè feia molt sol",
+        "Perquè anaven disfressats"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Com es va acabar la festa?",
+      "options": [
+        "Amb un concert de rock",
+        "Amb un sopar a la plaça",
+        "Amb focs artificials sobre el mar"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "La festa de la Mercè es va celebrar a Girona.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

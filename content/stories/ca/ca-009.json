@@ -1,0 +1,55 @@
+{
+  "id": "ca-009",
+  "lang": "ca",
+  "title": "Dissabte al mercat amb l'avi",
+  "genre": "cuento",
+  "level": 2,
+  "emoji": "🧺",
+  "text": "Cada dissabte al matí, l'Èric acompanya el seu avi Ramon al mercat de Santa Caterina, a Barcelona. L'avi porta un carretó de quadres i l'Èric porta la llista de la compra, escrita amb una lletra molt gran.\n\nPrimer van a la parada de la fruita. La senyora Montse sempre els regala una maduixa per tastar. «Són del Maresme, nen, les més dolces!», diu. L'avi en compra un quilo, i també pomes, plàtans i un meló.\n\nDesprés passen per la peixateria. L'Èric mira els peixos amb curiositat: n'hi ha de platejats, de vermells i fins i tot un pop amb vuit potes llarguíssimes. L'avi demana sardines per fer-les a la brasa el diumenge.\n\nA la parada del formatge, l'Èric ha de fer una feina important: comptar els diners. L'avi li dona un bitllet de deu euros i ell ha de comprovar que el canvi sigui correcte. Avui li han tornat tres euros amb cinquanta cèntims, i ho ha calculat sense equivocar-se.\n\n—Ets un bon comptable! —li diu l'avi, orgullós.\n\nAbans de tornar a casa, sempre fan una parada al bar del mercat. L'avi es pren un cafè amb llet i l'Èric un suc de taronja. Per a l'Èric, aquesta és la millor estona de la setmana.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "A quin mercat van l'Èric i l'avi?",
+      "options": [
+        "Al mercat de la Boqueria",
+        "Al mercat de Santa Caterina",
+        "Al mercat del Born"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "La senyora Montse els regala una maduixa per tastar.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Per què compra sardines l'avi?",
+      "options": [
+        "Per fer-les a la brasa el diumenge",
+        "Per donar-les al gat",
+        "Per fer una sopa"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Quant de canvi li han tornat a l'Èric?",
+      "options": [
+        "Cinc euros",
+        "Deu euros",
+        "Tres euros amb cinquanta cèntims"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "A l'Èric no li agrada gens anar al mercat.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    1,
+    0
+  ]
+}

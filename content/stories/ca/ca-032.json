@@ -1,0 +1,55 @@
+{
+  "id": "ca-032",
+  "lang": "ca",
+  "title": "Com fer un hotel d'insectes",
+  "genre": "instrucciones",
+  "level": 1,
+  "emoji": "🐞",
+  "text": "Els insectes ajuden molt a la natura. Si els fas una caseta, tindran un lloc per amagar-se i descansar.\n\nQuè necessites:\n- Una ampolla de plàstic gran\n- Unes tisores (demana ajuda a un adult)\n- Pals petits, pinyes i canyes\n- Un cordill\n\nPassos:\n1. Demana a un adult que talli l'ampolla per la meitat.\n2. Omple les dues parts amb pals, pinyes i trossos de canya. Han de quedar ben atapeïts.\n3. Lliga el cordill al voltant de l'ampolla.\n4. Penja l'hotel en un arbre o en un balcó on no faci massa sol.\n5. Espera uns dies i observa qui hi ve a viure!\n\nSegur que aviat hi veuràs marietes, abelles petites i altres insectes. Recorda que no els has de molestar.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Quin recipient fas servir per fer l'hotel?",
+      "options": [
+        "Una capsa de sabates",
+        "Una ampolla de plàstic",
+        "Una galleda"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Has de fer servir les tisores tu sol, sense ajuda.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "Què poses a dins de l'hotel?",
+      "options": [
+        "Pals, pinyes i canyes",
+        "Terra i aigua",
+        "Fulles i sucre"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "On s'ha de penjar l'hotel?",
+      "options": [
+        "Al costat de l'estufa",
+        "A dins de casa",
+        "En un arbre o un balcó amb poc sol"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Quan vinguin els insectes, els has de deixar tranquils.",
+      "answer": true
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

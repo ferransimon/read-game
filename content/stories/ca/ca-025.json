@@ -1,0 +1,55 @@
+{
+  "id": "ca-025",
+  "lang": "ca",
+  "title": "El robot que ballava sardanes",
+  "genre": "fantasia",
+  "level": 2,
+  "emoji": "🤖",
+  "text": "A la fàbrica de robots de Terrassa, tots els robots feien la mateixa feina: cargolar cargols, tot el dia, sense parar. Tots menys un, el robot R-7, que tenia un problema: quan sentia música, els peus se li movien sols.\n\nUn diumenge, el camió que el portava a una altra fàbrica es va aturar al costat d'una plaça plena de gent. Hi sonava una cobla, i la gent s'agafava de les mans fent rotllanes. Ballaven sardanes.\n\nL'R-7 va baixar del camió sense que ningú se n'adonés. Es va quedar mirant els peus dels balladors: punts curts, punts llargs, un, dos, tres... Els seus sensors ho anotaven tot.\n\nUna nena amb trenes, la Martina, el va veure i li va allargar la mà.\n\n—Vols ballar? És fàcil: només has de comptar i no perdre el compàs.\n\nL'R-7 va entrar a la rotllana. Al principi trepitjava tothom, i les seves passes feien cloc, cloc, cloc. Però a poc a poc va trobar el ritme. Quan la cobla va tocar l'última nota, tota la plaça va aplaudir el robot ballador.\n\nEl conductor del camió, que el buscava preocupat, el va trobar enmig de la rotllana, saltant de felicitat. No va tenir cor de separar-lo dels seus nous amics i el va deixar quedar-se al poble. Des d'aleshores, l'R-7 ja no cargola cargols: cada diumenge balla sardanes a la plaça, amb la Martina al seu costat.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Quina feina feien els robots a la fàbrica?",
+      "options": [
+        "Pintar cotxes",
+        "Cargolar cargols",
+        "Fer pa"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "A l'R-7 se li movien els peus sols quan sentia música.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Qui va convidar l'R-7 a ballar?",
+      "options": [
+        "El conductor del camió",
+        "Un músic de la cobla",
+        "Una nena amb trenes"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "L'R-7 va ballar perfectament des del primer moment.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "Què fa ara l'R-7 cada diumenge?",
+      "options": [
+        "Balla sardanes a la plaça",
+        "Treballa a la fàbrica",
+        "Condueix el camió"
+      ],
+      "answer": 0
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

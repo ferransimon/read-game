@@ -1,0 +1,55 @@
+{
+  "id": "es-002",
+  "lang": "es",
+  "title": "El dragón que estornudaba flores",
+  "genre": "fantasia",
+  "level": 2,
+  "emoji": "🐉",
+  "text": "En lo alto de la montaña Nevada vivía un dragón joven llamado Brasero. Todos los dragones de su familia echaban fuego por la nariz, pero a Brasero le pasaba algo muy extraño: cada vez que intentaba lanzar una llamarada, estornudaba y de su hocico salía una lluvia de margaritas, amapolas y violetas.\n\nSus primos se reían de él. «¿Qué clase de dragón eres tú?», le decían. Brasero se escondía en su cueva, avergonzado, y pasaba los días mirando el valle desde lejos.\n\nAquel invierno fue el más largo que se recordaba. La nieve cubrió los campos durante meses y las abejas del valle no encontraban ni una sola flor. Sin flores no había miel, y la gente del pueblo estaba muy preocupada.\n\nUna niña llamada Inés subió a la montaña a pedir ayuda. Encontró a Brasero en su cueva y le explicó el problema. El dragón dudó, pero al final bajó al valle, respiró hondo y estornudó una vez, y otra, y otra más. Los prados se llenaron de colores y las abejas salieron zumbando de alegría.\n\nDesde ese día, los primos de Brasero dejaron de reírse. Y cada primavera, el pueblo celebra la Fiesta del Estornudo, con miel, música y muchas flores.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Qué le salía a Brasero por la nariz cuando estornudaba?",
+      "options": [
+        "Fuego",
+        "Flores",
+        "Burbujas"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Los primos de Brasero se reían de él al principio.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué estaba preocupada la gente del pueblo?",
+      "options": [
+        "Porque las abejas no tenían flores y no había miel",
+        "Porque el dragón quería quemar el pueblo",
+        "Porque se había roto el puente"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Inés bajó de la montaña sin hablar con el dragón.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué nos enseña esta historia?",
+      "options": [
+        "Que hay que esconderse cuando eres diferente",
+        "Que los dragones siempre echan fuego",
+        "Que lo que nos hace diferentes también puede ser útil"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

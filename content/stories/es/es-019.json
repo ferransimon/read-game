@@ -1,0 +1,55 @@
+{
+  "id": "es-019",
+  "lang": "es",
+  "title": "La tortuga que hablaba con el mar",
+  "genre": "fantasia",
+  "level": 1,
+  "emoji": "🐢",
+  "text": "En una isla pequeña vivía una tortuga muy vieja llamada Doña Concha. Tenía más de cien años y sabía un secreto: podía hablar con el mar.\n\nCada tarde, se acercaba a la orilla y preguntaba:\n\n—Mar, ¿qué noticias me traes hoy?\n\nY las olas le contestaban con su voz suave: «Shhh, shhh. Hoy han pasado delfines. Mañana habrá tormenta».\n\nUn día, un niño llamado Marcos la escuchó.\n\n—¿De verdad hablas con el mar? —preguntó sorprendido.\n\nDoña Concha le enseñó a escuchar con paciencia. Marcos cerró los ojos y oyó a las olas decir su nombre.\n\nDesde entonces, los dos se sientan juntos cada tarde. Cuando el mar avisa de una tormenta, Marcos corre al pueblo para que los pescadores no salgan con sus barcas.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Cuántos años tenía la tortuga?",
+      "options": [
+        "Más de cien",
+        "Diez",
+        "Cincuenta"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Las olas le hablaban a la tortuga.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Cómo se llama el niño?",
+      "options": [
+        "Mateo",
+        "Martín",
+        "Marcos"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Marcos aprendió a escuchar al mar en el primer segundo, sin esfuerzo.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Para qué corre Marcos al pueblo cuando hay tormenta?",
+      "options": [
+        "Para comprar un paraguas",
+        "Para avisar a los pescadores",
+        "Para esconderse en casa"
+      ],
+      "answer": 1
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

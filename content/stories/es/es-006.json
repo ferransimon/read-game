@@ -1,0 +1,55 @@
+{
+  "id": "es-006",
+  "lang": "es",
+  "title": "El gato que quería volar",
+  "genre": "poema",
+  "level": 1,
+  "emoji": "🐱",
+  "text": "Un gato gris llamado Lalo\nmiraba el cielo desde un palo.\nVeía pasar los gorriones\ny soñaba con aviones.\n\n—Yo también quiero volar,\npor encima del tejado y del mar.\nSe ató al lomo dos plumas\ny saltó desde las dunas.\n\nPero el gato no voló,\nen la arena aterrizó.\nUna gaviota se rio\ny un consejo le dio:\n\n—Tú no tienes que volar,\ntú sabes trepar y saltar.\nCada uno tiene su don,\n¡y el tuyo es ser un campeón!\n\nLalo subió a un árbol alto,\nde una rama a otra dio un salto.\nY desde allí, feliz y contento,\nsintió en la cara el viento.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Cómo se llama el gato del poema?",
+      "options": [
+        "Lalo",
+        "Pelo",
+        "Lolo"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué se ató el gato al lomo?",
+      "options": [
+        "Una cometa",
+        "Un paraguas",
+        "Dos plumas"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "El gato consiguió volar como los pájaros.",
+      "answer": false
+    },
+    {
+      "type": "tf",
+      "q": "Una gaviota le dio un consejo al gato.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué quiere decir la gaviota con «cada uno tiene su don»?",
+      "options": [
+        "Que todos sabemos volar",
+        "Que cada uno es bueno en algo distinto",
+        "Que los gatos no sirven para nada"
+      ],
+      "answer": 1
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

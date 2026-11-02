@@ -3,15 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
+    "dev": "pnpm content && next dev",
+    "build": "pnpm content && next build && node scripts/generate-sw.mjs",
+    "start": "npx serve out",
+    "lint": "eslint",
+    "content": "tsx scripts/content.ts",
+    "validate:content": "tsx scripts/content.ts --check",
+    "test": "vitest run"
   },
   "dependencies": {
     "next": "16.4.3",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "zod": "^4.6.7",
+    "zustand": "^5.0.16"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
@@ -21,7 +26,9 @@
     "eslint": "^9",
     "eslint-config-next": "16.4.3",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "tsx": "^4.23.15",
+    "typescript": "^5",
+    "vitest": "^5.0.5"
   },
   "packageManager": "pnpm@11.9.0"
 }

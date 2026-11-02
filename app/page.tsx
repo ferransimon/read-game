@@ -1,69 +1,109 @@
-import Image from "next/image";
+"use client";
 
-export default function Home() {
+import Link from "next/link";
+import { Onboarding, LangToggle } from "@/components/Onboarding";
+import { Screen, TONES, type Tone } from "@/components/ui";
+import { getStories } from "@/lib/content";
+import { useCurrent, useProgress, useT } from "@/lib/progress";
+
+export default function HomePage() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert h-5 w-[100px]"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.tsx
-            </code>{" "}
-            file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert h-[14px] w-4"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
+    <Screen back={null} requireProfile={false}>
+      <Home />
+    </Screen>
+  );
+}
+
+function Home() {
+  const { profile, data } = useCurrent();
+  const setLang = useProgress((s) => s.setLang);
+  const { t, lang } = useT();
+
+  if (!profile) return <Onboarding />;
+
+  const stories = getStories(lang);
+  const compDone = stories.filter((s) => data.comp[s.id]).length;
+  const speedDone = stories.filter((s) => data.speed[s.id]?.length).length;
+
+  return (
+    <div className="flex flex-col gap-6">
+      <div className="flex items-center justify-between gap-3">
+        <Link href="/perfiles/" className="flex items-center gap-3 rounded-2xl pr-3 transition active:scale-95">
+          <span className="grid size-14 place-items-center rounded-2xl bg-butter text-4xl">{profile.avatar}</span>
+          <span className="text-left">
+            <span className="block text-2xl font-bold leading-tight">{t("hello", { name: profile.name })}</span>
+            <span className="block text-base text-muted">{t("whatToPlay")}</span>
+          </span>
+        </Link>
+      </div>
+      <div className="flex justify-center">
+        <LangToggle value={lang} onChange={setLang} />
+      </div>
+
+      <ModeCard
+        href="/comprension/"
+        tone="peach"
+        icon="📖"
+        title={t("comprehension")}
+        sub={t("comprehensionSub")}
+        progress={`${compDone}/${stories.length}`}
+        linkHref="/comprension/lista/"
+        linkLabel={t("myStories")}
+      />
+      <ModeCard
+        href="/velocidad/"
+        tone="sky"
+        icon="⚡"
+        title={t("speed")}
+        sub={t("speedSub")}
+        progress={`${speedDone}/${stories.length}`}
+        linkHref="/velocidad/panel/"
+        linkLabel={t("myProgress")}
+      />
+      <ModeCard
+        href="/ortografia/"
+        tone="lavender"
+        icon="✏️"
+        title={t("spelling")}
+        sub={t("spellingSub")}
+        progress={data.spell.rounds.length ? `${data.spell.rounds.length} ${t("rounds").toLowerCase()}` : undefined}
+        linkHref="/ortografia/panel/"
+        linkLabel={t("myProgress")}
+      />
+    </div>
+  );
+}
+
+function ModeCard(props: {
+  href: string;
+  tone: Tone;
+  icon: string;
+  title: string;
+  sub: string;
+  progress?: string;
+  linkHref: string;
+  linkLabel: string;
+}) {
+  const tone = TONES[props.tone];
+  return (
+    <div className={`animate-rise overflow-hidden rounded-blob ${tone.soft}`}>
+      <Link href={props.href} className="flex items-center gap-3 p-4 transition sm:gap-4 sm:p-5 active:scale-[0.98]">
+        <span className="grid size-16 shrink-0 place-items-center rounded-3xl bg-white/70 text-4xl sm:size-20 sm:text-5xl">{props.icon}</span>
+        <span className="min-w-0 flex-1">
+          <span className="block text-[1.7rem] leading-tight font-bold sm:text-3xl">{props.title}</span>
+          <span className="block text-lg text-ink/75">{props.sub}</span>
+        </span>
+        <span className={`grid size-12 shrink-0 place-items-center rounded-full text-xl text-white ${tone.strong}`} aria-hidden>
+          ▶
+        </span>
+      </Link>
+      <Link
+        href={props.linkHref}
+        className="flex items-center justify-between border-t border-white/70 px-5 py-3 text-base font-semibold text-ink/80"
+      >
+        <span>📊 {props.linkLabel}</span>
+        {props.progress && <span className="rounded-full bg-white/70 px-3 py-0.5 text-sm">{props.progress}</span>}
+      </Link>
     </div>
   );
 }

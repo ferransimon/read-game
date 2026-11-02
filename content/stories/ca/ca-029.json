@@ -1,0 +1,55 @@
+{
+  "id": "ca-029",
+  "lang": "ca",
+  "title": "El drac de taps",
+  "genre": "noticia",
+  "level": 2,
+  "emoji": "♻️",
+  "text": "L'Escola Els Pins, de Vilanova del Riu, ha guanyat el premi comarcal de reciclatge gràcies a una idea molt original: fer escultures amb materials que tothom llença.\n\nTot va començar al mes d'octubre. Els alumnes de quart es van adonar que, després de l'esmorzar, les papereres del pati quedaven plenes d'envasos. «Vam pensar que era una llàstima llençar tantes coses que encara podien servir», explica la Clàudia, de nou anys.\n\nDurant tres mesos, cada classe va recollir taps, ampolles, brics i diaris vells. Amb tot aquest material van crear un drac gegant de més de quatre metres de llarg. Les escates són taps de colors i les ales estan fetes amb ampolles tallades.\n\nA més, l'escola ha posat contenidors de colors a cada passadís: el groc per als envasos, el blau per al paper i el verd per al vidre. Ara les papereres del pati gairebé no s'omplen.\n\nEl drac es podrà veure a la biblioteca municipal fins a finals de mes. La directora, la senyora Ramos, està molt orgullosa: «Els nens ens han ensenyat que reciclar també pot ser divertit».",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Quin animal van construir els alumnes?",
+      "options": [
+        "Un drac",
+        "Una balena",
+        "Un cavall"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Amb què van fer les escates?",
+      "options": [
+        "Amb diaris vells",
+        "Amb taps de colors",
+        "Amb brics"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "El contenidor blau és per al vidre.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "Per què ara les papereres del pati gairebé no s'omplen?",
+      "options": [
+        "Perquè els alumnes ja no esmorzen",
+        "Perquè les buiden cada hora",
+        "Perquè els alumnes reciclen als contenidors"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "El drac es pot veure a la biblioteca municipal.",
+      "answer": true
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

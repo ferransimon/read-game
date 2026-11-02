@@ -1,0 +1,55 @@
+{
+  "id": "es-035",
+  "lang": "es",
+  "title": "El gato que tocaba el violín",
+  "genre": "fantasia",
+  "level": 1,
+  "emoji": "🎻",
+  "text": "En una casa de la ciudad vivía un gato gris llamado Bigotes. Todas las tardes escuchaba a la niña de la casa, Clara, tocar el violín.\n\nUna noche, cuando todos dormían, Bigotes cogió el violín con sus patas. Pasó el arco por las cuerdas y... ¡sonó una melodía preciosa!\n\nLos vecinos se despertaron. Los pájaros del tejado empezaron a cantar. Hasta la luna se asomó para escuchar.\n\nA la mañana siguiente, Clara encontró el violín sobre su cama y a Bigotes dormido a su lado.\n\n—¿Has sido tú? —le preguntó, riendo.\n\nEl gato solo maulló y le guiñó un ojo. Desde entonces, Clara y Bigotes tocan juntos cada noche: ella, el violín, y él... ¡la pandereta!",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿De qué color es Bigotes?",
+      "options": [
+        "Gris",
+        "Negro",
+        "Blanco"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué instrumento toca Clara?",
+      "options": [
+        "El piano",
+        "La guitarra",
+        "El violín"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Bigotes tocó el violín por la tarde, delante de todos.",
+      "answer": false
+    },
+    {
+      "type": "tf",
+      "q": "Clara encontró a Bigotes dormido junto al violín.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué quería decir Bigotes al guiñar el ojo?",
+      "options": [
+        "Que tenía sueño",
+        "Que sí había sido él",
+        "Que le picaba el ojo"
+      ],
+      "answer": 1
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

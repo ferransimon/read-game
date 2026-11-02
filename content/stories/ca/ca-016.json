@@ -1,0 +1,55 @@
+{
+  "id": "ca-016",
+  "lang": "ca",
+  "title": "La nau de cartró",
+  "genre": "fantasia",
+  "level": 2,
+  "emoji": "🚀",
+  "text": "La Mireia tenia una capsa de cartró enorme, la de la rentadora nova. La va pintar de color plata, li va dibuixar finestres rodones i hi va escriure, amb lletres grans: «NAU ESTEL·LAR 1».\n\nAquella nit, quan tothom dormia, la capsa va començar a vibrar. Els botons que la Mireia havia dibuixat amb retolador es van il·luminar de colors. Una veu metàl·lica va dir:\n\n—Destinació: la Lluna. Compte enrere: tres, dos, u...\n\nI la nau va sortir volant per la finestra! La Mireia veia els llums de la ciutat cada cop més petits, fins que es van convertir en puntets com estrelles.\n\nQuan va aterrar a la Lluna, va fer un salt i va pujar molt amunt, com si fos una ploma. Allà va conèixer un petit extraterrestre verd que es deia Plic. Plic no havia vist mai una nena i li va fer moltes preguntes: què menjava, si tenia mascota, per què els humans dormen de nit...\n\nLa Mireia li va regalar el seu clauer en forma de gat, i Plic li va donar una pedra lunar que brillava a la foscor. Després van jugar a fer salts gegants fins que la Terra, al lluny, es va començar a il·luminar.\n\n—He de tornar, que surt el sol! —va dir la Mireia.\n\nL'endemà es va despertar al llit. Tot havia estat un somni? Però sota el coixí hi havia una pedra que brillava...",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "D'on havia sortit la capsa de cartró?",
+      "options": [
+        "De la rentadora nova",
+        "De la nevera nova",
+        "D'una botiga de joguines"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "La Mireia va pintar la capsa de color plata.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Com es deia l'extraterrestre?",
+      "options": [
+        "Plac",
+        "Plic",
+        "Ploc"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Què li va regalar la Mireia a l'extraterrestre?",
+      "options": [
+        "Una pedra lunar",
+        "Un retolador",
+        "El seu clauer en forma de gat"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "A la Lluna, la Mireia només podia fer salts molt petits.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

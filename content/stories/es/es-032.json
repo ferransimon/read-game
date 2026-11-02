@@ -1,0 +1,55 @@
+{
+  "id": "es-032",
+  "lang": "es",
+  "title": "Un comedero para pájaros",
+  "genre": "instrucciones",
+  "level": 1,
+  "emoji": "🐦",
+  "text": "Cuando llega el invierno, a los pájaros les cuesta encontrar comida. Puedes ayudarlos con un comedero hecho con un brik de leche vacío.\n\nNecesitas:\n- un brik de leche limpio\n- unas tijeras\n- un palito de madera\n- una cuerda\n- semillas para pájaros\n\nPasos:\n1. Pide a un adulto que recorte una ventana en un lado del brik.\n2. Haz un agujero pequeño debajo de la ventana y mete el palito. Allí se posarán los pájaros.\n3. Haz otro agujero en la parte de arriba y pasa la cuerda.\n4. Llena el fondo del brik con semillas.\n5. Cuelga el comedero en la rama de un árbol o en el balcón.\n\nAhora, espera en silencio y observa. ¡Pronto llegarán gorriones y petirrojos a comer!",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Con qué se hace el comedero?",
+      "options": [
+        "Con una botella de cristal",
+        "Con un brik de leche",
+        "Con una caja de zapatos"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "¿Para qué sirve el palito?",
+      "options": [
+        "Para que se posen los pájaros",
+        "Para remover las semillas",
+        "Para colgar el comedero"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Un adulto debe recortar la ventana del brik.",
+      "answer": true
+    },
+    {
+      "type": "tf",
+      "q": "El comedero se llena de agua.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué hay que esperar en silencio?",
+      "options": [
+        "Porque los pájaros duermen",
+        "Porque el ruido podría asustar a los pájaros",
+        "Porque el comedero se puede romper"
+      ],
+      "answer": 1
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

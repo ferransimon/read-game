@@ -1,0 +1,55 @@
+{
+  "id": "ca-049",
+  "lang": "ca",
+  "title": "Una setmana a la granja",
+  "genre": "cuento",
+  "level": 2,
+  "emoji": "🐓",
+  "text": "L'Ona vivia a Barcelona, en un setè pis, i mai no havia vist una gallina de prop. Aquell estiu, els seus pares la van portar a passar una setmana a la granja dels seus tiets, a prop de Vic.\n\nEl primer matí, la tieta Montse li va dir:\n\n—Vols venir a buscar els ous?\n\nL'Ona va dir que sí, però quan va entrar al galliner, una gallina rossa va començar a cloquejar i a batre les ales. L'Ona es va espantar tant que va sortir corrent.\n\n—No et farà res —va riure la tieta—. Només està protegint el seu niu. Si t'hi acostes a poc a poc i li parles fluixet, es calmarà.\n\nL'endemà, l'Ona ho va tornar a provar. Va entrar molt a poc a poc i va xiuxiuejar: «Bon dia, gallineta». Aquesta vegada, la gallina la va mirar amb el cap de costat i no es va moure. L'Ona va agafar tres ous encara calents!\n\nDurant la setmana, també va donar el biberó a un vedell, va regar les tomaqueres i va aprendre a distingir el blat de l'ordi.\n\nL'últim dia, abans de marxar, va anar a acomiadar-se de la gallina rossa. Li va posar un nom: Mantega.\n\n—Tornaré l'estiu que ve, Mantega —li va prometre.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "On vivia l'Ona?",
+      "options": [
+        "En una granja",
+        "A Barcelona",
+        "A Vic"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "La primera vegada que va entrar al galliner, l'Ona es va espantar.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Per què la gallina rossa batia les ales?",
+      "options": [
+        "Perquè protegia el seu niu",
+        "Perquè tenia gana",
+        "Perquè volia volar"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Quants ous va agafar l'Ona?",
+      "options": [
+        "Un",
+        "Dos",
+        "Tres"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "L'Ona no vol tornar mai més a la granja.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    3
+  ]
+}

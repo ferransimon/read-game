@@ -1,0 +1,55 @@
+{
+  "id": "es-014",
+  "lang": "es",
+  "title": "El diario de Pablo y su hámster",
+  "genre": "diario",
+  "level": 1,
+  "emoji": "🐹",
+  "text": "Lunes, 3 de marzo\n\nHoy ha llegado Bigotes a casa. Es un hámster marrón con una mancha blanca en la tripa. Mamá y yo le hemos comprado una jaula con una rueda.\n\nMartes, 4 de marzo\n\nBigotes duerme todo el día. Papá dice que los hámsteres son animales de noche. Por la noche he oído la rueda girar: ¡ñiqui, ñiqui, ñiqui!\n\nJueves, 6 de marzo\n\nLe he dado un trocito de zanahoria. Se lo ha guardado en los mofletes y se le ha puesto la cara redonda. Me he reído muchísimo.\n\nDomingo, 9 de marzo\n\nHoy he limpiado la jaula yo solo. Mamá me ha dicho que soy muy responsable. Bigotes ya no se asusta cuando lo cojo. Creo que ya somos amigos.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿De qué color es Bigotes?",
+      "options": [
+        "Gris",
+        "Blanco",
+        "Marrón"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Bigotes está más activo por la noche.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Dónde guardó Bigotes la zanahoria?",
+      "options": [
+        "En los mofletes",
+        "Debajo de la rueda",
+        "En su casita"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Pablo limpió la jaula con ayuda de su padre.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Cómo sabe Pablo que ya son amigos?",
+      "options": [
+        "Porque Bigotes come mucho",
+        "Porque Bigotes ya no se asusta cuando lo coge",
+        "Porque Bigotes corre en la rueda"
+      ],
+      "answer": 1
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

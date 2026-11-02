@@ -1,0 +1,55 @@
+{
+  "id": "es-011",
+  "lang": "es",
+  "title": "Un huerto en el patio del colegio",
+  "genre": "noticia",
+  "level": 1,
+  "emoji": "🥕",
+  "text": "VALLADOLID. El colegio San Fermín ha estrenado un huerto en su patio. Lo han preparado entre todos los alumnos de primero y segundo, con ayuda de sus familias.\n\nEl huerto tiene seis bancales de madera. En ellos han plantado tomates, lechugas, zanahorias y fresas. Cada clase se encarga de regar un día a la semana.\n\n«Lo que más me gusta es ver cómo crecen las plantas», dice Martín, de siete años. Su compañera Ainhoa prefiere buscar lombrices: «Son buenas para la tierra», explica.\n\nEl director del colegio, Luis Prieto, está muy contento. Dice que en el huerto los niños aprenden ciencias, paciencia y trabajo en equipo.\n\nEn junio, cuando las verduras estén listas, harán una gran ensalada para todo el colegio.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Dónde está el huerto?",
+      "options": [
+        "En el patio del colegio",
+        "En un parque del barrio",
+        "En la casa del director"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "¿Cuántos bancales tiene el huerto?",
+      "options": [
+        "Tres",
+        "Seis",
+        "Diez"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Cada clase riega el huerto todos los días.",
+      "answer": false
+    },
+    {
+      "type": "tf",
+      "q": "Ainhoa piensa que las lombrices son buenas para la tierra.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué harán en junio con las verduras?",
+      "options": [
+        "Venderlas en el mercado",
+        "Regalarlas a los profesores",
+        "Una ensalada para todo el colegio"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

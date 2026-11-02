@@ -1,0 +1,55 @@
+{
+  "id": "es-046",
+  "lang": "es",
+  "title": "El pez que quería ver las estrellas",
+  "genre": "fantasia",
+  "level": 2,
+  "emoji": "🐟",
+  "text": "En el fondo del mar, entre corales y algas, vivía un pececillo de color naranja llamado Coral. Todas las noches, su abuela le contaba historias sobre unas luces lejanas que brillaban por encima del agua.\n\n—Se llaman estrellas —le decía—. Nadie de aquí abajo las ha visto nunca, pero dicen que son preciosas.\n\nCoral soñaba con verlas. Un día decidió emprender el viaje hacia la superficie. Por el camino se encontró con un pulpo muy sabio llamado Octavio.\n\n—Para llegar arriba tienes que nadar mucho —le advirtió—. Pídele ayuda a la ballena Clementina; ella sube a respirar cada noche.\n\nCoral nadó y nadó hasta encontrar a la ballena, que era tan grande como un barco. Clementina escuchó su deseo y sonrió.\n\n—Súbete a mi cabeza y agárrate fuerte —le dijo.\n\nSubieron despacio, atravesando un agua cada vez más clara. Cuando por fin llegaron a la superficie, Clementina soltó un chorro de agua por su espiráculo, y Coral se asomó.\n\nAllí estaban: miles de estrellas brillando en el cielo oscuro y una luna redonda que se reflejaba sobre las olas. Coral se quedó sin palabras.\n\nAl volver al fondo, se lo contó todo a su abuela, con los ojos brillantes como dos pequeñas estrellas.\n\n—Ahora tú serás quien cuente la historia —dijo la abuela, emocionada.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Quién le hablaba a Coral de las estrellas?",
+      "options": [
+        "Su abuela",
+        "El pulpo Octavio",
+        "La ballena Clementina"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "¿Para qué subía Clementina cada noche a la superficie?",
+      "options": [
+        "Para ver la luna",
+        "Para respirar",
+        "Para buscar comida"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Coral subió a la superficie nadando él solo.",
+      "answer": false
+    },
+    {
+      "type": "tf",
+      "q": "Coral vio la luna reflejada sobre las olas.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué quiere decir la abuela con «Ahora tú serás quien cuente la historia»?",
+      "options": [
+        "Que Coral debe ir a la escuela",
+        "Que Coral tiene que volver a subir",
+        "Que Coral podrá contar a otros lo que ha visto"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    3
+  ]
+}

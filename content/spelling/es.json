@@ -1,0 +1,1951 @@
+[
+  {
+    "id": "es-s-001",
+    "type": "choose",
+    "category": "b-v",
+    "level": 1,
+    "sentence": "Mi hermano ___ al colegio en autobús.",
+    "options": [
+      "va",
+      "ba"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-002",
+    "type": "choose",
+    "category": "b-v",
+    "level": 1,
+    "sentence": "Esta mañana ha ___ mucho.",
+    "options": [
+      "llobido",
+      "llovido"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-003",
+    "type": "choose",
+    "category": "b-v",
+    "level": 1,
+    "sentence": "Nosotros ___ en una casa grande.",
+    "options": [
+      "bibimos",
+      "bivimos",
+      "vivimos"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "es-s-004",
+    "type": "choose",
+    "category": "b-v",
+    "level": 1,
+    "sentence": "El ___ vuela muy alto.",
+    "options": [
+      "abión",
+      "avión"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-005",
+    "type": "choose",
+    "category": "b-v",
+    "level": 2,
+    "sentence": "Mis primos ___ mucho en la piscina el verano pasado.",
+    "options": [
+      "nadaban",
+      "nadavan"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-006",
+    "type": "choose",
+    "category": "b-v",
+    "level": 2,
+    "sentence": "Ella ___ que estudiar mucho para el examen.",
+    "options": [
+      "tubo",
+      "tuvo"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-007",
+    "type": "fill",
+    "category": "b-v",
+    "level": 1,
+    "word": "_urro",
+    "options": [
+      "b",
+      "v"
+    ],
+    "answer": 0,
+    "hint": "Animal parecido al caballo, con orejas largas"
+  },
+  {
+    "id": "es-s-008",
+    "type": "fill",
+    "category": "b-v",
+    "level": 1,
+    "word": "_entana",
+    "options": [
+      "b",
+      "v"
+    ],
+    "answer": 1,
+    "hint": "Por ella entra la luz en una casa"
+  },
+  {
+    "id": "es-s-009",
+    "type": "fill",
+    "category": "b-v",
+    "level": 1,
+    "word": "_otella",
+    "options": [
+      "v",
+      "b"
+    ],
+    "answer": 1,
+    "hint": "Recipiente de cristal para el agua o el aceite"
+  },
+  {
+    "id": "es-s-010",
+    "type": "fill",
+    "category": "b-v",
+    "level": 1,
+    "word": "nue_e",
+    "options": [
+      "v",
+      "b"
+    ],
+    "answer": 0,
+    "hint": "El número que va después del ocho"
+  },
+  {
+    "id": "es-s-011",
+    "type": "fill",
+    "category": "b-v",
+    "level": 2,
+    "word": "hier_a",
+    "options": [
+      "b",
+      "v"
+    ],
+    "answer": 0,
+    "hint": "Planta verde y fina que crece en el jardín"
+  },
+  {
+    "id": "es-s-012",
+    "type": "fill",
+    "category": "b-v",
+    "level": 2,
+    "word": "canta_a",
+    "options": [
+      "v",
+      "b"
+    ],
+    "answer": 1,
+    "hint": "Antes ella lo hacía cada día en el coro (verbo cantar)"
+  },
+  {
+    "id": "es-s-013",
+    "type": "error",
+    "category": "b-v",
+    "level": 1,
+    "sentence": "El sábado bamos a la playa.",
+    "wrong": "bamos",
+    "options": [
+      "vamos",
+      "vámos"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-014",
+    "type": "error",
+    "category": "b-v",
+    "level": 1,
+    "sentence": "Mi gato tiene los ojos berdes.",
+    "wrong": "berdes",
+    "options": [
+      "verdez",
+      "verdes"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-015",
+    "type": "error",
+    "category": "b-v",
+    "level": 1,
+    "sentence": "Mi madre me dio un veso antes de dormir.",
+    "wrong": "veso",
+    "options": [
+      "besso",
+      "beso"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-016",
+    "type": "error",
+    "category": "b-v",
+    "level": 2,
+    "sentence": "El pájaro volava sobre los árboles.",
+    "wrong": "volava",
+    "options": [
+      "volaba",
+      "bolaba"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-017",
+    "type": "error",
+    "category": "b-v",
+    "level": 2,
+    "sentence": "Mi abuelo iva al mercado cada mañana.",
+    "wrong": "iva",
+    "options": [
+      "hiba",
+      "iba"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-018",
+    "type": "choose",
+    "category": "g-j",
+    "level": 1,
+    "sentence": "Hoy vamos a ___ al fútbol.",
+    "options": [
+      "jugar",
+      "gugar"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-019",
+    "type": "choose",
+    "category": "g-j",
+    "level": 1,
+    "sentence": "La ___ tiene el cuello muy largo.",
+    "options": [
+      "girafa",
+      "jirafa"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-020",
+    "type": "choose",
+    "category": "g-j",
+    "level": 1,
+    "sentence": "Las ___ hacen miel.",
+    "options": [
+      "abejas",
+      "abegas"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-021",
+    "type": "choose",
+    "category": "g-j",
+    "level": 1,
+    "sentence": "Mi madre ___ en una oficina.",
+    "options": [
+      "trabaga",
+      "trabaja"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-022",
+    "type": "choose",
+    "category": "g-j",
+    "level": 2,
+    "sentence": "El mago hizo un truco de ___.",
+    "options": [
+      "magia",
+      "majia"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-023",
+    "type": "choose",
+    "category": "g-j",
+    "level": 2,
+    "sentence": "Este año quiero ___ un buen libro para el verano.",
+    "options": [
+      "elejir",
+      "elegir",
+      "eleguir"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-024",
+    "type": "fill",
+    "category": "g-j",
+    "level": 1,
+    "word": "_ato",
+    "options": [
+      "g",
+      "j"
+    ],
+    "answer": 0,
+    "hint": "Animal que dice miau"
+  },
+  {
+    "id": "es-s-025",
+    "type": "fill",
+    "category": "g-j",
+    "level": 1,
+    "word": "o_o",
+    "options": [
+      "g",
+      "j"
+    ],
+    "answer": 1,
+    "hint": "Lo usamos para ver"
+  },
+  {
+    "id": "es-s-026",
+    "type": "fill",
+    "category": "g-j",
+    "level": 1,
+    "word": "_ente",
+    "options": [
+      "j",
+      "g"
+    ],
+    "answer": 1,
+    "hint": "Muchas personas juntas"
+  },
+  {
+    "id": "es-s-027",
+    "type": "fill",
+    "category": "g-j",
+    "level": 1,
+    "word": "ro_o",
+    "options": [
+      "j",
+      "g"
+    ],
+    "answer": 0,
+    "hint": "El color de las fresas"
+  },
+  {
+    "id": "es-s-028",
+    "type": "fill",
+    "category": "g-j",
+    "level": 2,
+    "word": "ima_en",
+    "options": [
+      "j",
+      "g"
+    ],
+    "answer": 1,
+    "hint": "Un dibujo o una foto"
+  },
+  {
+    "id": "es-s-029",
+    "type": "fill",
+    "category": "g-j",
+    "level": 2,
+    "word": "via_e",
+    "options": [
+      "j",
+      "g"
+    ],
+    "answer": 0,
+    "hint": "Lo que hacemos cuando vamos de vacaciones a otro lugar"
+  },
+  {
+    "id": "es-s-030",
+    "type": "error",
+    "category": "g-j",
+    "level": 1,
+    "sentence": "Mi abuela me regaló un gersey rojo.",
+    "wrong": "gersey",
+    "options": [
+      "jersey",
+      "yersey"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-031",
+    "type": "error",
+    "category": "g-j",
+    "level": 1,
+    "sentence": "La tortuga camina muy despacio por el gardín.",
+    "wrong": "gardín",
+    "options": [
+      "jardin",
+      "jardín"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-032",
+    "type": "error",
+    "category": "g-j",
+    "level": 1,
+    "sentence": "Me gusta mucho la jelatina de fresa.",
+    "wrong": "jelatina",
+    "options": [
+      "guelatina",
+      "gelatina"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-033",
+    "type": "error",
+    "category": "g-j",
+    "level": 2,
+    "sentence": "El tren lleno de pasageros salió a las ocho.",
+    "wrong": "pasageros",
+    "options": [
+      "pasajeros",
+      "passajeros"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-034",
+    "type": "error",
+    "category": "g-j",
+    "level": 2,
+    "sentence": "Mi hermano siempre coje el autobús.",
+    "wrong": "coje",
+    "options": [
+      "coge",
+      "cogue"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-035",
+    "type": "choose",
+    "category": "h",
+    "level": 1,
+    "sentence": "Mi ___ se llama Pablo.",
+    "options": [
+      "hermano",
+      "ermano"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-036",
+    "type": "choose",
+    "category": "h",
+    "level": 1,
+    "sentence": "Tengo mucha ___ y quiero comer.",
+    "options": [
+      "ambre",
+      "hambre"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-037",
+    "type": "choose",
+    "category": "h",
+    "level": 1,
+    "sentence": "La gallina pone un ___.",
+    "options": [
+      "uevo",
+      "güevo",
+      "huevo"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "es-s-038",
+    "type": "choose",
+    "category": "h",
+    "level": 1,
+    "sentence": "___ hace mucho frío.",
+    "options": [
+      "Hoy",
+      "Oy"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-039",
+    "type": "choose",
+    "category": "h",
+    "level": 2,
+    "sentence": "Ayer ___ un pastel de chocolate.",
+    "options": [
+      "icimos",
+      "hicimos"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-040",
+    "type": "choose",
+    "category": "h",
+    "level": 2,
+    "sentence": "Salía mucho ___ de la chimenea.",
+    "options": [
+      "humo",
+      "umo"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-041",
+    "type": "fill",
+    "category": "h",
+    "level": 1,
+    "word": "_rmiga",
+    "options": [
+      "ho",
+      "o"
+    ],
+    "answer": 0,
+    "hint": "Insecto pequeño que vive en grupo"
+  },
+  {
+    "id": "es-s-042",
+    "type": "fill",
+    "category": "h",
+    "level": 1,
+    "word": "_elo",
+    "options": [
+      "hi",
+      "i",
+      "y"
+    ],
+    "answer": 0,
+    "hint": "Agua congelada"
+  },
+  {
+    "id": "es-s-043",
+    "type": "fill",
+    "category": "h",
+    "level": 1,
+    "word": "_ja",
+    "options": [
+      "o",
+      "ho"
+    ],
+    "answer": 1,
+    "hint": "Parte verde de los árboles"
+  },
+  {
+    "id": "es-s-044",
+    "type": "fill",
+    "category": "h",
+    "level": 1,
+    "word": "zana_ria",
+    "options": [
+      "ho",
+      "o"
+    ],
+    "answer": 0,
+    "hint": "Verdura naranja que comen los conejos"
+  },
+  {
+    "id": "es-s-045",
+    "type": "fill",
+    "category": "h",
+    "level": 2,
+    "word": "_ella",
+    "options": [
+      "u",
+      "hu"
+    ],
+    "answer": 1,
+    "hint": "Marca que deja el pie en la arena"
+  },
+  {
+    "id": "es-s-046",
+    "type": "fill",
+    "category": "h",
+    "level": 2,
+    "word": "almo_da",
+    "options": [
+      "ha",
+      "a"
+    ],
+    "answer": 0,
+    "hint": "Donde apoyas la cabeza para dormir"
+  },
+  {
+    "id": "es-s-047",
+    "type": "error",
+    "category": "h",
+    "level": 1,
+    "sentence": "Mi tía tiene una ija muy pequeña.",
+    "wrong": "ija",
+    "options": [
+      "hija",
+      "higa"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-048",
+    "type": "error",
+    "category": "h",
+    "level": 1,
+    "sentence": "Vamos a ablar con la profesora.",
+    "wrong": "ablar",
+    "options": [
+      "havlar",
+      "hablar"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-049",
+    "type": "error",
+    "category": "h",
+    "level": 1,
+    "sentence": "Mi perro tiene un ueso enorme.",
+    "wrong": "ueso",
+    "options": [
+      "hueso",
+      "güeso"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-050",
+    "type": "error",
+    "category": "h",
+    "level": 2,
+    "sentence": "Los niños an terminado los deberes.",
+    "wrong": "an",
+    "options": [
+      "han",
+      "hán"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-051",
+    "type": "error",
+    "category": "h",
+    "level": 2,
+    "sentence": "Mañana vamos a acer una excursión.",
+    "wrong": "acer",
+    "options": [
+      "haser",
+      "hacer"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-052",
+    "type": "choose",
+    "category": "ll-y",
+    "level": 1,
+    "sentence": "La ___ abre la puerta.",
+    "options": [
+      "llave",
+      "yave"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-053",
+    "type": "choose",
+    "category": "ll-y",
+    "level": 1,
+    "sentence": "Hoy está ___ mucho.",
+    "options": [
+      "yoviendo",
+      "lloviendo"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-054",
+    "type": "choose",
+    "category": "ll-y",
+    "level": 1,
+    "sentence": "El ___ canta por la mañana.",
+    "options": [
+      "gallo",
+      "gayo"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-055",
+    "type": "choose",
+    "category": "ll-y",
+    "level": 1,
+    "sentence": "En verano vamos a la ___.",
+    "options": [
+      "plalla",
+      "playa"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-056",
+    "type": "choose",
+    "category": "ll-y",
+    "level": 2,
+    "sentence": "El niño se ___ de la bici y se hizo daño.",
+    "options": [
+      "calló",
+      "cayó"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-057",
+    "type": "choose",
+    "category": "ll-y",
+    "level": 2,
+    "sentence": "Me gusta mirar las ___ por la noche.",
+    "options": [
+      "estrellas",
+      "estreyas"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-058",
+    "type": "fill",
+    "category": "ll-y",
+    "level": 1,
+    "word": "_ema",
+    "options": [
+      "ll",
+      "y"
+    ],
+    "answer": 1,
+    "hint": "La parte amarilla del huevo"
+  },
+  {
+    "id": "es-s-059",
+    "type": "fill",
+    "category": "ll-y",
+    "level": 1,
+    "word": "po_o",
+    "options": [
+      "ll",
+      "y"
+    ],
+    "answer": 0,
+    "hint": "Cría de la gallina"
+  },
+  {
+    "id": "es-s-060",
+    "type": "fill",
+    "category": "ll-y",
+    "level": 1,
+    "word": "_uvia",
+    "options": [
+      "y",
+      "ll"
+    ],
+    "answer": 1,
+    "hint": "Agua que cae de las nubes"
+  },
+  {
+    "id": "es-s-061",
+    "type": "fill",
+    "category": "ll-y",
+    "level": 1,
+    "word": "torti_a",
+    "options": [
+      "ll",
+      "y"
+    ],
+    "answer": 0,
+    "hint": "Comida hecha con huevo y patata"
+  },
+  {
+    "id": "es-s-062",
+    "type": "fill",
+    "category": "ll-y",
+    "level": 2,
+    "word": "ma_o",
+    "options": [
+      "ll",
+      "y"
+    ],
+    "answer": 1,
+    "hint": "El quinto mes del año"
+  },
+  {
+    "id": "es-s-063",
+    "type": "fill",
+    "category": "ll-y",
+    "level": 2,
+    "word": "pasi_o",
+    "options": [
+      "ll",
+      "y"
+    ],
+    "answer": 0,
+    "hint": "Parte larga del colegio para ir de una clase a otra"
+  },
+  {
+    "id": "es-s-064",
+    "type": "error",
+    "category": "ll-y",
+    "level": 1,
+    "sentence": "Mi abuelo tiene una siya de madera.",
+    "wrong": "siya",
+    "options": [
+      "silla",
+      "sila"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-065",
+    "type": "error",
+    "category": "ll-y",
+    "level": 1,
+    "sentence": "El bebé yora cuando tiene hambre.",
+    "wrong": "yora",
+    "options": [
+      "lora",
+      "llora"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-066",
+    "type": "error",
+    "category": "ll-y",
+    "level": 1,
+    "sentence": "El cabayo corre por el campo.",
+    "wrong": "cabayo",
+    "options": [
+      "caballo",
+      "cavallo"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-067",
+    "type": "error",
+    "category": "ll-y",
+    "level": 2,
+    "sentence": "Ayer llo fui al cine con mis amigos.",
+    "wrong": "llo",
+    "options": [
+      "yo",
+      "io"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-068",
+    "type": "error",
+    "category": "ll-y",
+    "level": 2,
+    "sentence": "Plantamos unas semiyas en el huerto.",
+    "wrong": "semiyas",
+    "options": [
+      "semilias",
+      "semillas"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-069",
+    "type": "choose",
+    "category": "c-z-qu",
+    "level": 1,
+    "sentence": "Mi ___ tiene un jardín.",
+    "options": [
+      "casa",
+      "kasa"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-070",
+    "type": "choose",
+    "category": "c-z-qu",
+    "level": 1,
+    "sentence": "Me gusta comer ___ en el bocadillo.",
+    "options": [
+      "keso",
+      "queso",
+      "cueso"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-071",
+    "type": "choose",
+    "category": "c-z-qu",
+    "level": 1,
+    "sentence": "Tengo ___ años.",
+    "options": [
+      "cinco",
+      "zinco"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-072",
+    "type": "choose",
+    "category": "c-z-qu",
+    "level": 1,
+    "sentence": "Mis ___ son nuevos.",
+    "options": [
+      "sapatos",
+      "capatos",
+      "zapatos"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "es-s-073",
+    "type": "choose",
+    "category": "c-z-qu",
+    "level": 2,
+    "sentence": "Voy a ___ un dibujo para mi madre.",
+    "options": [
+      "hazer",
+      "hacer"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-074",
+    "type": "choose",
+    "category": "c-z-qu",
+    "level": 2,
+    "sentence": "Ayer ___ un gol en el partido.",
+    "options": [
+      "marqué",
+      "marcé",
+      "marké"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-075",
+    "type": "fill",
+    "category": "c-z-qu",
+    "level": 1,
+    "word": "ta_a",
+    "options": [
+      "z",
+      "c"
+    ],
+    "answer": 0,
+    "hint": "Recipiente para beber leche caliente"
+  },
+  {
+    "id": "es-s-076",
+    "type": "fill",
+    "category": "c-z-qu",
+    "level": 1,
+    "word": "pe_",
+    "options": [
+      "s",
+      "z"
+    ],
+    "answer": 1,
+    "hint": "Animal que vive en el agua"
+  },
+  {
+    "id": "es-s-077",
+    "type": "fill",
+    "category": "c-z-qu",
+    "level": 1,
+    "word": "_oche",
+    "options": [
+      "c",
+      "k",
+      "q"
+    ],
+    "answer": 0,
+    "hint": "Tiene ruedas y lo conducen los mayores"
+  },
+  {
+    "id": "es-s-078",
+    "type": "fill",
+    "category": "c-z-qu",
+    "level": 1,
+    "word": "pe_eño",
+    "options": [
+      "c",
+      "qu",
+      "k"
+    ],
+    "answer": 1,
+    "hint": "Lo contrario de grande"
+  },
+  {
+    "id": "es-s-079",
+    "type": "fill",
+    "category": "c-z-qu",
+    "level": 2,
+    "word": "lápi_",
+    "options": [
+      "s",
+      "z",
+      "c"
+    ],
+    "answer": 1,
+    "hint": "Sirve para escribir y dibujar"
+  },
+  {
+    "id": "es-s-080",
+    "type": "fill",
+    "category": "c-z-qu",
+    "level": 2,
+    "word": "pe_es",
+    "options": [
+      "z",
+      "c"
+    ],
+    "answer": 1,
+    "hint": "Muchos animales que nadan en el mar"
+  },
+  {
+    "id": "es-s-081",
+    "type": "error",
+    "category": "c-z-qu",
+    "level": 1,
+    "sentence": "Mi abuela me hiso un pastel.",
+    "wrong": "hiso",
+    "options": [
+      "hizo",
+      "hico"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-082",
+    "type": "error",
+    "category": "c-z-qu",
+    "level": 1,
+    "sentence": "La profesora nos leyó un kuento.",
+    "wrong": "kuento",
+    "options": [
+      "cuento",
+      "quento"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-083",
+    "type": "error",
+    "category": "c-z-qu",
+    "level": 1,
+    "sentence": "Mi hermano come una mansana roja.",
+    "wrong": "mansana",
+    "options": [
+      "mancana",
+      "manzana"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-084",
+    "type": "error",
+    "category": "c-z-qu",
+    "level": 2,
+    "sentence": "Hay muchas luzes en la calle.",
+    "wrong": "luzes",
+    "options": [
+      "luces",
+      "lúces"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-085",
+    "type": "error",
+    "category": "c-z-qu",
+    "level": 2,
+    "sentence": "Ayer buscé mis llaves por toda la casa.",
+    "wrong": "buscé",
+    "options": [
+      "buské",
+      "busqué"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-086",
+    "type": "choose",
+    "category": "r-rr",
+    "level": 1,
+    "sentence": "El ___ come queso.",
+    "options": [
+      "ratón",
+      "rratón"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-087",
+    "type": "choose",
+    "category": "r-rr",
+    "level": 1,
+    "sentence": "Mi ___ ladra mucho.",
+    "options": [
+      "pero",
+      "perro"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-088",
+    "type": "choose",
+    "category": "r-rr",
+    "level": 1,
+    "sentence": "El coche es de color ___.",
+    "options": [
+      "rojo",
+      "rrojo"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-089",
+    "type": "choose",
+    "category": "r-rr",
+    "level": 1,
+    "sentence": "Me gusta comer ___ con tomate.",
+    "options": [
+      "aroz",
+      "arroz"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-090",
+    "type": "choose",
+    "category": "r-rr",
+    "level": 2,
+    "sentence": "Fuimos de excursión a la ___ y vimos nieve.",
+    "options": [
+      "sierra",
+      "siera"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-091",
+    "type": "choose",
+    "category": "r-rr",
+    "level": 2,
+    "sentence": "Mi amigo ___ juega al baloncesto.",
+    "options": [
+      "Enrrique",
+      "Enrique"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-092",
+    "type": "fill",
+    "category": "r-rr",
+    "level": 1,
+    "word": "_ueda",
+    "options": [
+      "r",
+      "rr"
+    ],
+    "answer": 0,
+    "hint": "Las bicis tienen dos"
+  },
+  {
+    "id": "es-s-093",
+    "type": "fill",
+    "category": "r-rr",
+    "level": 1,
+    "word": "pe_a",
+    "options": [
+      "rr",
+      "r"
+    ],
+    "answer": 1,
+    "hint": "Fruta verde o amarilla con forma de gota"
+  },
+  {
+    "id": "es-s-094",
+    "type": "fill",
+    "category": "r-rr",
+    "level": 1,
+    "word": "to_e",
+    "options": [
+      "rr",
+      "r"
+    ],
+    "answer": 0,
+    "hint": "Edificio muy alto"
+  },
+  {
+    "id": "es-s-095",
+    "type": "fill",
+    "category": "r-rr",
+    "level": 1,
+    "word": "ma_iposa",
+    "options": [
+      "rr",
+      "r"
+    ],
+    "answer": 1,
+    "hint": "Insecto con alas de colores"
+  },
+  {
+    "id": "es-s-096",
+    "type": "fill",
+    "category": "r-rr",
+    "level": 2,
+    "word": "al_ededor",
+    "options": [
+      "rr",
+      "r"
+    ],
+    "answer": 1,
+    "hint": "Por todos los lados de algo"
+  },
+  {
+    "id": "es-s-097",
+    "type": "fill",
+    "category": "r-rr",
+    "level": 2,
+    "word": "te_emoto",
+    "options": [
+      "r",
+      "rr"
+    ],
+    "answer": 1,
+    "hint": "Cuando la tierra tiembla"
+  },
+  {
+    "id": "es-s-098",
+    "type": "error",
+    "category": "r-rr",
+    "level": 1,
+    "sentence": "La rana salta en el rrío.",
+    "wrong": "rrío",
+    "options": [
+      "río",
+      "rio"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-099",
+    "type": "error",
+    "category": "r-rr",
+    "level": 1,
+    "sentence": "La guitara de mi tío suena muy bien.",
+    "wrong": "guitara",
+    "options": [
+      "guitarra",
+      "gitarra"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-100",
+    "type": "error",
+    "category": "r-rr",
+    "level": 1,
+    "sentence": "La perra de mi vecina tiene cachoros.",
+    "wrong": "cachoros",
+    "options": [
+      "cachorrós",
+      "cachorros"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-101",
+    "type": "error",
+    "category": "r-rr",
+    "level": 2,
+    "sentence": "La niña sonrríe en la foto.",
+    "wrong": "sonrríe",
+    "options": [
+      "sonrie",
+      "sonríe"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-102",
+    "type": "error",
+    "category": "r-rr",
+    "level": 2,
+    "sentence": "Ayer hubo un terible incendio.",
+    "wrong": "terible",
+    "options": [
+      "terrible",
+      "terrivle"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-103",
+    "type": "choose",
+    "category": "mp-mb",
+    "level": 1,
+    "sentence": "Hoy es el ___ de mi hermano.",
+    "options": [
+      "cumpleaños",
+      "cunpleaños"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-104",
+    "type": "choose",
+    "category": "mp-mb",
+    "level": 1,
+    "sentence": "Vamos al ___ de fútbol.",
+    "options": [
+      "canpo",
+      "campo"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-105",
+    "type": "choose",
+    "category": "mp-mb",
+    "level": 1,
+    "sentence": "Me lavo los dientes ___ antes de dormir.",
+    "options": [
+      "siempre",
+      "sienpre"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-106",
+    "type": "choose",
+    "category": "mp-mb",
+    "level": 1,
+    "sentence": "La ___ del salón no funciona.",
+    "options": [
+      "lánpara",
+      "lámpara"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-107",
+    "type": "choose",
+    "category": "mp-mb",
+    "level": 2,
+    "sentence": "El ___ apagó el fuego.",
+    "options": [
+      "bombero",
+      "bonbero"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-108",
+    "type": "choose",
+    "category": "mp-mb",
+    "level": 2,
+    "sentence": "El ___ pasa muy rápido cuando jugamos.",
+    "options": [
+      "tienpo",
+      "tiempo"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-109",
+    "type": "fill",
+    "category": "mp-mb",
+    "level": 1,
+    "word": "ta_bor",
+    "options": [
+      "m",
+      "n"
+    ],
+    "answer": 0,
+    "hint": "Instrumento que se toca con palillos"
+  },
+  {
+    "id": "es-s-110",
+    "type": "fill",
+    "category": "mp-mb",
+    "level": 1,
+    "word": "ho_bre",
+    "options": [
+      "n",
+      "m"
+    ],
+    "answer": 1,
+    "hint": "Persona adulta, como un papá"
+  },
+  {
+    "id": "es-s-111",
+    "type": "fill",
+    "category": "mp-mb",
+    "level": 1,
+    "word": "so_brero",
+    "options": [
+      "m",
+      "n"
+    ],
+    "answer": 0,
+    "hint": "Se pone en la cabeza para el sol"
+  },
+  {
+    "id": "es-s-112",
+    "type": "fill",
+    "category": "mp-mb",
+    "level": 1,
+    "word": "co_prar",
+    "options": [
+      "n",
+      "m"
+    ],
+    "answer": 1,
+    "hint": "Lo que hacemos en una tienda con dinero"
+  },
+  {
+    "id": "es-s-113",
+    "type": "fill",
+    "category": "mp-mb",
+    "level": 2,
+    "word": "e_pezar",
+    "options": [
+      "m",
+      "n"
+    ],
+    "answer": 0,
+    "hint": "Lo contrario de terminar"
+  },
+  {
+    "id": "es-s-114",
+    "type": "fill",
+    "category": "mp-mb",
+    "level": 2,
+    "word": "ca_biar",
+    "options": [
+      "n",
+      "m"
+    ],
+    "answer": 1,
+    "hint": "Poner una cosa en lugar de otra"
+  },
+  {
+    "id": "es-s-115",
+    "type": "error",
+    "category": "mp-mb",
+    "level": 1,
+    "sentence": "Me he comprado una sonbrilla para la playa.",
+    "wrong": "sonbrilla",
+    "options": [
+      "sombrilla",
+      "sombriya"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-116",
+    "type": "error",
+    "category": "mp-mb",
+    "level": 1,
+    "sentence": "El nonbre de mi gata es Luna.",
+    "wrong": "nonbre",
+    "options": [
+      "nomvre",
+      "nombre"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-117",
+    "type": "error",
+    "category": "mp-mb",
+    "level": 1,
+    "sentence": "Vamos de canpamento en verano.",
+    "wrong": "canpamento",
+    "options": [
+      "campamento",
+      "kampamento"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-118",
+    "type": "error",
+    "category": "mp-mb",
+    "level": 2,
+    "sentence": "Mi hermana es muy sinpática.",
+    "wrong": "sinpática",
+    "options": [
+      "simpatica",
+      "simpática"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-119",
+    "type": "error",
+    "category": "mp-mb",
+    "level": 2,
+    "sentence": "Ponemos la ropa linpia en el armario.",
+    "wrong": "linpia",
+    "options": [
+      "limpia",
+      "limpía"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-120",
+    "type": "choose",
+    "category": "mayusculas",
+    "level": 1,
+    "sentence": "Mi amiga ___ vive en mi calle.",
+    "options": [
+      "laura",
+      "Laura"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-121",
+    "type": "choose",
+    "category": "mayusculas",
+    "level": 1,
+    "sentence": "Vivo en ___.",
+    "options": [
+      "Madrid",
+      "madrid"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-122",
+    "type": "choose",
+    "category": "mayusculas",
+    "level": 1,
+    "sentence": "Me gusta jugar. ___ días voy al parque.",
+    "options": [
+      "muchos",
+      "Muchos"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-123",
+    "type": "choose",
+    "category": "mayusculas",
+    "level": 1,
+    "sentence": "Mi perro se llama ___.",
+    "options": [
+      "Toby",
+      "toby"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-124",
+    "type": "choose",
+    "category": "mayusculas",
+    "level": 2,
+    "sentence": "Este verano iremos de viaje a ___.",
+    "options": [
+      "francia",
+      "Francia"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-125",
+    "type": "choose",
+    "category": "mayusculas",
+    "level": 2,
+    "sentence": "El río ___ pasa por Zaragoza.",
+    "options": [
+      "Ebro",
+      "ebro"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-126",
+    "type": "fill",
+    "category": "mayusculas",
+    "level": 1,
+    "word": "_arcelona",
+    "options": [
+      "b",
+      "B"
+    ],
+    "answer": 1,
+    "hint": "Ciudad con la Sagrada Familia"
+  },
+  {
+    "id": "es-s-127",
+    "type": "fill",
+    "category": "mayusculas",
+    "level": 1,
+    "word": "_spaña",
+    "options": [
+      "e",
+      "E"
+    ],
+    "answer": 1,
+    "hint": "El país donde está Madrid"
+  },
+  {
+    "id": "es-s-128",
+    "type": "fill",
+    "category": "mayusculas",
+    "level": 1,
+    "word": "_evilla",
+    "options": [
+      "S",
+      "s"
+    ],
+    "answer": 0,
+    "hint": "Ciudad de Andalucía con la Giralda"
+  },
+  {
+    "id": "es-s-129",
+    "type": "fill",
+    "category": "mayusculas",
+    "level": 1,
+    "word": "_alencia",
+    "options": [
+      "V",
+      "v",
+      "B"
+    ],
+    "answer": 0,
+    "hint": "Ciudad famosa por la paella"
+  },
+  {
+    "id": "es-s-130",
+    "type": "fill",
+    "category": "mayusculas",
+    "level": 2,
+    "word": "_ortugal",
+    "options": [
+      "p",
+      "P"
+    ],
+    "answer": 1,
+    "hint": "País vecino de España"
+  },
+  {
+    "id": "es-s-131",
+    "type": "fill",
+    "category": "mayusculas",
+    "level": 2,
+    "word": "_editerráneo",
+    "options": [
+      "M",
+      "m"
+    ],
+    "answer": 0,
+    "hint": "Mar que baña las playas de Barcelona"
+  },
+  {
+    "id": "es-s-132",
+    "type": "error",
+    "category": "mayusculas",
+    "level": 1,
+    "sentence": "Mi hermana se llama marta y tiene seis años.",
+    "wrong": "marta",
+    "options": [
+      "Marta",
+      "MARTA"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-133",
+    "type": "error",
+    "category": "mayusculas",
+    "level": 1,
+    "sentence": "Mañana visitamos a mi abuela. después iremos al cine.",
+    "wrong": "después",
+    "options": [
+      "DESPUÉS",
+      "Después"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-134",
+    "type": "error",
+    "category": "mayusculas",
+    "level": 1,
+    "sentence": "Mi tío vive en toledo.",
+    "wrong": "toledo",
+    "options": [
+      "Toledo",
+      "TOLEDO"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-135",
+    "type": "error",
+    "category": "mayusculas",
+    "level": 2,
+    "sentence": "El verano pasado fuimos a italia en avión.",
+    "wrong": "italia",
+    "options": [
+      "ITALIA",
+      "Italia"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-136",
+    "type": "error",
+    "category": "mayusculas",
+    "level": 2,
+    "sentence": "Ana y pedro son mis mejores amigos.",
+    "wrong": "pedro",
+    "options": [
+      "Pedro",
+      "PEDRO"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-137",
+    "type": "choose",
+    "category": "tildes",
+    "level": 1,
+    "sentence": "Cantamos una ___ en clase.",
+    "options": [
+      "cancion",
+      "canción",
+      "cánción"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-138",
+    "type": "choose",
+    "category": "tildes",
+    "level": 1,
+    "sentence": "El pájaro está en el ___.",
+    "options": [
+      "árbol",
+      "arbol"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-139",
+    "type": "choose",
+    "category": "tildes",
+    "level": 1,
+    "sentence": "Me gusta escuchar ___.",
+    "options": [
+      "música",
+      "musica",
+      "musicá"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-140",
+    "type": "choose",
+    "category": "tildes",
+    "level": 1,
+    "sentence": "Mi hermano ___ quiere venir.",
+    "options": [
+      "tambien",
+      "tambíen",
+      "también"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "es-s-141",
+    "type": "choose",
+    "category": "tildes",
+    "level": 2,
+    "sentence": "Nos sentamos en el ___ a ver la tele.",
+    "options": [
+      "sofa",
+      "sofá"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-142",
+    "type": "choose",
+    "category": "tildes",
+    "level": 2,
+    "sentence": "Hoy tenemos examen de ___.",
+    "options": [
+      "matemáticas",
+      "matematicas"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-143",
+    "type": "fill",
+    "category": "tildes",
+    "level": 1,
+    "word": "rat_n",
+    "options": [
+      "o",
+      "ó"
+    ],
+    "answer": 1,
+    "hint": "Animal pequeño que come queso"
+  },
+  {
+    "id": "es-s-144",
+    "type": "fill",
+    "category": "tildes",
+    "level": 1,
+    "word": "caf_",
+    "options": [
+      "é",
+      "e"
+    ],
+    "answer": 0,
+    "hint": "Bebida oscura que toman los mayores"
+  },
+  {
+    "id": "es-s-145",
+    "type": "fill",
+    "category": "tildes",
+    "level": 1,
+    "word": "p_jaro",
+    "options": [
+      "á",
+      "a"
+    ],
+    "answer": 0,
+    "hint": "Animal con plumas y pico que vuela"
+  },
+  {
+    "id": "es-s-146",
+    "type": "fill",
+    "category": "tildes",
+    "level": 1,
+    "word": "cami_n",
+    "options": [
+      "o",
+      "ó"
+    ],
+    "answer": 1,
+    "hint": "Vehículo grande que lleva mercancías"
+  },
+  {
+    "id": "es-s-147",
+    "type": "fill",
+    "category": "tildes",
+    "level": 2,
+    "word": "s_bado",
+    "options": [
+      "a",
+      "á"
+    ],
+    "answer": 1,
+    "hint": "El día que va después del viernes"
+  },
+  {
+    "id": "es-s-148",
+    "type": "fill",
+    "category": "tildes",
+    "level": 2,
+    "word": "pl_tano",
+    "options": [
+      "á",
+      "a"
+    ],
+    "answer": 0,
+    "hint": "Fruta amarilla y alargada"
+  },
+  {
+    "id": "es-s-149",
+    "type": "error",
+    "category": "tildes",
+    "level": 1,
+    "sentence": "El leon es el rey de la selva.",
+    "wrong": "leon",
+    "options": [
+      "león",
+      "léon"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-150",
+    "type": "error",
+    "category": "tildes",
+    "level": 1,
+    "sentence": "Mi gato duerme en el balcon.",
+    "wrong": "balcon",
+    "options": [
+      "bálcon",
+      "balcón"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "es-s-151",
+    "type": "error",
+    "category": "tildes",
+    "level": 1,
+    "sentence": "Hoy hemos comido arroz y despues fruta.",
+    "wrong": "despues",
+    "options": [
+      "después",
+      "despúes"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-152",
+    "type": "error",
+    "category": "tildes",
+    "level": 2,
+    "sentence": "Mi hermano va a la biblioteca todos los miercoles.",
+    "wrong": "miercoles",
+    "options": [
+      "miércoles",
+      "miercóles"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "es-s-153",
+    "type": "error",
+    "category": "tildes",
+    "level": 2,
+    "sentence": "El medico me curó la herida.",
+    "wrong": "medico",
+    "options": [
+      "medicó",
+      "médico"
+    ],
+    "answer": 1
+  }
+]

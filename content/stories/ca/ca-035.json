@@ -1,0 +1,55 @@
+{
+  "id": "ca-035",
+  "lang": "ca",
+  "title": "Carta a l'àvia Pilar",
+  "genre": "carta",
+  "level": 2,
+  "emoji": "🏀",
+  "text": "Benvolguda àvia Pilar:\n\nEt volia explicar una cosa molt important que em va passar dissabte. Ja saps que fa un any que jugo a bàsquet a l'equip de l'escola, oi? Doncs vam jugar la final del torneig del barri contra els Llamps Blaus, l'equip que no havia perdut cap partit en tota la temporada.\n\nAl principi anàvem perdent per deu punts. Jo estava nerviosa i no encertava cap tir. A la mitja part, l'entrenador, en Jordi, ens va dir que no ens preocupéssim pel resultat, que el més important era jugar en equip i passar-nos la pilota.\n\nA la segona part tot va canviar. Ens vam animar les unes a les altres i vam començar a fer bones jugades. A l'últim minut, anàvem empatades. La Fàtima em va passar la pilota, vaig tirar i... cistella! Vam guanyar per dos punts!\n\nTotes les jugadores em van abraçar i el públic aplaudia molt fort. Els pares van fer moltes fotos. Te n'enviaré una perquè la puguis penjar a la nevera, al costat del dibuix que et vaig fer per Nadal.\n\nTinc moltes ganes que vinguis a veure'm jugar. El proper partit és d'aquí a dues setmanes. Vindràs?\n\nMoltíssims petons,\nIrene",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "A quin esport juga la Irene?",
+      "options": [
+        "Futbol",
+        "Handbol",
+        "Bàsquet"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Com es deia l'equip contrari?",
+      "options": [
+        "Els Llamps Blaus",
+        "Les Estrelles",
+        "Els Taurons"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "A la primera part, l'equip de la Irene anava guanyant.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "Què els va dir l'entrenador a la mitja part?",
+      "options": [
+        "Que havien de córrer més",
+        "Que el més important era jugar en equip",
+        "Que ja podien marxar a casa"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "La Irene vol que l'àvia vagi a veure el proper partit.",
+      "answer": true
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

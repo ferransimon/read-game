@@ -1,0 +1,55 @@
+{
+  "id": "es-020",
+  "lang": "es",
+  "title": "El concierto de flauta",
+  "genre": "cuento",
+  "level": 2,
+  "emoji": "🎶",
+  "text": "Desde hacía un mes, la clase de tercero ensayaba para el concierto de fin de trimestre. Iban a tocar con la flauta una canción popular delante de todas las familias, en el salón de actos.\n\nMateo practicaba cada tarde en su habitación. Se sabía la canción de memoria, pero había una nota aguda, justo al final, que siempre le salía como un silbido desafinado. Su hermana mayor, Noa, se tapaba los oídos y su perro se escondía debajo de la cama.\n\n—No pasa nada, es solo una nota —le decía su padre.\n\nPero Mateo estaba nervioso. Pensaba que todos se reirían de él.\n\nEl día del concierto, el salón de actos estaba lleno. Mateo vio a su familia en la tercera fila. Sus manos temblaban un poco. La canción empezó bien: las notas sonaban limpias y alegres. Cuando llegó el final, Mateo respiró hondo… y la nota salió como un pitido agudísimo.\n\nHubo un silencio. Mateo se puso rojo como un tomate. Entonces, su compañera Olivia, que estaba a su lado, sopló la misma nota desafinada, y después lo hizo toda la clase, convirtiendo el error en un final divertido. El público estalló en carcajadas y aplausos.\n\nAl salir, la profesora Eva le dio una palmadita en la espalda.\n\n—Los errores también forman parte de la música, Mateo. Lo importante es tocar juntos.\n\nAquella noche, Mateo volvió a practicar. Esta vez, sonriendo.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Qué instrumento tocaba la clase?",
+      "options": [
+        "El piano",
+        "La flauta",
+        "El tambor"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Mateo no se sabía la canción de memoria.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Dónde estaba sentada la familia de Mateo?",
+      "options": [
+        "En la tercera fila",
+        "En la primera fila",
+        "Al fondo del salón"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Olivia repitió la nota desafinada para ayudar a Mateo.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Cómo se sentía Mateo al final del cuento?",
+      "options": [
+        "Avergonzado y triste",
+        "Enfadado con Olivia",
+        "Tranquilo y con ganas de seguir"
+      ],
+      "answer": 2
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

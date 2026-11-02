@@ -1,0 +1,55 @@
+{
+  "id": "ca-048",
+  "lang": "ca",
+  "title": "Carta d'un vell pescador",
+  "genre": "carta",
+  "level": 2,
+  "emoji": "🎣",
+  "text": "Estimada Mariona:\n\nDeu ser estrany rebre una carta de veritat, amb sobre i segell, ara que tothom envia missatges pel mòbil. Però a mi m'agrada escriure a mà, com feia quan era jove i passava setmanes fora de casa, pescant.\n\nEl teu pare m'ha dit que la setmana passada vas fer un treball a l'escola sobre la pesca i que vas treure molt bona nota. Estic molt orgullós de tu! Per això t'explicaré una cosa que no surt als llibres.\n\nQuan jo tenia catorze anys, vaig sortir per primera vegada amb la barca del meu pare, que es deia Estrella del Mar. Ens llevàvem a les quatre de la matinada, quan encara era fosc. Feia fred, i les mans se'm quedaven glaçades de tant estirar les xarxes. Però quan sortia el sol per darrere de l'horitzó, el mar es tornava de color taronja i semblava màgic.\n\nEl meu pare sempre deia que el mar ens dona molt, però que l'hem de cuidar. Per això mai no pescàvem peixos massa petits: els tornàvem a l'aigua perquè poguessin créixer.\n\nAquest estiu, quan vinguis al poble, et portaré al port a veure la meva barca vella. Està pintada de blau i encara sura!\n\nT'estimo molt,\nL'avi Salvador",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Per què l'avi escriu una carta a mà?",
+      "options": [
+        "Perquè no té mòbil",
+        "Perquè li agrada escriure a mà",
+        "Perquè el pare de la Mariona li ho demana"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Com es deia la barca del pare de l'avi?",
+      "options": [
+        "Estrella del Mar",
+        "Gavina Blava",
+        "Mar Tranquil"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "L'avi va sortir a pescar per primera vegada als catorze anys.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Per què tornaven els peixos petits a l'aigua?",
+      "options": [
+        "Perquè no eren bons",
+        "Perquè pesaven massa",
+        "Perquè poguessin créixer"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "La barca vella de l'avi ja no sura.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

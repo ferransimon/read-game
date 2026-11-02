@@ -1,0 +1,55 @@
+{
+  "id": "es-001",
+  "lang": "es",
+  "title": "Una carta desde la playa",
+  "genre": "carta",
+  "level": 1,
+  "emoji": "✉️",
+  "text": "Querida Lucía:\n\nTe escribo desde la playa de Peñíscola. He venido una semana con mis abuelos Pepe y Rosa. El apartamento es pequeño, pero desde la ventana se ve el mar.\n\nCada mañana bajamos a la arena muy temprano. El abuelo me está enseñando a nadar sin manguitos. ¡Ayer conseguí nadar diez brazadas yo sola! La abuela dice que parezco un pez.\n\nPor las tardes buscamos conchas en la orilla. Ya tengo una caja llena. Te guardo la más bonita, que es rosa y tiene forma de abanico.\n\nTe echo mucho de menos. Cuando vuelva, te lo cuento todo en el parque.\n\nUn abrazo muy fuerte,\nMarta",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Con quién ha ido Marta a la playa?",
+      "options": [
+        "Con sus padres",
+        "Con su prima",
+        "Con sus abuelos"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Marta ya sabía nadar sin manguitos antes de ir a la playa.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué hace Marta por las tardes?",
+      "options": [
+        "Busca conchas en la orilla",
+        "Juega al fútbol",
+        "Duerme la siesta"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Marta le ha guardado a Lucía una concha rosa.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "¿Cómo se siente Marta al estar lejos de Lucía?",
+      "options": [
+        "Enfadada",
+        "La echa de menos",
+        "Le da igual"
+      ],
+      "answer": 1
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

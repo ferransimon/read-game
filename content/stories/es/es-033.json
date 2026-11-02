@@ -1,0 +1,55 @@
+{
+  "id": "es-033",
+  "lang": "es",
+  "title": "Carta desde el fondo del mar",
+  "genre": "carta",
+  "level": 2,
+  "emoji": "🐠",
+  "text": "Querido Álex:\n\n¡Hola, primo! ¿Qué tal por Zaragoza? Seguro que allí ya hace frío. Aquí, en Tenerife, todavía nos bañamos en el mar, aunque estemos en noviembre.\n\nEl sábado pasado hice algo increíble: buceé con gafas y tubo por primera vez. Fuimos a una cala tranquila con mi madre y con Yeray, un monitor que conoce el mar como la palma de su mano. Antes de meternos en el agua, nos explicó que no se debe tocar nada, porque el fondo del mar es la casa de muchos animales.\n\nCuando metí la cabeza bajo el agua, ¡no podía creer lo que veía! Había peces con rayas amarillas, una estrella de mar de color naranja y unas algas que se movían como si bailaran. De repente, Yeray me señaló una roca. Escondido entre las piedras había un pulpo que cambiaba de color. Primero era marrón y, después, casi blanco. Yeray dice que lo hacen para camuflarse.\n\nLo mejor fue una tortuga marina que pasó nadando muy despacio, como si no tuviera ninguna prisa. Me quedé tan quieta que casi se me olvida respirar por el tubo.\n\nCuando vengas en verano, te llevaré a la misma cala. Te prestaré mis gafas de repuesto.\n\nMuchos besos desde las islas,\nNayara",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Dónde vive Nayara?",
+      "options": [
+        "En Zaragoza",
+        "En Tenerife",
+        "En Mallorca"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Yeray les dijo que podían tocar a los animales.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué animal cambiaba de color?",
+      "options": [
+        "Un pulpo",
+        "Una tortuga",
+        "Una estrella de mar"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "¿Para qué cambia de color el pulpo, según Yeray?",
+      "options": [
+        "Para jugar con los peces",
+        "Porque tiene frío",
+        "Para camuflarse entre las rocas"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Nayara invita a su primo a bucear en verano.",
+      "answer": true
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

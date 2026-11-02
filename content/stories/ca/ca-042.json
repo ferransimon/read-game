@@ -1,0 +1,55 @@
+{
+  "id": "ca-042",
+  "lang": "ca",
+  "title": "La gavina i el cranc",
+  "genre": "fabula",
+  "level": 1,
+  "emoji": "🦀",
+  "text": "Una gavina molt orgullosa volava per sobre de la platja.\n\n—Jo puc volar ben amunt i veure tot el mar! —deia—. Tu, cranc, només saps caminar de costat.\n\nEl cranc no li va fer cas i va continuar buscant menjar entre les roques.\n\nUn dia, la gavina va veure un peix brillant dins d'una escletxa entre dues pedres. Hi va ficar el bec, però l'escletxa era massa estreta i el bec se li va quedar encallat.\n\n—Ajuda! Ajuda! —cridava.\n\nEl cranc s'hi va acostar caminant de costat, es va ficar a l'escletxa i, amb les pinces, va empènyer la pedra fins que la gavina es va poder alliberar.\n\n—Gràcies, cranc —va dir la gavina—. No sabia que caminar de costat fos tan útil.\n\nMoral: cadascú té les seves habilitats, i no hem de menysprear ningú.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Com camina el cranc?",
+      "options": [
+        "De costat",
+        "Endavant",
+        "Saltant"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Què va veure la gavina entre les pedres?",
+      "options": [
+        "Una petxina",
+        "Un peix brillant",
+        "Un cranc petit"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "La gavina es va quedar amb el bec encallat.",
+      "answer": true
+    },
+    {
+      "type": "choice",
+      "q": "Amb què va ajudar el cranc la gavina?",
+      "options": [
+        "Amb el bec",
+        "Amb la closca",
+        "Amb les pinces"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "Al principi, la gavina respectava molt el cranc.",
+      "answer": false
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

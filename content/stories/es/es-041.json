@@ -1,0 +1,55 @@
+{
+  "id": "es-041",
+  "lang": "es",
+  "title": "Un cohete de cartón",
+  "genre": "fantasia",
+  "level": 2,
+  "emoji": "🚀",
+  "text": "Aquella tarde de sábado llovía sin parar, y Martín y su vecina Zoe no sabían a qué jugar. Entonces encontraron en el trastero una caja enorme de cartón, la de la nevera nueva.\n\n—¡Vamos a construir un cohete! —propuso Zoe.\n\nPintaron la caja de plateado, le hicieron una ventana redonda y dibujaron botones de colores en el interior. Con un embudo hicieron la punta y, con dos rollos de papel de cocina, los motores.\n\nCuando se sentaron dentro, Martín pulsó el botón rojo, solo por diversión. Pero de repente el cohete empezó a temblar y a hacer un ruido de aspiradora gigante. Por la ventana vieron cómo el tejado de su edificio se hacía pequeño, después la ciudad y luego toda la Tierra, azul y brillante.\n\nAterrizaron suavemente en la Luna. Se pusieron unos cascos hechos con peceras de juguete y salieron a explorar. Allí todo pesaba muy poco: con un pequeño salto, llegaban altísimo. Recogieron una piedra gris para su colección y dejaron sus huellas en el polvo.\n\nDesde allí, la Tierra parecía una canica.\n\n—Deberíamos volver —dijo Zoe—. Mi madre dijo que la merienda estaría a las seis.\n\nMartín pulsó el botón verde y, en un abrir y cerrar de ojos, estaban otra vez en el trastero. ¿Había sido un sueño? Nadie lo supo nunca, pero en el bolsillo de Martín apareció una pequeña piedra gris.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿De dónde era la caja de cartón?",
+      "options": [
+        "De la nevera nueva",
+        "De una tienda de juguetes",
+        "Del colegio"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué botón pulsó Martín para volver?",
+      "options": [
+        "El rojo",
+        "El azul",
+        "El verde"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "En la Luna podían saltar muy alto.",
+      "answer": true
+    },
+    {
+      "type": "tf",
+      "q": "Martín y Zoe eran hermanos.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Qué hace pensar que el viaje quizá fue de verdad?",
+      "options": [
+        "Que llovía mucho",
+        "La piedra gris del bolsillo",
+        "Que la merienda era a las seis"
+      ],
+      "answer": 1
+    }
+  ],
+  "speedQuestions": [
+    0,
+    2
+  ]
+}

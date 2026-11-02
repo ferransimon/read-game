@@ -1,0 +1,55 @@
+{
+  "id": "ca-026",
+  "lang": "ca",
+  "title": "Una carta des del port",
+  "genre": "carta",
+  "level": 1,
+  "emoji": "✉️",
+  "text": "Estimat Pau:\n\nT'escric des del poble de l'avi Joan, que és al costat del mar. Cada matí anem al port a veure arribar les barques dels pescadors.\n\nAhir, l'avi em va ensenyar a fer un nus mariner. Al principi em sortia malament, però al final ho vaig aconseguir! També vaig veure com descarregaven les caixes de peix. Hi havia sardines, lluços i un pop molt gros.\n\nA la tarda ens banyem a la platja i fem castells de sorra. El meu és el més alt de tots.\n\nTornaré dissabte. Et portaré una petxina de color rosa.\n\nUna abraçada ben forta,\nMarina",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "On és el poble de l'avi Joan?",
+      "options": [
+        "Al costat del mar",
+        "A la muntanya",
+        "Al mig de la ciutat"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Què li va ensenyar l'avi a la Marina?",
+      "options": [
+        "A pescar amb canya",
+        "A fer un nus mariner",
+        "A nedar"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "tf",
+      "q": "Al principi, el nus mariner li sortia perfecte.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "Què li portarà la Marina al Pau?",
+      "options": [
+        "Un pop",
+        "Una sardina",
+        "Una petxina rosa"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "La Marina s'ho passa bé al poble de l'avi.",
+      "answer": true
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ca-046",
+  "lang": "ca",
+  "title": "Joves inventors a la fira de ciència",
+  "genre": "noticia",
+  "level": 2,
+  "emoji": "🔬",
+  "text": "Més de tres-cents alumnes de primària van participar dissabte passat a la Fira de Ciència Jove, que es va celebrar al pavelló municipal de Montcerdà. Durant tot el dia, nens i nenes de deu escoles diferents van presentar els seus experiments i invents al públic.\n\nUn dels projectes que va tenir més èxit va ser el d'en Pol i la Yasmina, de cinquè. Van inventar un sistema per regar les plantes de l'hort de l'escola sense malgastar aigua. «Hem posat un sensor a la terra que detecta quan està seca. Només aleshores s'obre l'aixeta», explica en Pol. Amb aquest invent, l'escola fa servir la meitat d'aigua que abans.\n\nTambé van cridar l'atenció un volcà que expulsava escuma de colors, un forn solar fet amb caixes de cartró i paper d'alumini, i un robot que separava taps de colors diferents.\n\nEl jurat, format per tres científiques de la universitat, va donar el primer premi a l'invent de reg. Els guanyadors podran visitar un laboratori de veritat el mes que ve.\n\n«El més important no és guanyar, sinó fer-se preguntes i provar coses noves», va dir una de les científiques del jurat. L'any que ve, l'organització espera que hi participin encara més escoles.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "On es va celebrar la fira?",
+      "options": [
+        "A la universitat",
+        "Al pavelló municipal",
+        "A l'escola d'en Pol"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Què feia l'invent d'en Pol i la Yasmina?",
+      "options": [
+        "Separava taps de colors",
+        "Cuinava amb la llum del sol",
+        "Regava les plantes sense malgastar aigua"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "El sensor obre l'aixeta quan la terra està mullada.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "Quin premi tindran els guanyadors?",
+      "options": [
+        "Visitar un laboratori de veritat",
+        "Un robot nou",
+        "Un viatge a la platja"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "tf",
+      "q": "Segons el jurat, provar coses noves és més important que guanyar.",
+      "answer": true
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}

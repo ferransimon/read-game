@@ -1,0 +1,55 @@
+{
+  "id": "es-008",
+  "lang": "es",
+  "title": "La nave de cartón",
+  "genre": "fantasia",
+  "level": 1,
+  "emoji": "🚀",
+  "text": "Leo y su hermana Aitana construyeron una nave con una caja de cartón. Le pintaron estrellas y le pusieron dos tapones como botones.\n\n—¡Tres, dos, uno, despegue! —gritó Leo.\n\nDe repente, la caja empezó a temblar. Salió por la ventana y subió hasta el cielo. Los niños vieron su casa cada vez más pequeña.\n\nLlegaron a la Luna en un momento. Allí saltaron muy alto, porque en la Luna se pesa muy poco. Aitana hizo una montaña con polvo gris y Leo dibujó una cara sonriente en el suelo.\n\nDespués vieron la Tierra a lo lejos, azul y redonda como una canica.\n\n—Hora de volver, que mamá ha hecho croquetas —dijo Aitana.\n\nPulsaron el tapón rojo y, en un abrir y cerrar de ojos, estaban otra vez en el salón.",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "¿Con qué construyeron la nave?",
+      "options": [
+        "Con una caja de cartón",
+        "Con sillas del salón",
+        "Con piezas de madera"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "¿A dónde viajaron los niños?",
+      "options": [
+        "A Marte",
+        "Al fondo del mar",
+        "A la Luna"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "tf",
+      "q": "En la Luna los niños saltaban muy alto.",
+      "answer": true
+    },
+    {
+      "type": "tf",
+      "q": "La Tierra parecía una pelota de fútbol vista desde lejos.",
+      "answer": false
+    },
+    {
+      "type": "choice",
+      "q": "¿Por qué quiso volver Aitana?",
+      "options": [
+        "Porque tenía miedo",
+        "Porque su madre había hecho croquetas",
+        "Porque se rompió la nave"
+      ],
+      "answer": 1
+    }
+  ],
+  "speedQuestions": [
+    0,
+    1
+  ]
+}
