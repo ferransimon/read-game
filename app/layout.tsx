@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Andika, Playpen_Sans } from "next/font/google";
 import { ServiceWorker } from "@/components/ServiceWorker";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 const school = Playpen_Sans({
@@ -34,6 +35,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <body className="min-h-full flex flex-col">
         {children}
         <ServiceWorker />
+        <Analytics />
       </body>
     </html>
   );
